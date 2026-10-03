@@ -1,0 +1,81 @@
+league,period,measure,label,unit,estimate,ci_low,ci_high,matches
+E0,pre,home_win,Victorias locales,%,46.0877862595,43.333172147,48.7829218487,1048
+E0,pre,points_diff,Puntos local − visitante por partido,puntos,0.458015267176,0.312788803318,0.60167024022,1048
+E0,pre,goal_diff,Goles local − visitante por partido,goles,0.333969465649,0.231507286347,0.434051883053,1048
+E0,pre,shots_diff,Remates local − visitante por partido,remates,2.72328244275,2.31016436851,3.17160139734,1048
+E0,pre,cards_diff,Amarillas visitante − local por partido,tarjetas,0.156488549618,0.0694424373796,0.243439906558,1048
+E0,pre,fouls_diff,Faltas visitante − local por partido,faltas,0.323473282443,0.0759798828125,0.572389725979,1048
+E0,pre,implied_B365,Prob. implícita de victoria local · Bet365,%,45.8241359497,44.6163785813,47.0529426834,288
+E0,pre,implied_PS,Prob. implícita de victoria local · Pinnacle,%,45.0186656929,44.3283692633,45.7258224769,1048
+E0,pre,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,-1.03246928305,-5.7050063853,3.62636264481,288
+E0,pre,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,1.06912056663,-1.5539248765,3.71167652956,1048
+E0,closed,home_win,Victorias locales,%,38.8206388206,35.277445424,42.2275943566,407
+E0,closed,points_diff,Puntos local − visitante por partido,puntos,-0.014742014742,-0.221676382156,0.176961341268,407
+E0,closed,goal_diff,Goles local − visitante por partido,goles,0.0540540540541,-0.100039503386,0.191332841031,407
+E0,closed,shots_diff,Remates local − visitante por partido,remates,1.13513513514,0.300953519542,1.97449238579,407
+E0,closed,cards_diff,Amarillas visitante − local por partido,tarjetas,-0.044226044226,-0.158441654796,0.0759177957269,407
+E0,closed,fouls_diff,Faltas visitante − local por partido,faltas,-0.577395577396,-0.994669970813,-0.183381560444,407
+E0,closed,implied_B365,Prob. implícita de victoria local · Bet365,%,41.777643342,40.6033521748,43.0073327863,407
+E0,closed,implied_PS,Prob. implícita de victoria local · Pinnacle,%,41.3324547304,40.1875419188,42.512475434,407
+E0,closed,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,-2.95700452137,-6.42815828633,0.204782579223,407
+E0,closed,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,-2.51181590973,-5.95434411148,0.608736329532,407
+E0,post,home_win,Victorias locales,%,44.5394736842,42.1052631579,47.0394736842,1520
+E0,post,points_diff,Puntos local − visitante por partido,puntos,0.363157894737,0.226924342105,0.507236842105,1520
+E0,post,goal_diff,Goles local − visitante por partido,goles,0.259210526316,0.161776315789,0.361858552632,1520
+E0,post,shots_diff,Remates local − visitante por partido,remates,2.39013157895,2.02171052632,2.79680921053,1520
+E0,post,cards_diff,Amarillas visitante − local por partido,tarjetas,0.232236842105,0.153930921053,0.309226973684,1520
+E0,post,fouls_diff,Faltas visitante − local por partido,faltas,0.381578947368,0.159177631579,0.594177631579,1520
+E0,post,implied_B365,Prob. implícita de victoria local · Bet365,%,44.8489653822,44.1924354715,45.5561557484,1520
+E0,post,implied_PS,Prob. implícita de victoria local · Pinnacle,%,44.6313460194,43.9800803607,45.3278643586,1520
+E0,post,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,-0.309491697993,-2.61707294498,2.02210168546,1520
+E0,post,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,-0.0918723351565,-2.3982488145,2.22219301154,1520
+E0,with_fans,home_win,Victorias locales,%,45.1713395639,43.3202449391,46.9758345083,2568
+E0,with_fans,points_diff,Puntos local − visitante por partido,puntos,0.401869158879,0.297432918612,0.502555448502,2568
+E0,with_fans,goal_diff,Goles local − visitante por partido,goles,0.289719626168,0.218208125213,0.361303357171,2568
+E0,with_fans,shots_diff,Remates local − visitante por partido,remates,2.52609034268,2.24374926552,2.8298765277,2568
+E0,with_fans,cards_diff,Amarillas visitante − local por partido,tarjetas,0.201323987539,0.141965370193,0.26049149404,2568
+E0,with_fans,fouls_diff,Faltas visitante − local por partido,faltas,0.357866043614,0.197865032733,0.520705503513,2568
+E0,with_fans,implied_B365,Prob. implícita de victoria local · Bet365,%,45.0043022868,44.4130982096,45.6295516161,1808
+E0,with_fans,implied_PS,Prob. implícita de victoria local · Pinnacle,%,44.7894110575,44.319751324,45.282580023,2568
+E0,with_fans,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,-0.424656269064,-2.50394555418,1.73045347525,1808
+E0,with_fans,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,0.381928506382,-1.41556088208,2.11288844755,2568
+SP1,pre,home_win,Victorias locales,%,46.2585034014,43.4615087539,49.1366407105,1029
+SP1,pre,points_diff,Puntos local − visitante por partido,puntos,0.565597667638,0.423707728676,0.710005586142,1029
+SP1,pre,goal_diff,Goles local − visitante por partido,goles,0.391642371234,0.298998982971,0.486134125841,1029
+SP1,pre,shots_diff,Remates local − visitante por partido,remates,3.14965986395,2.8103235807,3.47359953498,1029
+SP1,pre,cards_diff,Amarillas visitante − local por partido,tarjetas,0.218658892128,0.106511278767,0.324326197732,1029
+SP1,pre,fouls_diff,Faltas visitante − local por partido,faltas,0.10592808552,-0.237874364165,0.439062914898,1029
+SP1,pre,implied_B365,Prob. implícita de victoria local · Bet365,%,46.118184853,44.8478537755,47.3965720994,269
+SP1,pre,implied_PS,Prob. implícita de victoria local · Pinnacle,%,46.3112581694,45.7049762859,46.9103375996,1028
+SP1,pre,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,1.83720548155,-3.6880924825,7.25786760402,269
+SP1,pre,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,-0.0077562238897,-2.68982687298,2.7268582916,1028
+SP1,closed,home_win,Victorias locales,%,40.9766454352,37.9862256754,43.8800322329,471
+SP1,closed,points_diff,Puntos local − visitante por partido,puntos,0.324840764331,0.137399819079,0.5,471
+SP1,closed,goal_diff,Goles local − visitante por partido,goles,0.203821656051,0.0902883696337,0.30977285263,471
+SP1,closed,shots_diff,Remates local − visitante por partido,remates,1.33545647558,0.766089704028,1.96885837215,471
+SP1,closed,cards_diff,Amarillas visitante − local por partido,tarjetas,0.0169851380042,-0.161321850524,0.199262405148,471
+SP1,closed,fouls_diff,Faltas visitante − local por partido,faltas,-0.157112526539,-0.550936565633,0.240754923414,471
+SP1,closed,implied_B365,Prob. implícita de victoria local · Bet365,%,42.6536390974,41.4070560277,43.745886949,471
+SP1,closed,implied_PS,Prob. implícita de victoria local · Pinnacle,%,42.1962381544,40.9703590192,43.2718445728,471
+SP1,closed,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,-1.67699366213,-4.46756496257,1.07518237191,471
+SP1,closed,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,-1.21959271918,-4.02615362053,1.51281189912,471
+SP1,post,home_win,Victorias locales,%,45.3856749311,42.966042966,47.902641901,1452
+SP1,post,points_diff,Puntos local − visitante por partido,puntos,0.510330578512,0.38890290095,0.641553401051,1452
+SP1,post,goal_diff,Goles local − visitante por partido,goles,0.338842975207,0.259621286559,0.416728447954,1452
+SP1,post,shots_diff,Remates local − visitante por partido,remates,2.96418732782,2.61535306705,3.30185110181,1452
+SP1,post,cards_diff,Amarillas visitante − local por partido,tarjetas,0.176997245179,0.0715531951784,0.276375655345,1452
+SP1,post,fouls_diff,Faltas visitante − local por partido,faltas,-0.13085399449,-0.352080939267,0.0984077697801,1452
+SP1,post,implied_B365,Prob. implícita de victoria local · Bet365,%,45.2757211464,44.6937526616,45.8659488172,1452
+SP1,post,implied_PS,Prob. implícita de victoria local · Pinnacle,%,44.965410186,44.3791860748,45.5752755548,1452
+SP1,post,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,0.1099537847,-2.2740937925,2.63763456888,1452
+SP1,post,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,0.420264745165,-1.97027087247,2.96895696379,1452
+SP1,with_fans,home_win,Victorias locales,%,45.7476823861,43.9327283738,47.6671014387,2481
+SP1,with_fans,points_diff,Puntos local − visitante por partido,puntos,0.533252720677,0.443836733622,0.63048935721,2481
+SP1,with_fans,goal_diff,Goles local − visitante por partido,goles,0.360741636437,0.30329176723,0.417352643743,2481
+SP1,with_fans,shots_diff,Remates local − visitante por partido,remates,3.04111245466,2.80485930802,3.27359781541,2481
+SP1,with_fans,cards_diff,Amarillas visitante − local por partido,tarjetas,0.194276501411,0.117551118599,0.267709313214,2481
+SP1,with_fans,fouls_diff,Faltas visitante − local por partido,faltas,-0.0326481257557,-0.216074976195,0.15238944956,2481
+SP1,with_fans,implied_B365,Prob. implícita de victoria local · Bet365,%,45.4074019931,44.8402124769,45.9399631856,1721
+SP1,with_fans,implied_PS,Prob. implícita de victoria local · Pinnacle,%,45.5232858823,45.0812436275,45.9585196749,2480
+SP1,with_fans,gap_B365,Brecha victoria local observada − implícita · Bet365,pp,0.379930952889,-1.89463324965,2.66735075416,1721
+SP1,with_fans,gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,0.242843149928,-1.54122430312,2.10319476683,2480

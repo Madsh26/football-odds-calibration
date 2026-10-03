@@ -1,0 +1,11 @@
+contrast,measure,label,unit,estimate,ci_low,ci_high,p_boot,bootstrap_valid,p_holm
+Premier − LaLiga (efecto puerta cerrada),home_win,Victorias locales,%,-1.57966379233,-7.06008983281,3.592664128,0.542728635682,2000,1
+Premier − LaLiga (efecto puerta cerrada),points_diff,Puntos local − visitante por partido,puntos,-0.208199217275,-0.523190744201,0.0891357461458,0.178410794603,2000,1
+Premier − LaLiga (efecto puerta cerrada),goal_diff,Goles local − visitante por partido,goles,-0.0787455917282,-0.29319380042,0.12170737601,0.457771114443,2000,1
+Premier − LaLiga (efecto puerta cerrada),shots_diff,Remates local − visitante por partido,remates,0.314700771528,-0.783194949775,1.46451743414,0.582208895552,2000,1
+Premier − LaLiga (efecto puerta cerrada),cards_diff,Amarillas visitante − local por partido,tarjetas,-0.0682586683585,-0.313649358398,0.174911520353,0.566216891554,2000,1
+Premier − LaLiga (efecto puerta cerrada),fouls_diff,Faltas visitante − local por partido,faltas,-0.810797220226,-1.45829805163,-0.187068910588,0.0114942528736,2000,0.114942528736
+Premier − LaLiga (efecto puerta cerrada),implied_B365,Prob. implícita de victoria local · Bet365,%,-0.472896049054,-2.33394123928,1.45029410521,0.623688155922,2000,1
+Premier − LaLiga (efecto puerta cerrada),implied_PS,Prob. implícita de victoria local · Pinnacle,%,-0.129908599206,-1.87967433979,1.63532189155,0.891054472764,2000,1
+Premier − LaLiga (efecto puerta cerrada),gap_B365,Brecha victoria local observada − implícita · Bet365,pp,-0.475423637288,-5.8140253388,4.65434194589,0.854572713643,2000,1
+Premier − LaLiga (efecto puerta cerrada),gap_PS,Brecha victoria local observada − implícita · Pinnacle,pp,-1.431308547,-6.42577709257,3.32336698413,0.584207896052,2000,1

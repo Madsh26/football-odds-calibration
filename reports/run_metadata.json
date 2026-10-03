@@ -1,0 +1,99 @@
+{
+  "python": "3.14.3",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "scipy": "1.18.1",
+  "config": {
+    "leagues": {
+      "E0": "Premier League",
+      "SP1": "LaLiga"
+    },
+    "seasons": [
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "operators": {
+      "B365": "Bet365",
+      "PS": "Pinnacle"
+    },
+    "methods": [
+      "proportional",
+      "power",
+      "additive",
+      "shin"
+    ],
+    "seed": 20261001,
+    "bootstrap_reps": 2000,
+    "block_size": 20,
+    "block_sensitivity": [
+      1,
+      10,
+      40
+    ],
+    "bins": 10,
+    "bin_sensitivity": [
+      5,
+      15,
+      20
+    ],
+    "low_threshold": 0.2,
+    "high_threshold": 0.6,
+    "threshold_sensitivity": [
+      0.15,
+      0.65
+    ],
+    "margin_alert_pp": 20,
+    "covid": {
+      "seasons": [
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "pre_end": "2020-03-09",
+      "closed_end": "2021-07-31",
+      "limited_attendance": {
+        "E0": [
+          [
+            "2020-12-02",
+            "2020-12-26"
+          ],
+          [
+            "2021-05-18",
+            "2021-05-23"
+          ]
+        ],
+        "SP1": [
+          [
+            "2021-05-16",
+            "2021-05-23"
+          ]
+        ]
+      },
+      "partial_attendance": {
+        "SP1": [
+          "2021-08-01",
+          "2021-09-30"
+        ]
+      },
+      "method": "power",
+      "methods": [
+        "power",
+        "proportional"
+      ],
+      "optional_seasons": [
+        "2017-18",
+        "2018-19"
+      ]
+    }
+  },
+  "matches": 2280,
+  "records": 4560,
+  "covid_matches": 6080,
+  "elapsed_seconds": 227.01
+}

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.zip
+*.pptx
+data/raw/*.csv
+data/raw_covid/*.csv
+data/downloads.json
+.env
+.env.*
+*BITACORA*
+*bitacora*
