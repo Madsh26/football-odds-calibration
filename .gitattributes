@@ -4,3 +4,8 @@
 *.yml text eol=lf
 *.csv text eol=lf
 *.png binary
+reports/*.html linguist-generated=true
+reports/figures/* linguist-generated=true
+reports/tables/* linguist-generated=true
+reports/findings.md linguist-generated=true
+data/processed/* linguist-generated=true

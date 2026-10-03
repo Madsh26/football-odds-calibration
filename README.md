@@ -1,5 +1,7 @@
 # Football Odds Calibration
 
+[![Numerical checks](https://github.com/Madsh26/football-odds-calibration/actions/workflows/tests.yml/badge.svg)](https://github.com/Madsh26/football-odds-calibration/actions/workflows/tests.yml)
+
 **Auditoría de probabilidades de cierre y ventaja de local en Premier League y LaLiga.**
 
 Proyecto de análisis de datos que evalúa la calidad de los pronósticos de Bet365 y Pinnacle, la sensibilidad al retirar el margen y los cambios de ventaja de local durante la pandemia. Incluye validación de datos, comparaciones apareadas, incertidumbre temporal y un reporte reproducible.
