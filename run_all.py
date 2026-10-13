@@ -16,6 +16,8 @@ from src.data import load_data
 from src.analysis import analyze
 from src.report import build_report
 from src.covid import load_covid, analyze_covid
+from src.robustness import calibration_robustness, covid_robustness, hypothesis_inventory
+from src.robustness_plots import robustness_plots
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
@@ -34,13 +36,19 @@ def main():
     coverage.to_csv(root/'reports/tables/coverage.csv',index=False);excluded.to_csv(root/'reports/tables/exclusions.csv',index=False)
     print(f'{len(matches)} matches; {len(base)} operator records. Running block bootstrap...',flush=True)
     tables=analyze(root,cfg,matches,y,cubes,params)
-    print('Home advantage: home crowd and COVID-19 (2017/18-2024/25)...',flush=True)
+    print('Secondary question 3: home crowd and COVID-19 (2017/18-2024/25)...',flush=True)
     covid_matches,covid_manifest,covid_coverage=load_covid(root,cfg)
     covid_manifest.to_csv(root/'data/covid_source_manifest.csv',index=False)
     covid_coverage.to_csv(root/'reports/tables/covid_coverage.csv',index=False)
     covid_tables=analyze_covid(root,cfg,covid_matches)
     print('Generating charts and results report...',flush=True)
     build_report(root,cfg,matches,y,cubes,params,tables,covid_tables)
+    print('Robustness checks requested by the academic review...',flush=True)
+    rob=calibration_robustness(cfg,matches,y,cubes,params); rob.update(covid_robustness(cfg,covid_matches))
+    for name,df in rob.items(): df.to_csv(root/'reports/tables'/f'{name}.csv',index=False,float_format='%.12g')
+    inv,fam=hypothesis_inventory(root/'reports/tables')
+    inv.to_csv(root/'reports/tables/inventario_hipotesis.csv',index=False,float_format='%.12g'); fam.to_csv(root/'reports/tables/familias_holm.csv',index=False,float_format='%.12g')
+    robustness_plots(root,cfg,rob)
     metadata=dict(python=platform.python_version(),numpy=np.__version__,pandas=pd.__version__,scipy=scipy.__version__,config=cfg,
                   matches=len(matches),records=len(base),covid_matches=len(covid_matches),elapsed_seconds=round(time.perf_counter()-start,2))
     (root/'reports/run_metadata.json').write_text(json.dumps(metadata,indent=2),encoding='utf-8')

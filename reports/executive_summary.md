@@ -29,3 +29,9 @@ El diseño es observacional: asistencia, calendario, viajes y descansos cambiaro
 ## Validación y reproducción
 
 Las tablas, gráficos y reporte completo se generan desde el flujo de análisis. Las pruebas verifican métodos numéricos, integridad de datos, coherencia de puntuaciones y exportaciones. La configuración final utiliza 2.000 réplicas por bloques de 20 partidos; la documentación detalla fuentes, cobertura y sensibilidad.
+
+## Revisión final presentada en clase
+
+El inventario incorpora 988 hipótesis en 50 familias. La revisión distingue equivalencia, diferencia e indeterminación. Las pendientes con potencia en Premier son equivalentes a cero dentro de ±1; LaLiga queda no concluyente. Las casas son equivalentes en RPS dentro de ±0,002. Entre ligas y temporadas no se demuestra equivalencia. Los márgenes se definieron después de revisar las estimaciones y estas comprobaciones se presentan como exploratorias. Placebo, sustituciones, aforo y dependencia entre equipos respaldan la asociación en Premier sin identificar causalidad exclusiva.
+
+[Informe final de clase](../docs/informe_tecnico.pdf) · [Tabla de equivalencia](tables/robust_equivalencia.csv).

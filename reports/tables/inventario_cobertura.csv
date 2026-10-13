@@ -1,0 +1,45 @@
+analisis,liga,temporada,casa,partidos_en_archivo,con_cuota_de_cierre,elegibles,excluidos,cobertura_pct,motivo_exclusion
+Calibración (principal y secundarias 1 y 2),Premier League,2022/23,Bet365,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),Premier League,2022/23,Pinnacle,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),Premier League,2023/24,Bet365,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),Premier League,2023/24,Pinnacle,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),Premier League,2024/25,Bet365,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),Premier League,2024/25,Pinnacle,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),LaLiga,2022/23,Bet365,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),LaLiga,2022/23,Pinnacle,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),LaLiga,2023/24,Bet365,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),LaLiga,2023/24,Pinnacle,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),LaLiga,2024/25,Bet365,380,380,380,0,100,—
+Calibración (principal y secundarias 1 y 2),LaLiga,2024/25,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2017/18,Bet365,380,0,0,380,0,Football-Data no publica cuotas de cierre de Bet365 antes de 2019/20; se usan solo para medidas deportivas
+Secundaria 3 · público local,Premier League,2017/18,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2018/19,Bet365,380,0,0,380,0,Football-Data no publica cuotas de cierre de Bet365 antes de 2019/20; se usan solo para medidas deportivas
+Secundaria 3 · público local,Premier League,2018/19,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2019/20,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2019/20,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2020/21,Bet365,380,380,380,0,100,"65 partido(s) con aforo mínimo o parcial: fuera del contraste principal, incluidos en la sensibilidad"
+Secundaria 3 · público local,Premier League,2020/21,Pinnacle,380,380,380,0,100,"65 partido(s) con aforo mínimo o parcial: fuera del contraste principal, incluidos en la sensibilidad"
+Secundaria 3 · público local,Premier League,2021/22,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2021/22,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2022/23,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2022/23,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2023/24,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2023/24,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2024/25,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,Premier League,2024/25,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2017/18,Bet365,380,0,0,380,0,Football-Data no publica cuotas de cierre de Bet365 antes de 2019/20; se usan solo para medidas deportivas
+Secundaria 3 · público local,LaLiga,2017/18,Pinnacle,380,379,379,1,99.7368,1 partido(s) sin cuota de cierre válida; se excluyen solo de las medidas de mercado
+Secundaria 3 · público local,LaLiga,2018/19,Bet365,380,0,0,380,0,Football-Data no publica cuotas de cierre de Bet365 antes de 2019/20; se usan solo para medidas deportivas
+Secundaria 3 · público local,LaLiga,2018/19,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2019/20,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2019/20,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2020/21,Bet365,380,380,380,0,100,"20 partido(s) con aforo mínimo o parcial: fuera del contraste principal, incluidos en la sensibilidad"
+Secundaria 3 · público local,LaLiga,2020/21,Pinnacle,380,380,380,0,100,"20 partido(s) con aforo mínimo o parcial: fuera del contraste principal, incluidos en la sensibilidad"
+Secundaria 3 · público local,LaLiga,2021/22,Bet365,380,380,380,0,100,"68 partido(s) con aforo mínimo o parcial: fuera del contraste principal, incluidos en la sensibilidad"
+Secundaria 3 · público local,LaLiga,2021/22,Pinnacle,380,380,380,0,100,"68 partido(s) con aforo mínimo o parcial: fuera del contraste principal, incluidos en la sensibilidad"
+Secundaria 3 · público local,LaLiga,2022/23,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2022/23,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2023/24,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2023/24,Pinnacle,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2024/25,Bet365,380,380,380,0,100,—
+Secundaria 3 · público local,LaLiga,2024/25,Pinnacle,380,380,380,0,100,—

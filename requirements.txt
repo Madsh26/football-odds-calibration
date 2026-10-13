@@ -2,3 +2,4 @@ numpy>=2.0,<3
 pandas>=2.2,<4
 scipy>=1.14,<2
 matplotlib>=3.9,<4
+openpyxl>=3.1,<4  # solo para abrir verificacion/verificacion_manual.xlsx desde Python (opcional)

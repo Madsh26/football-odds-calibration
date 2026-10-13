@@ -1,0 +1,51 @@
+family,role,hypotheses,p_raw_min,significant_raw,significant_holm
+P1 · Pendiente del error (2022/23–2024/25),Principal,16,0.00649675162419,4,0
+E · Pendiente por temporada,Exploratoria,48,0.0214892553723,2,0
+P2 · Contraste de extremos 20/60,Principal (complementaria),16,0.0204897551224,3,0
+E · Contraste de extremos por temporada,Exploratoria,48,0.0569715142429,0,0
+P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),12,0.000499750124938,12,12
+P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),12,0.000499750124938,12,12
+E · Método − proporcional por temporada,Exploratoria,72,0.000499750124938,72,72
+S1c · Pinnacle − Bet365 (rps),Secundaria (casas),8,0.231384307846,0,0
+S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),8,0.000499750124938,4,2
+S1c · Pinnacle − Bet365 (margin_pp),Secundaria (casas),2,0.000499750124938,2,2
+E · Casas por temporada,Exploratoria,54,0.000499750124938,18,15
+S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),8,0.263368315842,0,0
+S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),8,0.166416791604,0,0
+S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),8,0.333333333333,0,0
+E · Ligas por temporada,Exploratoria,72,0.204897551224,0,0
+S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),32,0.116941529235,0,0
+S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),32,0.279860069965,0,0
+S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),32,0.0474762618691,5,0
+R · Umbrales del contraste (fixed_15_65),Sensibilidad,16,0.000499750124938,8,5
+R · Umbrales del contraste (method_specific_20_60),Sensibilidad,16,0.0204897551224,3,0
+R · Pendiente con bloque 1,Sensibilidad,16,0.00149925037481,7,1
+R · Pendiente con bloque 10,Sensibilidad,16,0.00499750124938,4,0
+R · Pendiente con bloque 40,Sensibilidad,16,0.00499750124938,4,0
+R · Pendiente con bloque 20,Sensibilidad,16,0.00649675162419,4,0
+S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,10,0.000499750124938,8,8
+S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,10,0.000499750124938,8,7
+S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,10,0.000499750124938,8,8
+S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),10,0.000499750124938,8,8
+S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,10,0.183408295852,0,0
+S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,10,0.000499750124938,6,3
+S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,10,0.000499750124938,5,3
+S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,10,0.000499750124938,6,3
+S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),10,0.000499750124938,6,3
+S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,10,0.00449775112444,1,1
+S3 · Ajustado por fuerza,Secundaria 3 (público local),6,0.000499750124938,4,3
+S3 · Premier − LaLiga,Secundaria 3 (público local),10,0.0114942528736,1,0
+R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,25,0.459770114943,0,0
+R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,25,0.0674662668666,0,0
+R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,25,0.481259370315,0,0
+R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,25,0.2003998001,0,0
+R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,25,0.00249875062469,9,0
+R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,25,0.000499750124938,25,7
+R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,25,0.0129935032484,7,0
+R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,25,0.00149925037481,21,1
+R · Potencia − otros métodos (log_loss),Sensibilidad,12,0.0219890054973,1,0
+R · Potencia − otros métodos (rps),Sensibilidad,12,0.007996001999,4,0
+R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),16,0.168915542229,0,0
+R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),16,0.418790604698,0,0
+R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),16,0.160419790105,0,0
+R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),16,0.463768115942,0,0

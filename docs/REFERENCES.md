@@ -8,11 +8,3 @@
 - Spiegelhalter, D. J. (1986). *Probabilistic Prediction in Patient Management and Clinical Trials*. Statistics in Medicine, 5(5), 421–433. Diagnóstico complementario de pronósticos probabilísticos.
 
 Las fórmulas implementadas y limitaciones se describen íntegramente en METHODOLOGY.md. No se incluyen instrucciones de apuestas de los sitios de origen en los flujos del proyecto.
-
-## Público local y pandemia
-
-Referencias de contexto suministradas con la presentación; los efectos de este repositorio se calculan en su propia muestra y no se atribuyen a estos estudios.
-
-- McCarrick, D., Bilalic, M., Neave, N. y Wolfson, S. (2021). *Home advantage during the COVID-19 pandemic: Analyses of European football leagues*. Psychology of Sport and Exercise, 56, 102013.
-- Bryson, A., Dolton, P., Reade, J. J., Schreyer, D. y Singleton, C. (2021). *Causal effects of an absent crowd on performances and refereeing decisions during Covid-19*. Economics Letters, 198, 109664.
-- Winkelmann, D., Deutscher, C. y Ötting, M. (2021). *Bookmakers' mispricing of the disappeared home advantage in the German Bundesliga after the COVID-19 break*. Applied Economics, 53(26), 3054–3064.

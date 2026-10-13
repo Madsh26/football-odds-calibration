@@ -18,7 +18,7 @@ def load_data(root,cfg):
             if file.name in expected_hashes and digest != expected_hashes[file.name]:
                 raise ValueError(f'{file.name}: SHA-256 differs from the delivered snapshot; document the new version before updating source_snapshot.csv')
             provenance.append(dict(file=file.name,sha256=hashlib.sha256(file.read_bytes()).hexdigest(),bytes=file.stat().st_size,
-                source_url=f'https://www.football-data.co.uk/mmz4281/{season[2:4]}{season[-2:]}/{league}.csv',download_date='unknown',
+                source_url=f'https://www.football-data.co.uk/mmz4281/{season[2:4]}{season[-2:]}/{league}.csv',download_date=cfg.get('provenance',{}).get('raw',{}).get('obtained','unknown'),date_basis=cfg.get('provenance',{}).get('raw',{}).get('basis',''),
                 provenance='local copy supplied by collaborator; URL inferred from league/season, not independently authenticated'))
             d['source_row']=np.arange(len(d))+2
             required=['Div','Date','HomeTeam','AwayTeam','FTHG','FTAG','FTR']

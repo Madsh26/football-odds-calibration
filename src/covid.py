@@ -1,4 +1,4 @@
-"""Público local y pandemia: ¿influía el público local en los resultados?
+"""Pregunta secundaria 3: ¿influía el público local en los resultados?
 
 Experimento natural de la pandemia: partidos a puerta cerrada frente a partidos
 con público, en Premier League (E0) y LaLiga (SP1), temporadas 2017/18–2024/25.
@@ -58,7 +58,10 @@ def load_covid(root, cfg):
                     continue
                 raise FileNotFoundError(f'{file}: falta el archivo de la temporada {season}')
             d = pd.read_csv(file, encoding='utf-8-sig', dtype=str)
-            manifest.append(dict(file=f'{folder}/{file.name}', sha256=hashlib.sha256(file.read_bytes()).hexdigest(), bytes=file.stat().st_size))
+            manifest.append(dict(file=f'{folder}/{file.name}', sha256=hashlib.sha256(file.read_bytes()).hexdigest(), bytes=file.stat().st_size,
+                                 source_url=f'https://www.football-data.co.uk/mmz4281/{season[2:4]}{season[-2:]}/{league}.csv',
+                                 obtained=cfg.get('provenance', {}).get(folder, {}).get('obtained', 'unknown'), date_basis=cfg.get('provenance', {}).get(folder, {}).get('basis', ''),
+                                 provenance='copia local entregada por el equipo; URL deducida de liga y temporada'))
             dates = pd.to_datetime(d.Date, format='%d/%m/%Y', errors='coerce').fillna(pd.to_datetime(d.Date, format='%d/%m/%y', errors='coerce'))
             num = {k: pd.to_numeric(d[k], errors='coerce') for k in ['FTHG', 'FTAG', 'HS', 'AS', 'HF', 'AF', 'HY', 'AY']}
             expected = np.where(num['FTHG'] > num['FTAG'], 'H', np.where(num['FTHG'] < num['FTAG'], 'A', 'D'))

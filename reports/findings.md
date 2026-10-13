@@ -2,13 +2,13 @@
 
 ## Respuestas en breve
 
-**Calibración y sesgo favorito–longshot.** Las cuotas de cierre muestran desviaciones promedio moderadas: con potencia, el error medio por resultado (ECE) va de 2,59 a 2,98 pp y el mercado mejora el RPS de la frecuencia histórica entre 16,1 % y 18,1 %. Ninguna de las 16 pendientes del error es significativa tras Holm (0 de 16). La evidencia de sesgo favorito–longshot sí depende del método: con proporcional, 2 de 4 pendientes tienen IC por encima de cero (LaLiga), y pasar a potencia reduce el contraste favorito − improbable entre 1,88 y 3,47 pp. Ese cambio es mecánico del ajuste: no identifica cómo reparte el margen la casa.
+**Principal · calibración y sesgo favorito–longshot.** Las desviaciones de calibración observadas son moderadas: con potencia, el error medio por resultado (ECE) va de 2,59 a 2,98 pp y el mercado mejora el RPS de la frecuencia histórica entre 16,1 % y 18,1 %. Ninguna de las 16 pendientes del error es significativa tras Holm (0 de 16). La evidencia de sesgo favorito–longshot sí depende del método: con proporcional, 2 de 4 pendientes tienen IC por encima de cero (LaLiga), y pasar a potencia reduce el contraste favorito − improbable entre 1,88 y 3,47 pp. Ese cambio es mecánico del ajuste: no identifica cómo reparte el margen la casa.
 
-**Comparación entre ligas.** LaLiga muestra pendientes del error mayores que la Premier en las 8 combinaciones de casa y método, pero ninguna de las 24 diferencias entre ligas (pendiente, extremos y habilidad RPS) es significativa tras Holm (0 de 24). Bet365 y Pinnacle dan el mismo patrón: 0 de 8 diferencias de RPS entre casas son significativas.
+**Secundaria 1 · Premier frente a LaLiga.** LaLiga muestra pendientes del error mayores que la Premier en las 8 combinaciones de casa y método, pero ninguna de las 24 diferencias entre ligas (pendiente, extremos y habilidad RPS) es significativa tras Holm (0 de 24). Bet365 y Pinnacle dan el mismo patrón: 0 de 8 diferencias de RPS entre casas son significativas.
 
-**Comparación entre temporadas.** No se detectan cambios concluyentes entre las tres temporadas: 0 de 96 contrastes entre temporadas consecutivas son significativos tras Holm, y la conclusión es la misma con los cuatro métodos. Tres temporadas describen estabilidad reciente, no una tendencia de largo plazo.
+**Secundaria 2 · entre temporadas.** No se detectan cambios concluyentes entre temporadas: 0 de 96 contrastes entre temporadas consecutivas son significativos tras Holm, y la conclusión es la misma con los cuatro métodos. No detectar cambios no demuestra estabilidad ni equivalencia entre temporadas.
 
-**Público local y pandemia.** Durante el periodo sin público, la ventaja de local en la Premier pasó de 0,40 a -0,01 puntos por partido (p ajustado 0,005): quedó prácticamente en cero. En LaLiga bajó de 0,53 a 0,32 (cerca del 39 %); la caída es consistente en todas las medidas, pero solo en goles ajustados por fuerza y en remates supera el control de comparaciones múltiples (goles: p ajustado 0,022). El mercado bajó la probabilidad del local unos 3 pp y no se detectó un cambio concluyente en la brecha de victoria local observada frente a la prevista.
+**Secundaria 3 · público local (COVID-19).** Sí. Sin público, la ventaja de local en la Premier pasó de 0,40 a -0,01 puntos por partido (p ajustado 0,005): desapareció. En LaLiga bajó de 0,53 a 0,32 (cerca del 39 %); la caída es consistente en todas las medidas, pero solo en goles ajustados por fuerza y en remates supera el control de comparaciones múltiples (goles: p ajustado 0,022). El mercado bajó la probabilidad del local unos 3 pp; la brecha agregada no es concluyente, sin demostrar calibración perfecta.
 
 ## Detalle
 
@@ -38,21 +38,21 @@ Entre casas, 0 de 8 diferencias apareadas de RPS alcanzan p ajustado <0,05. No s
 
 Comparación entre ligas: 0 de 8 contrastes de pendiente del error alcanzan p ajustado <0,05. No se interpreta ausencia de significancia como equivalencia.
 
-Comparaciones entre temporadas consecutivas: 0 de 32 contrastes de pendiente del error alcanzan p ajustado <0,05. Tres temporadas describen estabilidad reciente, no una tendencia de largo plazo.
+Comparaciones entre temporadas consecutivas: 0 de 32 contrastes de pendiente del error alcanzan p ajustado <0,05. No detectar cambios no demuestra estabilidad ni equivalencia entre temporadas.
 
 Comparación entre ligas: 0 de 8 contrastes de contraste favorito − improbable alcanzan p ajustado <0,05. No se interpreta ausencia de significancia como equivalencia.
 
-Comparaciones entre temporadas consecutivas: 0 de 32 contrastes de contraste favorito − improbable alcanzan p ajustado <0,05. Tres temporadas describen estabilidad reciente, no una tendencia de largo plazo.
+Comparaciones entre temporadas consecutivas: 0 de 32 contrastes de contraste favorito − improbable alcanzan p ajustado <0,05. No detectar cambios no demuestra estabilidad ni equivalencia entre temporadas.
 
 Comparación entre ligas: 0 de 8 contrastes de habilidad relativa de RPS alcanzan p ajustado <0,05. No se interpreta ausencia de significancia como equivalencia.
 
-Comparaciones entre temporadas consecutivas: 0 de 32 contrastes de habilidad relativa de RPS alcanzan p ajustado <0,05. Tres temporadas describen estabilidad reciente, no una tendencia de largo plazo.
+Comparaciones entre temporadas consecutivas: 0 de 32 contrastes de habilidad relativa de RPS alcanzan p ajustado <0,05. No detectar cambios no demuestra estabilidad ni equivalencia entre temporadas.
 
 El reparto real del margen no está observado: estos resultados cuantifican sensibilidad a supuestos y no identifican el mecanismo interno de los operadores. Una diferencia de puntuación no equivale a una diferencia de calibración ni permite concluir rentabilidad.
 
 En el efecto directo de método con grupos fijos, el resultado observado se cancela algebraicamente. Su intervalo estrecho mide variación en el ajuste de probabilidades entre partidos; no demuestra por sí solo que exista sesgo real ni que potencia sea el método verdadero.
 
-## Público local y pandemia
+## Pregunta secundaria 3 · Público local (COVID-19)
 
 Premier League: con público, el local sumaba 0.40 puntos más que el visitante por partido; a puerta cerrada, -0.01. Cambio -0.42 puntos (IC -0.65 a -0.20; p ajustado 0.005); victorias locales -6.4 pp (IC -10.3 a -2.6; p ajustado 0.007). Desapareció el 104 % de la ventaja en puntos (IC 54 a 156 %; más de 100 % indica que el local quedó levemente por debajo del visitante).
 
@@ -70,6 +70,6 @@ LaLiga: la diferencia de amarillas en contra del visitante cambió -0.18 por par
 
 LaLiga: Pinnacle redujo la probabilidad implícita del local en 3.3 pp (p ajustado 0.005); la brecha observada − implícita cambió -1.5 pp (IC -4.8 a 1.8; p ajustado 0.801).
 
-Entre ligas, 0 de 10 diferencias del efecto (Premier − LaLiga) alcanzan p ajustado <0,05: el efecto estimado es mayor en la Premier, pero la diferencia no es concluyente.
+Entre ligas, 0 de 10 diferencias del efecto (Premier − LaLiga) alcanzan p ajustado <0,05: el efecto es mayor en la Premier, pero la diferencia no es concluyente.
 
 Véase index.html y las tablas CSV para intervalos, ajustes y sensibilidad.

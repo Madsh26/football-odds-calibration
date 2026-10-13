@@ -15,6 +15,7 @@ Proyecto de análisis de datos que evalúa la calidad de los pronósticos de Bet
 | Calibración, 2022/23–2024/25 | ECE medio por resultado de 2,59–2,98 pp con potencia | Desviaciones promedio moderadas; dependen del agrupamiento |
 | Calidad de pronósticos | Mejora de RPS del 16,1–18,1 % frente a frecuencias históricas | Mayor calidad global; no demuestra rentabilidad |
 | Sesgo favorito–longshot | 0 de 16 pendientes significativas tras Holm | Evidencia insuficiente para afirmar sesgo sistemático en estos contrastes |
+| Robustez y equivalencia | 988 hipótesis en 50 familias; Premier equivalente a cero con potencia dentro del margen declarado | LaLiga no concluyente; casas equivalentes en RPS dentro de ±0,002. Revisión exploratoria |
 | Ligas y temporadas | 0 de 24 y 0 de 96 contrastes significativos, respectivamente | No se detectan diferencias concluyentes; no prueba equivalencia |
 | Público local, 2017/18–2024/25 | Premier: ventaja en puntos de 0,40 a −0,01; LaLiga: de 0,53 a 0,32 | La caída en puntos es concluyente en Premier; en LaLiga el respaldo más claro está en remates y goles ajustados |
 
@@ -27,7 +28,17 @@ La comparación de público usa los periodos anterior y posterior agrupados fren
 - [Hallazgos calculados](reports/findings.md): resultados generados desde las tablas.
 - [Metodología](docs/METHODOLOGY.md), [diccionario](docs/DATA_DICTIONARY.md) y [referencias](docs/REFERENCES.md).
 
-GitHub muestra el código del HTML. Para leerlo con formato, clone o descargue el repositorio y abra `reports/index.html`.
+[Leer el reporte en el portafolio](https://madsh26.github.io/reportes/football/index.html). También puedo abrir `reports/index.html` junto a sus carpetas de figuras y tablas.
+
+## Entrega final de clase
+
+El código y los resultados incluyen la revisión presentada en Estadística Industrial: [informe técnico](docs/informe_tecnico.pdf), [presentación](docs/presentacion_clase.pptx) y [registro de correspondencia](docs/class_delivery_audit.json). Mantengo la autoría conjunta de Mauricio Serrano, Andrés Beleño y Carlos Cadena.
+
+La revisión añade sensibilidad por semanas y equipos, pruebas de equivalencia, potencia detectable, simulación de ECE bajo calibración perfecta y controles de público local (placebo, aforo y sustituciones). El [inventario de hipótesis](reports/tables/inventario_hipotesis.csv) permite consultar cada familia y cada contraste.
+
+No detectar diferencias no demuestra estabilidad. Las casas son equivalentes en RPS dentro del margen declarado; la comparación entre ligas y temporadas sigue sin resolver diferencia ni equivalencia. Los márgenes de equivalencia y parte de la revisión se definieron después de ver las estimaciones: los presento como exploratorios. Tampoco interpreto una asociación observacional como efecto causal exclusivo del público.
+
+Los resultados numéricos se importaron de la entrega local final; no reejecuté el análisis completo para esta actualización. Las rutas se adaptan a `reports/` y `data/processed/`, y los originales CSV permanecen excluidos de Git. Para revisar por etapas incluyo `pasos/`; la verificación manual está en `verificacion/`.
 
 ## Datos y alcance
 
@@ -38,7 +49,7 @@ Football-Data.co.uk; dos ligas, dos operadores y cuatro métodos de remoción de
 - Bet365 carece de cuotas de cierre en los archivos anteriores a 2019/20. Pinnacle tiene un partido histórico sin cuota válida. No se imputan cuotas.
 - Validaciones: fechas, resultados coherentes con goles, duplicados, 380 partidos por temporada, 20 clubes, 38 apariciones por club y cuotas elegibles.
 
-Los originales recibidos localmente se identifican mediante SHA-256. Su fecha original de descarga es desconocida y se declara como tal. Una descarga posterior puede diferir del snapshot entregado: el flujo detecta esa diferencia. Consulte [procedencia y reproducción](data/README.md).
+Los originales recibidos localmente se identifican mediante SHA-256. La fecha exacta de descarga es desconocida; las referencias locales recibidas distinguen la fecha y su fundamento. Una descarga posterior puede diferir del snapshot entregado: el flujo detecta esa diferencia. Consulte [procedencia y reproducción](data/README.md).
 
 ## Reproducir
 

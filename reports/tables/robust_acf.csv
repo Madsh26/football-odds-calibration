@@ -1,0 +1,961 @@
+league,season,operator,series,lag,acf
+E0,2022-23,B365,influencia de la pendiente,1,0.0201340659447
+E0,2022-23,B365,influencia de la pendiente,2,0.0345470851628
+E0,2022-23,B365,influencia de la pendiente,3,-0.000338394109997
+E0,2022-23,B365,influencia de la pendiente,4,0.0125847333332
+E0,2022-23,B365,influencia de la pendiente,5,0.0319732947697
+E0,2022-23,B365,influencia de la pendiente,6,-0.0196461094512
+E0,2022-23,B365,influencia de la pendiente,7,0.00983471936456
+E0,2022-23,B365,influencia de la pendiente,8,-0.0734500134639
+E0,2022-23,B365,influencia de la pendiente,9,0.00441046239072
+E0,2022-23,B365,influencia de la pendiente,10,-0.0751505467651
+E0,2022-23,B365,influencia de la pendiente,11,-0.0300494673948
+E0,2022-23,B365,influencia de la pendiente,12,0.00988678956082
+E0,2022-23,B365,influencia de la pendiente,13,0.034556824475
+E0,2022-23,B365,influencia de la pendiente,14,-0.0668739893337
+E0,2022-23,B365,influencia de la pendiente,15,-0.048781300405
+E0,2022-23,B365,influencia de la pendiente,16,0.0235768088756
+E0,2022-23,B365,influencia de la pendiente,17,-0.0421163586335
+E0,2022-23,B365,influencia de la pendiente,18,0.0206492135477
+E0,2022-23,B365,influencia de la pendiente,19,-0.0255327236241
+E0,2022-23,B365,influencia de la pendiente,20,-0.0379748970435
+E0,2022-23,B365,influencia de la pendiente,21,-0.0244504055399
+E0,2022-23,B365,influencia de la pendiente,22,-0.0346479679376
+E0,2022-23,B365,influencia de la pendiente,23,0.079335460276
+E0,2022-23,B365,influencia de la pendiente,24,0.0539927156593
+E0,2022-23,B365,influencia de la pendiente,25,0.0235553126142
+E0,2022-23,B365,influencia de la pendiente,26,0.0726828297969
+E0,2022-23,B365,influencia de la pendiente,27,0.0019129992869
+E0,2022-23,B365,influencia de la pendiente,28,-0.0299272288335
+E0,2022-23,B365,influencia de la pendiente,29,-0.00309910019465
+E0,2022-23,B365,influencia de la pendiente,30,-0.0936952883821
+E0,2022-23,B365,influencia de la pendiente,31,-0.00908047802242
+E0,2022-23,B365,influencia de la pendiente,32,-0.103930315819
+E0,2022-23,B365,influencia de la pendiente,33,-0.0979811899983
+E0,2022-23,B365,influencia de la pendiente,34,-0.0260702450377
+E0,2022-23,B365,influencia de la pendiente,35,0.0854695975981
+E0,2022-23,B365,influencia de la pendiente,36,-0.0462171853003
+E0,2022-23,B365,influencia de la pendiente,37,-0.138326125536
+E0,2022-23,B365,influencia de la pendiente,38,0.0685379454934
+E0,2022-23,B365,influencia de la pendiente,39,-0.0468846165046
+E0,2022-23,B365,influencia de la pendiente,40,-0.0148589282215
+E0,2022-23,B365,RPS por partido,1,0.0411936881897
+E0,2022-23,B365,RPS por partido,2,0.00509781328886
+E0,2022-23,B365,RPS por partido,3,-0.0194639888557
+E0,2022-23,B365,RPS por partido,4,0.0751886965366
+E0,2022-23,B365,RPS por partido,5,0.0580028394744
+E0,2022-23,B365,RPS por partido,6,-0.0913565956096
+E0,2022-23,B365,RPS por partido,7,-0.032168324284
+E0,2022-23,B365,RPS por partido,8,-0.0108432782009
+E0,2022-23,B365,RPS por partido,9,-0.0209674702013
+E0,2022-23,B365,RPS por partido,10,-0.064686380421
+E0,2022-23,B365,RPS por partido,11,-0.0464192517995
+E0,2022-23,B365,RPS por partido,12,-0.0755618675648
+E0,2022-23,B365,RPS por partido,13,-0.0164815269034
+E0,2022-23,B365,RPS por partido,14,-0.0809295377178
+E0,2022-23,B365,RPS por partido,15,-0.0453447999562
+E0,2022-23,B365,RPS por partido,16,0.0173744540517
+E0,2022-23,B365,RPS por partido,17,0.0578241337904
+E0,2022-23,B365,RPS por partido,18,-0.0229594476271
+E0,2022-23,B365,RPS por partido,19,-0.0393825047867
+E0,2022-23,B365,RPS por partido,20,0.0247165048636
+E0,2022-23,B365,RPS por partido,21,-0.0180926610122
+E0,2022-23,B365,RPS por partido,22,0.0358572418275
+E0,2022-23,B365,RPS por partido,23,0.0203437919974
+E0,2022-23,B365,RPS por partido,24,0.0503388223528
+E0,2022-23,B365,RPS por partido,25,0.0931062796116
+E0,2022-23,B365,RPS por partido,26,0.00321736808318
+E0,2022-23,B365,RPS por partido,27,0.0952235842902
+E0,2022-23,B365,RPS por partido,28,0.0171625308739
+E0,2022-23,B365,RPS por partido,29,-0.013123827934
+E0,2022-23,B365,RPS por partido,30,-0.0344354577236
+E0,2022-23,B365,RPS por partido,31,0.0122055516918
+E0,2022-23,B365,RPS por partido,32,-0.0924648811601
+E0,2022-23,B365,RPS por partido,33,-0.0901058448347
+E0,2022-23,B365,RPS por partido,34,-0.0152705693206
+E0,2022-23,B365,RPS por partido,35,0.0314256383022
+E0,2022-23,B365,RPS por partido,36,-0.0571396139868
+E0,2022-23,B365,RPS por partido,37,-0.111068019625
+E0,2022-23,B365,RPS por partido,38,-0.0378378242288
+E0,2022-23,B365,RPS por partido,39,-0.0180089823027
+E0,2022-23,B365,RPS por partido,40,0.00219592415606
+E0,2022-23,PS,influencia de la pendiente,1,0.0181122041471
+E0,2022-23,PS,influencia de la pendiente,2,0.0329562842699
+E0,2022-23,PS,influencia de la pendiente,3,0.000498264540614
+E0,2022-23,PS,influencia de la pendiente,4,0.011883073752
+E0,2022-23,PS,influencia de la pendiente,5,0.0316734429181
+E0,2022-23,PS,influencia de la pendiente,6,-0.0243398828987
+E0,2022-23,PS,influencia de la pendiente,7,0.00880525133433
+E0,2022-23,PS,influencia de la pendiente,8,-0.0711703290048
+E0,2022-23,PS,influencia de la pendiente,9,0.00324339519868
+E0,2022-23,PS,influencia de la pendiente,10,-0.069828291073
+E0,2022-23,PS,influencia de la pendiente,11,-0.0314185576491
+E0,2022-23,PS,influencia de la pendiente,12,0.009547893922
+E0,2022-23,PS,influencia de la pendiente,13,0.035107728741
+E0,2022-23,PS,influencia de la pendiente,14,-0.0724171202324
+E0,2022-23,PS,influencia de la pendiente,15,-0.0492873969573
+E0,2022-23,PS,influencia de la pendiente,16,0.0254573908673
+E0,2022-23,PS,influencia de la pendiente,17,-0.0501873964817
+E0,2022-23,PS,influencia de la pendiente,18,0.0189346385338
+E0,2022-23,PS,influencia de la pendiente,19,-0.0242065402066
+E0,2022-23,PS,influencia de la pendiente,20,-0.0386495168303
+E0,2022-23,PS,influencia de la pendiente,21,-0.0269335431964
+E0,2022-23,PS,influencia de la pendiente,22,-0.0330878353094
+E0,2022-23,PS,influencia de la pendiente,23,0.0797119446249
+E0,2022-23,PS,influencia de la pendiente,24,0.0531597849648
+E0,2022-23,PS,influencia de la pendiente,25,0.025804410198
+E0,2022-23,PS,influencia de la pendiente,26,0.0752083393786
+E0,2022-23,PS,influencia de la pendiente,27,0.00660560027002
+E0,2022-23,PS,influencia de la pendiente,28,-0.0366468698681
+E0,2022-23,PS,influencia de la pendiente,29,-0.00329092500624
+E0,2022-23,PS,influencia de la pendiente,30,-0.0937621220981
+E0,2022-23,PS,influencia de la pendiente,31,-0.00438510499067
+E0,2022-23,PS,influencia de la pendiente,32,-0.105273718229
+E0,2022-23,PS,influencia de la pendiente,33,-0.0962588163207
+E0,2022-23,PS,influencia de la pendiente,34,-0.0229741483217
+E0,2022-23,PS,influencia de la pendiente,35,0.0829899549349
+E0,2022-23,PS,influencia de la pendiente,36,-0.0469876435909
+E0,2022-23,PS,influencia de la pendiente,37,-0.13745832768
+E0,2022-23,PS,influencia de la pendiente,38,0.0661850447074
+E0,2022-23,PS,influencia de la pendiente,39,-0.0472012280139
+E0,2022-23,PS,influencia de la pendiente,40,-0.0162058073612
+E0,2022-23,PS,RPS por partido,1,0.0435025677769
+E0,2022-23,PS,RPS por partido,2,0.00280862928107
+E0,2022-23,PS,RPS por partido,3,-0.0184374121913
+E0,2022-23,PS,RPS por partido,4,0.0772184158733
+E0,2022-23,PS,RPS por partido,5,0.0582538701566
+E0,2022-23,PS,RPS por partido,6,-0.0898797219908
+E0,2022-23,PS,RPS por partido,7,-0.0332382063927
+E0,2022-23,PS,RPS por partido,8,-0.00987229065969
+E0,2022-23,PS,RPS por partido,9,-0.024771482249
+E0,2022-23,PS,RPS por partido,10,-0.0620456335992
+E0,2022-23,PS,RPS por partido,11,-0.0464940102066
+E0,2022-23,PS,RPS por partido,12,-0.0767892537289
+E0,2022-23,PS,RPS por partido,13,-0.0180198500909
+E0,2022-23,PS,RPS por partido,14,-0.0865226992149
+E0,2022-23,PS,RPS por partido,15,-0.0480097906402
+E0,2022-23,PS,RPS por partido,16,0.0157554353458
+E0,2022-23,PS,RPS por partido,17,0.0560752419525
+E0,2022-23,PS,RPS por partido,18,-0.0234295171278
+E0,2022-23,PS,RPS por partido,19,-0.0432168793787
+E0,2022-23,PS,RPS por partido,20,0.0219143161581
+E0,2022-23,PS,RPS por partido,21,-0.0221260959738
+E0,2022-23,PS,RPS por partido,22,0.0376921800269
+E0,2022-23,PS,RPS por partido,23,0.022367050695
+E0,2022-23,PS,RPS por partido,24,0.0506332018376
+E0,2022-23,PS,RPS por partido,25,0.093778238804
+E0,2022-23,PS,RPS por partido,26,0.005142082056
+E0,2022-23,PS,RPS por partido,27,0.0950110849936
+E0,2022-23,PS,RPS por partido,28,0.0121404681175
+E0,2022-23,PS,RPS por partido,29,-0.0119732043912
+E0,2022-23,PS,RPS por partido,30,-0.0353338706387
+E0,2022-23,PS,RPS por partido,31,0.0169113338909
+E0,2022-23,PS,RPS por partido,32,-0.0887075715939
+E0,2022-23,PS,RPS por partido,33,-0.0851097879094
+E0,2022-23,PS,RPS por partido,34,-0.0123916806407
+E0,2022-23,PS,RPS por partido,35,0.0308388564569
+E0,2022-23,PS,RPS por partido,36,-0.0587122692589
+E0,2022-23,PS,RPS por partido,37,-0.110667334267
+E0,2022-23,PS,RPS por partido,38,-0.0424194413794
+E0,2022-23,PS,RPS por partido,39,-0.0181452225439
+E0,2022-23,PS,RPS por partido,40,0.0039251030305
+E0,2023-24,B365,influencia de la pendiente,1,0.0597059323859
+E0,2023-24,B365,influencia de la pendiente,2,-0.0766506096413
+E0,2023-24,B365,influencia de la pendiente,3,0.0314944424286
+E0,2023-24,B365,influencia de la pendiente,4,-0.00560605725134
+E0,2023-24,B365,influencia de la pendiente,5,-0.0115523280317
+E0,2023-24,B365,influencia de la pendiente,6,-0.0427394076534
+E0,2023-24,B365,influencia de la pendiente,7,-0.0497082696477
+E0,2023-24,B365,influencia de la pendiente,8,-0.0450121471043
+E0,2023-24,B365,influencia de la pendiente,9,-0.0138253734531
+E0,2023-24,B365,influencia de la pendiente,10,0.0703300948697
+E0,2023-24,B365,influencia de la pendiente,11,0.00614737254958
+E0,2023-24,B365,influencia de la pendiente,12,-0.0107840429763
+E0,2023-24,B365,influencia de la pendiente,13,0.0880050197589
+E0,2023-24,B365,influencia de la pendiente,14,0.00627020000812
+E0,2023-24,B365,influencia de la pendiente,15,-0.028819744744
+E0,2023-24,B365,influencia de la pendiente,16,0.124321461314
+E0,2023-24,B365,influencia de la pendiente,17,0.0271222076583
+E0,2023-24,B365,influencia de la pendiente,18,-0.0628134484801
+E0,2023-24,B365,influencia de la pendiente,19,-0.0147177403274
+E0,2023-24,B365,influencia de la pendiente,20,-0.0526988473581
+E0,2023-24,B365,influencia de la pendiente,21,0.0510734244273
+E0,2023-24,B365,influencia de la pendiente,22,-0.0300386002212
+E0,2023-24,B365,influencia de la pendiente,23,0.0102752346971
+E0,2023-24,B365,influencia de la pendiente,24,-0.069236347606
+E0,2023-24,B365,influencia de la pendiente,25,0.0246810056914
+E0,2023-24,B365,influencia de la pendiente,26,-0.0631817102429
+E0,2023-24,B365,influencia de la pendiente,27,-0.00794702647866
+E0,2023-24,B365,influencia de la pendiente,28,0.12370411002
+E0,2023-24,B365,influencia de la pendiente,29,0.0106421826304
+E0,2023-24,B365,influencia de la pendiente,30,-0.00107204135509
+E0,2023-24,B365,influencia de la pendiente,31,0.101318590222
+E0,2023-24,B365,influencia de la pendiente,32,-0.011369321594
+E0,2023-24,B365,influencia de la pendiente,33,-0.00712138375911
+E0,2023-24,B365,influencia de la pendiente,34,0.0455753279815
+E0,2023-24,B365,influencia de la pendiente,35,-0.00389356979533
+E0,2023-24,B365,influencia de la pendiente,36,-0.118048893829
+E0,2023-24,B365,influencia de la pendiente,37,-0.0640547697332
+E0,2023-24,B365,influencia de la pendiente,38,0.000371521197893
+E0,2023-24,B365,influencia de la pendiente,39,0.0571989338851
+E0,2023-24,B365,influencia de la pendiente,40,-0.00919451297848
+E0,2023-24,B365,RPS por partido,1,0.0672659864218
+E0,2023-24,B365,RPS por partido,2,-0.00733253624154
+E0,2023-24,B365,RPS por partido,3,0.0511376771542
+E0,2023-24,B365,RPS por partido,4,0.0327329655349
+E0,2023-24,B365,RPS por partido,5,-0.00904041899685
+E0,2023-24,B365,RPS por partido,6,-0.00244014988257
+E0,2023-24,B365,RPS por partido,7,0.0188729139217
+E0,2023-24,B365,RPS por partido,8,-0.00641950960282
+E0,2023-24,B365,RPS por partido,9,-0.0533574184867
+E0,2023-24,B365,RPS por partido,10,0.116035301627
+E0,2023-24,B365,RPS por partido,11,-0.00204323304734
+E0,2023-24,B365,RPS por partido,12,0.0620681282565
+E0,2023-24,B365,RPS por partido,13,0.0850522578264
+E0,2023-24,B365,RPS por partido,14,0.00071780574699
+E0,2023-24,B365,RPS por partido,15,0.0258802740531
+E0,2023-24,B365,RPS por partido,16,0.0046681775612
+E0,2023-24,B365,RPS por partido,17,0.00829965457454
+E0,2023-24,B365,RPS por partido,18,-0.063707829294
+E0,2023-24,B365,RPS por partido,19,-0.0181359560935
+E0,2023-24,B365,RPS por partido,20,-0.0653227540243
+E0,2023-24,B365,RPS por partido,21,-0.0426669126348
+E0,2023-24,B365,RPS por partido,22,-0.0485274052061
+E0,2023-24,B365,RPS por partido,23,-0.0043833587856
+E0,2023-24,B365,RPS por partido,24,-0.0532733427988
+E0,2023-24,B365,RPS por partido,25,0.0214460662592
+E0,2023-24,B365,RPS por partido,26,-0.0477553937208
+E0,2023-24,B365,RPS por partido,27,0.0428500526036
+E0,2023-24,B365,RPS por partido,28,-0.02965733649
+E0,2023-24,B365,RPS por partido,29,0.0110254839081
+E0,2023-24,B365,RPS por partido,30,-0.0519613747554
+E0,2023-24,B365,RPS por partido,31,0.0230321909671
+E0,2023-24,B365,RPS por partido,32,-0.0230685015537
+E0,2023-24,B365,RPS por partido,33,0.0182849044408
+E0,2023-24,B365,RPS por partido,34,-0.0407377241176
+E0,2023-24,B365,RPS por partido,35,0.0440281718747
+E0,2023-24,B365,RPS por partido,36,-0.00149464177016
+E0,2023-24,B365,RPS por partido,37,0.0345193004358
+E0,2023-24,B365,RPS por partido,38,0.0427935847215
+E0,2023-24,B365,RPS por partido,39,0.0741204344055
+E0,2023-24,B365,RPS por partido,40,0.0164477445181
+E0,2023-24,PS,influencia de la pendiente,1,0.0614682727222
+E0,2023-24,PS,influencia de la pendiente,2,-0.0782755731508
+E0,2023-24,PS,influencia de la pendiente,3,0.032834413681
+E0,2023-24,PS,influencia de la pendiente,4,-0.0027414039316
+E0,2023-24,PS,influencia de la pendiente,5,-0.00868510950829
+E0,2023-24,PS,influencia de la pendiente,6,-0.0459110202444
+E0,2023-24,PS,influencia de la pendiente,7,-0.0521968929348
+E0,2023-24,PS,influencia de la pendiente,8,-0.0494004070297
+E0,2023-24,PS,influencia de la pendiente,9,-0.0101998611817
+E0,2023-24,PS,influencia de la pendiente,10,0.0685480996945
+E0,2023-24,PS,influencia de la pendiente,11,0.00940007578616
+E0,2023-24,PS,influencia de la pendiente,12,-0.00968857488501
+E0,2023-24,PS,influencia de la pendiente,13,0.0849141333456
+E0,2023-24,PS,influencia de la pendiente,14,0.00906569092743
+E0,2023-24,PS,influencia de la pendiente,15,-0.0319812084389
+E0,2023-24,PS,influencia de la pendiente,16,0.12258926658
+E0,2023-24,PS,influencia de la pendiente,17,0.0314097724223
+E0,2023-24,PS,influencia de la pendiente,18,-0.0633255124116
+E0,2023-24,PS,influencia de la pendiente,19,-0.0163938087327
+E0,2023-24,PS,influencia de la pendiente,20,-0.0502278005305
+E0,2023-24,PS,influencia de la pendiente,21,0.0531280340685
+E0,2023-24,PS,influencia de la pendiente,22,-0.0329449594258
+E0,2023-24,PS,influencia de la pendiente,23,-0.000553632844196
+E0,2023-24,PS,influencia de la pendiente,24,-0.0752294556807
+E0,2023-24,PS,influencia de la pendiente,25,0.0255318582971
+E0,2023-24,PS,influencia de la pendiente,26,-0.0619999632088
+E0,2023-24,PS,influencia de la pendiente,27,-0.00993674304822
+E0,2023-24,PS,influencia de la pendiente,28,0.120129238044
+E0,2023-24,PS,influencia de la pendiente,29,0.0106100652002
+E0,2023-24,PS,influencia de la pendiente,30,0.00341538862164
+E0,2023-24,PS,influencia de la pendiente,31,0.102530915508
+E0,2023-24,PS,influencia de la pendiente,32,-0.00993944076681
+E0,2023-24,PS,influencia de la pendiente,33,-0.00116635641066
+E0,2023-24,PS,influencia de la pendiente,34,0.0454631374369
+E0,2023-24,PS,influencia de la pendiente,35,1.02353842517e-06
+E0,2023-24,PS,influencia de la pendiente,36,-0.117104871866
+E0,2023-24,PS,influencia de la pendiente,37,-0.064380012843
+E0,2023-24,PS,influencia de la pendiente,38,-0.00338969884937
+E0,2023-24,PS,influencia de la pendiente,39,0.0572153473003
+E0,2023-24,PS,influencia de la pendiente,40,-0.00955828165892
+E0,2023-24,PS,RPS por partido,1,0.0704806794567
+E0,2023-24,PS,RPS por partido,2,-0.00797853617997
+E0,2023-24,PS,RPS por partido,3,0.053583474171
+E0,2023-24,PS,RPS por partido,4,0.0343863740214
+E0,2023-24,PS,RPS por partido,5,-0.0100229696856
+E0,2023-24,PS,RPS por partido,6,-0.00305900250669
+E0,2023-24,PS,RPS por partido,7,0.0200865294356
+E0,2023-24,PS,RPS por partido,8,-0.011006873011
+E0,2023-24,PS,RPS por partido,9,-0.0479847683671
+E0,2023-24,PS,RPS por partido,10,0.114373581639
+E0,2023-24,PS,RPS por partido,11,-0.00340806015261
+E0,2023-24,PS,RPS por partido,12,0.0617022718762
+E0,2023-24,PS,RPS por partido,13,0.0828930105072
+E0,2023-24,PS,RPS por partido,14,0.000107248676531
+E0,2023-24,PS,RPS por partido,15,0.0230859279672
+E0,2023-24,PS,RPS por partido,16,0.000892100241429
+E0,2023-24,PS,RPS por partido,17,0.00727557028102
+E0,2023-24,PS,RPS por partido,18,-0.0640504647766
+E0,2023-24,PS,RPS por partido,19,-0.0206645123186
+E0,2023-24,PS,RPS por partido,20,-0.0677541518265
+E0,2023-24,PS,RPS por partido,21,-0.043681513718
+E0,2023-24,PS,RPS por partido,22,-0.0503791284719
+E0,2023-24,PS,RPS por partido,23,-0.013775471108
+E0,2023-24,PS,RPS por partido,24,-0.0525944583003
+E0,2023-24,PS,RPS por partido,25,0.0218988373913
+E0,2023-24,PS,RPS por partido,26,-0.0468167584983
+E0,2023-24,PS,RPS por partido,27,0.0454876947487
+E0,2023-24,PS,RPS por partido,28,-0.0280807992013
+E0,2023-24,PS,RPS por partido,29,0.00818868461876
+E0,2023-24,PS,RPS por partido,30,-0.0537226328673
+E0,2023-24,PS,RPS por partido,31,0.0215773986229
+E0,2023-24,PS,RPS por partido,32,-0.0223468993166
+E0,2023-24,PS,RPS por partido,33,0.0219247625057
+E0,2023-24,PS,RPS por partido,34,-0.0390435199964
+E0,2023-24,PS,RPS por partido,35,0.0450850061828
+E0,2023-24,PS,RPS por partido,36,0.000794130592309
+E0,2023-24,PS,RPS por partido,37,0.035386812443
+E0,2023-24,PS,RPS por partido,38,0.0425488723033
+E0,2023-24,PS,RPS por partido,39,0.0745288082572
+E0,2023-24,PS,RPS por partido,40,0.0178746493218
+E0,2024-25,B365,influencia de la pendiente,1,-0.0593339529311
+E0,2024-25,B365,influencia de la pendiente,2,0.0551120522271
+E0,2024-25,B365,influencia de la pendiente,3,0.0429259163732
+E0,2024-25,B365,influencia de la pendiente,4,-0.08110559299
+E0,2024-25,B365,influencia de la pendiente,5,0.0848151543654
+E0,2024-25,B365,influencia de la pendiente,6,-0.0431767847256
+E0,2024-25,B365,influencia de la pendiente,7,-0.0116779397692
+E0,2024-25,B365,influencia de la pendiente,8,0.003079950671
+E0,2024-25,B365,influencia de la pendiente,9,-0.0964322375453
+E0,2024-25,B365,influencia de la pendiente,10,0.022046188346
+E0,2024-25,B365,influencia de la pendiente,11,-0.0228152567313
+E0,2024-25,B365,influencia de la pendiente,12,-0.0489931070133
+E0,2024-25,B365,influencia de la pendiente,13,0.0400069497862
+E0,2024-25,B365,influencia de la pendiente,14,-0.00743946353659
+E0,2024-25,B365,influencia de la pendiente,15,-0.014607093593
+E0,2024-25,B365,influencia de la pendiente,16,0.0362304213846
+E0,2024-25,B365,influencia de la pendiente,17,-0.0698461842157
+E0,2024-25,B365,influencia de la pendiente,18,-0.105130513567
+E0,2024-25,B365,influencia de la pendiente,19,-0.0535464713019
+E0,2024-25,B365,influencia de la pendiente,20,0.0100414782483
+E0,2024-25,B365,influencia de la pendiente,21,-0.0219942145084
+E0,2024-25,B365,influencia de la pendiente,22,0.0397237901891
+E0,2024-25,B365,influencia de la pendiente,23,-0.0370840521536
+E0,2024-25,B365,influencia de la pendiente,24,-0.07290036384
+E0,2024-25,B365,influencia de la pendiente,25,-0.0340367589465
+E0,2024-25,B365,influencia de la pendiente,26,0.0323941313552
+E0,2024-25,B365,influencia de la pendiente,27,0.104956225916
+E0,2024-25,B365,influencia de la pendiente,28,0.00953118800452
+E0,2024-25,B365,influencia de la pendiente,29,0.0838294118233
+E0,2024-25,B365,influencia de la pendiente,30,0.00522939218362
+E0,2024-25,B365,influencia de la pendiente,31,-0.0596642521246
+E0,2024-25,B365,influencia de la pendiente,32,0.0137754303653
+E0,2024-25,B365,influencia de la pendiente,33,-0.0380236044571
+E0,2024-25,B365,influencia de la pendiente,34,0.0640860981041
+E0,2024-25,B365,influencia de la pendiente,35,-0.0940848721587
+E0,2024-25,B365,influencia de la pendiente,36,0.0511523994204
+E0,2024-25,B365,influencia de la pendiente,37,0.0135320898044
+E0,2024-25,B365,influencia de la pendiente,38,-0.0734443669397
+E0,2024-25,B365,influencia de la pendiente,39,0.0340366339134
+E0,2024-25,B365,influencia de la pendiente,40,0.0685803861074
+E0,2024-25,B365,RPS por partido,1,-0.0285371449443
+E0,2024-25,B365,RPS por partido,2,0.0217606329813
+E0,2024-25,B365,RPS por partido,3,0.0216505721406
+E0,2024-25,B365,RPS por partido,4,-0.0357492614858
+E0,2024-25,B365,RPS por partido,5,0.0171503929852
+E0,2024-25,B365,RPS por partido,6,-0.0142480505646
+E0,2024-25,B365,RPS por partido,7,0.0201838755587
+E0,2024-25,B365,RPS por partido,8,-0.00925269003293
+E0,2024-25,B365,RPS por partido,9,-0.0819529307256
+E0,2024-25,B365,RPS por partido,10,0.072527245431
+E0,2024-25,B365,RPS por partido,11,0.0609565406659
+E0,2024-25,B365,RPS por partido,12,0.0136497073899
+E0,2024-25,B365,RPS por partido,13,-0.0203310111888
+E0,2024-25,B365,RPS por partido,14,-0.0498273583194
+E0,2024-25,B365,RPS por partido,15,-0.0316983637994
+E0,2024-25,B365,RPS por partido,16,0.0671425711812
+E0,2024-25,B365,RPS por partido,17,-0.0277373403476
+E0,2024-25,B365,RPS por partido,18,-0.0223107982201
+E0,2024-25,B365,RPS por partido,19,0.0322775250346
+E0,2024-25,B365,RPS por partido,20,0.0600877110232
+E0,2024-25,B365,RPS por partido,21,-0.0130876738732
+E0,2024-25,B365,RPS por partido,22,0.0303379624657
+E0,2024-25,B365,RPS por partido,23,-0.0379962071806
+E0,2024-25,B365,RPS por partido,24,0.00326328807443
+E0,2024-25,B365,RPS por partido,25,-0.0528103177616
+E0,2024-25,B365,RPS por partido,26,0.0540844541002
+E0,2024-25,B365,RPS por partido,27,0.0651909907208
+E0,2024-25,B365,RPS por partido,28,-0.0677397476608
+E0,2024-25,B365,RPS por partido,29,0.0774661783719
+E0,2024-25,B365,RPS por partido,30,-0.0281566741813
+E0,2024-25,B365,RPS por partido,31,-0.0640751077333
+E0,2024-25,B365,RPS por partido,32,-0.0516276517366
+E0,2024-25,B365,RPS por partido,33,-0.00674072661155
+E0,2024-25,B365,RPS por partido,34,-0.0153533386818
+E0,2024-25,B365,RPS por partido,35,-0.0749543294555
+E0,2024-25,B365,RPS por partido,36,-0.0178624335645
+E0,2024-25,B365,RPS por partido,37,0.0219507238819
+E0,2024-25,B365,RPS por partido,38,-0.0448663397869
+E0,2024-25,B365,RPS por partido,39,0.0179752753649
+E0,2024-25,B365,RPS por partido,40,0.0901794026148
+E0,2024-25,PS,influencia de la pendiente,1,-0.0595082012093
+E0,2024-25,PS,influencia de la pendiente,2,0.0541499328867
+E0,2024-25,PS,influencia de la pendiente,3,0.0421221904926
+E0,2024-25,PS,influencia de la pendiente,4,-0.0834459132379
+E0,2024-25,PS,influencia de la pendiente,5,0.078846829821
+E0,2024-25,PS,influencia de la pendiente,6,-0.0453623270409
+E0,2024-25,PS,influencia de la pendiente,7,-0.0142255358958
+E0,2024-25,PS,influencia de la pendiente,8,0.00184058404847
+E0,2024-25,PS,influencia de la pendiente,9,-0.102179503316
+E0,2024-25,PS,influencia de la pendiente,10,0.0235863271542
+E0,2024-25,PS,influencia de la pendiente,11,-0.0207582408915
+E0,2024-25,PS,influencia de la pendiente,12,-0.0464332504081
+E0,2024-25,PS,influencia de la pendiente,13,0.0364144149019
+E0,2024-25,PS,influencia de la pendiente,14,-0.00513244892536
+E0,2024-25,PS,influencia de la pendiente,15,-0.013687220013
+E0,2024-25,PS,influencia de la pendiente,16,0.0372149662634
+E0,2024-25,PS,influencia de la pendiente,17,-0.0702231915436
+E0,2024-25,PS,influencia de la pendiente,18,-0.105782214233
+E0,2024-25,PS,influencia de la pendiente,19,-0.0467281897895
+E0,2024-25,PS,influencia de la pendiente,20,0.00677597042039
+E0,2024-25,PS,influencia de la pendiente,21,-0.0178864989924
+E0,2024-25,PS,influencia de la pendiente,22,0.0413181564543
+E0,2024-25,PS,influencia de la pendiente,23,-0.039577828292
+E0,2024-25,PS,influencia de la pendiente,24,-0.0702678422102
+E0,2024-25,PS,influencia de la pendiente,25,-0.0373577253253
+E0,2024-25,PS,influencia de la pendiente,26,0.0341536615503
+E0,2024-25,PS,influencia de la pendiente,27,0.107337237138
+E0,2024-25,PS,influencia de la pendiente,28,0.00621492241563
+E0,2024-25,PS,influencia de la pendiente,29,0.0871969031836
+E0,2024-25,PS,influencia de la pendiente,30,0.00540585542944
+E0,2024-25,PS,influencia de la pendiente,31,-0.0582599716147
+E0,2024-25,PS,influencia de la pendiente,32,0.0128538540918
+E0,2024-25,PS,influencia de la pendiente,33,-0.0434361129662
+E0,2024-25,PS,influencia de la pendiente,34,0.064695222506
+E0,2024-25,PS,influencia de la pendiente,35,-0.0946546241652
+E0,2024-25,PS,influencia de la pendiente,36,0.0461644419285
+E0,2024-25,PS,influencia de la pendiente,37,0.0142100074759
+E0,2024-25,PS,influencia de la pendiente,38,-0.0767942456342
+E0,2024-25,PS,influencia de la pendiente,39,0.0408951574545
+E0,2024-25,PS,influencia de la pendiente,40,0.0702009232723
+E0,2024-25,PS,RPS por partido,1,-0.0276291126643
+E0,2024-25,PS,RPS por partido,2,0.017207420637
+E0,2024-25,PS,RPS por partido,3,0.0195177132942
+E0,2024-25,PS,RPS por partido,4,-0.0363080816866
+E0,2024-25,PS,RPS por partido,5,0.00983377013655
+E0,2024-25,PS,RPS por partido,6,-0.015265339666
+E0,2024-25,PS,RPS por partido,7,0.0186452577452
+E0,2024-25,PS,RPS por partido,8,-0.0110240296595
+E0,2024-25,PS,RPS por partido,9,-0.0844747282894
+E0,2024-25,PS,RPS por partido,10,0.069905441837
+E0,2024-25,PS,RPS por partido,11,0.0609490210841
+E0,2024-25,PS,RPS por partido,12,0.014146598636
+E0,2024-25,PS,RPS por partido,13,-0.0235206991419
+E0,2024-25,PS,RPS por partido,14,-0.0504609286478
+E0,2024-25,PS,RPS por partido,15,-0.0317239479045
+E0,2024-25,PS,RPS por partido,16,0.0697201185722
+E0,2024-25,PS,RPS por partido,17,-0.026235033821
+E0,2024-25,PS,RPS por partido,18,-0.0195978193709
+E0,2024-25,PS,RPS por partido,19,0.0362550576017
+E0,2024-25,PS,RPS por partido,20,0.0551093944186
+E0,2024-25,PS,RPS por partido,21,-0.014528760794
+E0,2024-25,PS,RPS por partido,22,0.0277311053445
+E0,2024-25,PS,RPS por partido,23,-0.0379788615087
+E0,2024-25,PS,RPS por partido,24,0.00374746618807
+E0,2024-25,PS,RPS por partido,25,-0.0557138308639
+E0,2024-25,PS,RPS por partido,26,0.0552749701282
+E0,2024-25,PS,RPS por partido,27,0.0666488349759
+E0,2024-25,PS,RPS por partido,28,-0.0676642825062
+E0,2024-25,PS,RPS por partido,29,0.0816401023002
+E0,2024-25,PS,RPS por partido,30,-0.0287965731508
+E0,2024-25,PS,RPS por partido,31,-0.0632865507474
+E0,2024-25,PS,RPS por partido,32,-0.0495876380584
+E0,2024-25,PS,RPS por partido,33,-0.00570998409654
+E0,2024-25,PS,RPS por partido,34,-0.0148337843664
+E0,2024-25,PS,RPS por partido,35,-0.072635247709
+E0,2024-25,PS,RPS por partido,36,-0.0151629382803
+E0,2024-25,PS,RPS por partido,37,0.0207766184137
+E0,2024-25,PS,RPS por partido,38,-0.0432277546849
+E0,2024-25,PS,RPS por partido,39,0.0197083946436
+E0,2024-25,PS,RPS por partido,40,0.0885922504289
+SP1,2022-23,B365,influencia de la pendiente,1,-0.0611624345407
+SP1,2022-23,B365,influencia de la pendiente,2,-0.0438566248829
+SP1,2022-23,B365,influencia de la pendiente,3,-0.0615152534181
+SP1,2022-23,B365,influencia de la pendiente,4,-0.036735596522
+SP1,2022-23,B365,influencia de la pendiente,5,0.0309252136427
+SP1,2022-23,B365,influencia de la pendiente,6,0.0715744556079
+SP1,2022-23,B365,influencia de la pendiente,7,0.0168433307138
+SP1,2022-23,B365,influencia de la pendiente,8,0.0171259163898
+SP1,2022-23,B365,influencia de la pendiente,9,-0.0157611013043
+SP1,2022-23,B365,influencia de la pendiente,10,0.0144169729735
+SP1,2022-23,B365,influencia de la pendiente,11,0.0369758457807
+SP1,2022-23,B365,influencia de la pendiente,12,0.0330537301296
+SP1,2022-23,B365,influencia de la pendiente,13,-0.0313730958856
+SP1,2022-23,B365,influencia de la pendiente,14,-0.0324241608425
+SP1,2022-23,B365,influencia de la pendiente,15,-0.086598603192
+SP1,2022-23,B365,influencia de la pendiente,16,0.0252002147846
+SP1,2022-23,B365,influencia de la pendiente,17,-0.0391221096163
+SP1,2022-23,B365,influencia de la pendiente,18,0.0417927301845
+SP1,2022-23,B365,influencia de la pendiente,19,-0.0117812852133
+SP1,2022-23,B365,influencia de la pendiente,20,-0.0454546984842
+SP1,2022-23,B365,influencia de la pendiente,21,-0.0577943889981
+SP1,2022-23,B365,influencia de la pendiente,22,-0.0135063826628
+SP1,2022-23,B365,influencia de la pendiente,23,0.0179895994276
+SP1,2022-23,B365,influencia de la pendiente,24,-0.0359196119451
+SP1,2022-23,B365,influencia de la pendiente,25,-0.00222649128564
+SP1,2022-23,B365,influencia de la pendiente,26,0.0647344318154
+SP1,2022-23,B365,influencia de la pendiente,27,-0.010456392558
+SP1,2022-23,B365,influencia de la pendiente,28,0.0178619431292
+SP1,2022-23,B365,influencia de la pendiente,29,-0.0364632970611
+SP1,2022-23,B365,influencia de la pendiente,30,-0.0146763098037
+SP1,2022-23,B365,influencia de la pendiente,31,-0.0273891063369
+SP1,2022-23,B365,influencia de la pendiente,32,-0.0272463240695
+SP1,2022-23,B365,influencia de la pendiente,33,0.093682224462
+SP1,2022-23,B365,influencia de la pendiente,34,0.0614452075472
+SP1,2022-23,B365,influencia de la pendiente,35,0.00529251701059
+SP1,2022-23,B365,influencia de la pendiente,36,0.0466368792663
+SP1,2022-23,B365,influencia de la pendiente,37,-0.0201547765884
+SP1,2022-23,B365,influencia de la pendiente,38,-0.0191634756512
+SP1,2022-23,B365,influencia de la pendiente,39,-0.0109263722807
+SP1,2022-23,B365,influencia de la pendiente,40,-0.00905346601943
+SP1,2022-23,B365,RPS por partido,1,-0.00487013614549
+SP1,2022-23,B365,RPS por partido,2,-0.0699278801064
+SP1,2022-23,B365,RPS por partido,3,-0.0482533016393
+SP1,2022-23,B365,RPS por partido,4,0.00461682034254
+SP1,2022-23,B365,RPS por partido,5,0.0734644694871
+SP1,2022-23,B365,RPS por partido,6,0.00913455161421
+SP1,2022-23,B365,RPS por partido,7,0.0740640189411
+SP1,2022-23,B365,RPS por partido,8,-0.065031689368
+SP1,2022-23,B365,RPS por partido,9,-0.0188031825307
+SP1,2022-23,B365,RPS por partido,10,0.0131434614997
+SP1,2022-23,B365,RPS por partido,11,-0.0354476500299
+SP1,2022-23,B365,RPS por partido,12,-0.058096267468
+SP1,2022-23,B365,RPS por partido,13,0.0225797561285
+SP1,2022-23,B365,RPS por partido,14,-0.00390700219134
+SP1,2022-23,B365,RPS por partido,15,-0.070836781754
+SP1,2022-23,B365,RPS por partido,16,0.00855180205623
+SP1,2022-23,B365,RPS por partido,17,0.0113359046363
+SP1,2022-23,B365,RPS por partido,18,-0.0809783420363
+SP1,2022-23,B365,RPS por partido,19,0.00131013691114
+SP1,2022-23,B365,RPS por partido,20,-0.0839130067766
+SP1,2022-23,B365,RPS por partido,21,-0.0222369887995
+SP1,2022-23,B365,RPS por partido,22,0.00920442744826
+SP1,2022-23,B365,RPS por partido,23,0.0233595696002
+SP1,2022-23,B365,RPS por partido,24,-0.0217039494139
+SP1,2022-23,B365,RPS por partido,25,-0.0720086636904
+SP1,2022-23,B365,RPS por partido,26,0.0701063656361
+SP1,2022-23,B365,RPS por partido,27,0.0151945728014
+SP1,2022-23,B365,RPS por partido,28,0.0123174849831
+SP1,2022-23,B365,RPS por partido,29,0.00611178034751
+SP1,2022-23,B365,RPS por partido,30,-0.0249763952697
+SP1,2022-23,B365,RPS por partido,31,0.0487376794084
+SP1,2022-23,B365,RPS por partido,32,-0.00543545037221
+SP1,2022-23,B365,RPS por partido,33,0.0652569176975
+SP1,2022-23,B365,RPS por partido,34,0.0814013928267
+SP1,2022-23,B365,RPS por partido,35,-0.0251110167368
+SP1,2022-23,B365,RPS por partido,36,0.0456039883464
+SP1,2022-23,B365,RPS por partido,37,-0.0495472469126
+SP1,2022-23,B365,RPS por partido,38,-0.023058040298
+SP1,2022-23,B365,RPS por partido,39,-0.00809032146162
+SP1,2022-23,B365,RPS por partido,40,-0.0569754928047
+SP1,2022-23,PS,influencia de la pendiente,1,-0.060183511955
+SP1,2022-23,PS,influencia de la pendiente,2,-0.0439308086732
+SP1,2022-23,PS,influencia de la pendiente,3,-0.0592491372133
+SP1,2022-23,PS,influencia de la pendiente,4,-0.0374961375345
+SP1,2022-23,PS,influencia de la pendiente,5,0.0366648370036
+SP1,2022-23,PS,influencia de la pendiente,6,0.0698426198224
+SP1,2022-23,PS,influencia de la pendiente,7,0.0179628476858
+SP1,2022-23,PS,influencia de la pendiente,8,0.0160251031035
+SP1,2022-23,PS,influencia de la pendiente,9,-0.00951631700322
+SP1,2022-23,PS,influencia de la pendiente,10,0.0110512430917
+SP1,2022-23,PS,influencia de la pendiente,11,0.0420975245933
+SP1,2022-23,PS,influencia de la pendiente,12,0.0280158719491
+SP1,2022-23,PS,influencia de la pendiente,13,-0.0322731567758
+SP1,2022-23,PS,influencia de la pendiente,14,-0.0343930056787
+SP1,2022-23,PS,influencia de la pendiente,15,-0.0921302129256
+SP1,2022-23,PS,influencia de la pendiente,16,0.0232635023597
+SP1,2022-23,PS,influencia de la pendiente,17,-0.0397407499887
+SP1,2022-23,PS,influencia de la pendiente,18,0.0343009638423
+SP1,2022-23,PS,influencia de la pendiente,19,-0.0149706716418
+SP1,2022-23,PS,influencia de la pendiente,20,-0.0471799246476
+SP1,2022-23,PS,influencia de la pendiente,21,-0.0532324218866
+SP1,2022-23,PS,influencia de la pendiente,22,-0.0198637645752
+SP1,2022-23,PS,influencia de la pendiente,23,0.0197091068123
+SP1,2022-23,PS,influencia de la pendiente,24,-0.0376805789653
+SP1,2022-23,PS,influencia de la pendiente,25,-0.00405829303552
+SP1,2022-23,PS,influencia de la pendiente,26,0.0666145695694
+SP1,2022-23,PS,influencia de la pendiente,27,-0.00929141983032
+SP1,2022-23,PS,influencia de la pendiente,28,0.0181058316117
+SP1,2022-23,PS,influencia de la pendiente,29,-0.0379318777693
+SP1,2022-23,PS,influencia de la pendiente,30,-0.0119287654725
+SP1,2022-23,PS,influencia de la pendiente,31,-0.0253068772943
+SP1,2022-23,PS,influencia de la pendiente,32,-0.0236825326218
+SP1,2022-23,PS,influencia de la pendiente,33,0.0926938482318
+SP1,2022-23,PS,influencia de la pendiente,34,0.063286754991
+SP1,2022-23,PS,influencia de la pendiente,35,0.00403679750616
+SP1,2022-23,PS,influencia de la pendiente,36,0.0458301933478
+SP1,2022-23,PS,influencia de la pendiente,37,-0.0160742764061
+SP1,2022-23,PS,influencia de la pendiente,38,-0.0180681530859
+SP1,2022-23,PS,influencia de la pendiente,39,-0.0124683524604
+SP1,2022-23,PS,influencia de la pendiente,40,-0.00397948346343
+SP1,2022-23,PS,RPS por partido,1,-0.00413514123551
+SP1,2022-23,PS,RPS por partido,2,-0.065077971647
+SP1,2022-23,PS,RPS por partido,3,-0.0476431954095
+SP1,2022-23,PS,RPS por partido,4,0.00461613221803
+SP1,2022-23,PS,RPS por partido,5,0.0751422774593
+SP1,2022-23,PS,RPS por partido,6,0.00947829333235
+SP1,2022-23,PS,RPS por partido,7,0.0753051178825
+SP1,2022-23,PS,RPS por partido,8,-0.0647237834628
+SP1,2022-23,PS,RPS por partido,9,-0.0155898859744
+SP1,2022-23,PS,RPS por partido,10,0.0116520770552
+SP1,2022-23,PS,RPS por partido,11,-0.0324403186848
+SP1,2022-23,PS,RPS por partido,12,-0.059103747743
+SP1,2022-23,PS,RPS por partido,13,0.0187067696393
+SP1,2022-23,PS,RPS por partido,14,-0.00809392732467
+SP1,2022-23,PS,RPS por partido,15,-0.0710044615955
+SP1,2022-23,PS,RPS por partido,16,0.00916942658382
+SP1,2022-23,PS,RPS por partido,17,0.00972361901843
+SP1,2022-23,PS,RPS por partido,18,-0.0841531003431
+SP1,2022-23,PS,RPS por partido,19,-0.00355927730966
+SP1,2022-23,PS,RPS por partido,20,-0.0843213831931
+SP1,2022-23,PS,RPS por partido,21,-0.0196878013677
+SP1,2022-23,PS,RPS por partido,22,0.00600776713139
+SP1,2022-23,PS,RPS por partido,23,0.0280317831351
+SP1,2022-23,PS,RPS por partido,24,-0.0243788261662
+SP1,2022-23,PS,RPS por partido,25,-0.0735005966911
+SP1,2022-23,PS,RPS por partido,26,0.0704773171196
+SP1,2022-23,PS,RPS por partido,27,0.0174364941358
+SP1,2022-23,PS,RPS por partido,28,0.0100085708685
+SP1,2022-23,PS,RPS por partido,29,0.00423635076038
+SP1,2022-23,PS,RPS por partido,30,-0.0175038488065
+SP1,2022-23,PS,RPS por partido,31,0.0526820863193
+SP1,2022-23,PS,RPS por partido,32,-0.00392257098842
+SP1,2022-23,PS,RPS por partido,33,0.062979465126
+SP1,2022-23,PS,RPS por partido,34,0.0826666939112
+SP1,2022-23,PS,RPS por partido,35,-0.0242684579464
+SP1,2022-23,PS,RPS por partido,36,0.0452289909477
+SP1,2022-23,PS,RPS por partido,37,-0.0483913715219
+SP1,2022-23,PS,RPS por partido,38,-0.0223124636799
+SP1,2022-23,PS,RPS por partido,39,-0.0118957739857
+SP1,2022-23,PS,RPS por partido,40,-0.0559207800223
+SP1,2023-24,B365,influencia de la pendiente,1,0.0286074790358
+SP1,2023-24,B365,influencia de la pendiente,2,0.0134880140083
+SP1,2023-24,B365,influencia de la pendiente,3,-0.0509397497212
+SP1,2023-24,B365,influencia de la pendiente,4,0.0273498640267
+SP1,2023-24,B365,influencia de la pendiente,5,0.0769252870139
+SP1,2023-24,B365,influencia de la pendiente,6,-0.018732866339
+SP1,2023-24,B365,influencia de la pendiente,7,0.0165598621818
+SP1,2023-24,B365,influencia de la pendiente,8,-0.0466663874767
+SP1,2023-24,B365,influencia de la pendiente,9,-0.0377892666142
+SP1,2023-24,B365,influencia de la pendiente,10,-0.0212204060639
+SP1,2023-24,B365,influencia de la pendiente,11,0.010286630695
+SP1,2023-24,B365,influencia de la pendiente,12,0.0706892820379
+SP1,2023-24,B365,influencia de la pendiente,13,-0.043833042658
+SP1,2023-24,B365,influencia de la pendiente,14,-0.000344197192411
+SP1,2023-24,B365,influencia de la pendiente,15,0.00550555541902
+SP1,2023-24,B365,influencia de la pendiente,16,-0.0160408322803
+SP1,2023-24,B365,influencia de la pendiente,17,0.0157980729216
+SP1,2023-24,B365,influencia de la pendiente,18,-0.010008288849
+SP1,2023-24,B365,influencia de la pendiente,19,-0.0408333081483
+SP1,2023-24,B365,influencia de la pendiente,20,-0.041896428882
+SP1,2023-24,B365,influencia de la pendiente,21,-0.0279410132902
+SP1,2023-24,B365,influencia de la pendiente,22,-0.0302395726515
+SP1,2023-24,B365,influencia de la pendiente,23,0.0623863417283
+SP1,2023-24,B365,influencia de la pendiente,24,0.0048327475584
+SP1,2023-24,B365,influencia de la pendiente,25,-0.0211345985384
+SP1,2023-24,B365,influencia de la pendiente,26,-0.0225032530969
+SP1,2023-24,B365,influencia de la pendiente,27,0.051306578877
+SP1,2023-24,B365,influencia de la pendiente,28,-0.0127297227532
+SP1,2023-24,B365,influencia de la pendiente,29,-0.0112572186646
+SP1,2023-24,B365,influencia de la pendiente,30,-0.0383443342416
+SP1,2023-24,B365,influencia de la pendiente,31,0.0264513327958
+SP1,2023-24,B365,influencia de la pendiente,32,-0.0539206099461
+SP1,2023-24,B365,influencia de la pendiente,33,0.0181824921766
+SP1,2023-24,B365,influencia de la pendiente,34,-0.0539602273241
+SP1,2023-24,B365,influencia de la pendiente,35,0.0752545900351
+SP1,2023-24,B365,influencia de la pendiente,36,-0.0507840682921
+SP1,2023-24,B365,influencia de la pendiente,37,-0.0446672744929
+SP1,2023-24,B365,influencia de la pendiente,38,-0.0804531474738
+SP1,2023-24,B365,influencia de la pendiente,39,-0.0905263311802
+SP1,2023-24,B365,influencia de la pendiente,40,0.0374691770847
+SP1,2023-24,B365,RPS por partido,1,0.0292014067429
+SP1,2023-24,B365,RPS por partido,2,0.019748772512
+SP1,2023-24,B365,RPS por partido,3,-0.0375346126411
+SP1,2023-24,B365,RPS por partido,4,-0.00343414174893
+SP1,2023-24,B365,RPS por partido,5,-0.00458685906118
+SP1,2023-24,B365,RPS por partido,6,0.00523394704259
+SP1,2023-24,B365,RPS por partido,7,-0.0181340643118
+SP1,2023-24,B365,RPS por partido,8,-0.0261544561257
+SP1,2023-24,B365,RPS por partido,9,0.0136411405973
+SP1,2023-24,B365,RPS por partido,10,-0.0682253216878
+SP1,2023-24,B365,RPS por partido,11,-0.0126371688959
+SP1,2023-24,B365,RPS por partido,12,0.0981161888259
+SP1,2023-24,B365,RPS por partido,13,-0.0343992065139
+SP1,2023-24,B365,RPS por partido,14,-0.0408202097198
+SP1,2023-24,B365,RPS por partido,15,-0.0372513706144
+SP1,2023-24,B365,RPS por partido,16,0.0436373351723
+SP1,2023-24,B365,RPS por partido,17,-0.0965552269351
+SP1,2023-24,B365,RPS por partido,18,0.0338624372702
+SP1,2023-24,B365,RPS por partido,19,0.00935704729609
+SP1,2023-24,B365,RPS por partido,20,-0.00866598132518
+SP1,2023-24,B365,RPS por partido,21,-0.0157017319423
+SP1,2023-24,B365,RPS por partido,22,0.00144893841469
+SP1,2023-24,B365,RPS por partido,23,0.071544871592
+SP1,2023-24,B365,RPS por partido,24,0.0812427635005
+SP1,2023-24,B365,RPS por partido,25,-0.0421342751506
+SP1,2023-24,B365,RPS por partido,26,0.0124793872672
+SP1,2023-24,B365,RPS por partido,27,-0.0593045096884
+SP1,2023-24,B365,RPS por partido,28,-0.00365354263377
+SP1,2023-24,B365,RPS por partido,29,-0.0367031559849
+SP1,2023-24,B365,RPS por partido,30,0.0423315782595
+SP1,2023-24,B365,RPS por partido,31,-0.00962083693839
+SP1,2023-24,B365,RPS por partido,32,-0.0135654115443
+SP1,2023-24,B365,RPS por partido,33,-0.0908925235755
+SP1,2023-24,B365,RPS por partido,34,-0.0117348354943
+SP1,2023-24,B365,RPS por partido,35,0.089093401397
+SP1,2023-24,B365,RPS por partido,36,0.0599678876089
+SP1,2023-24,B365,RPS por partido,37,-0.0395432532354
+SP1,2023-24,B365,RPS por partido,38,0.0353714868231
+SP1,2023-24,B365,RPS por partido,39,-0.0500773389053
+SP1,2023-24,B365,RPS por partido,40,0.0725727193858
+SP1,2023-24,PS,influencia de la pendiente,1,0.0280778899093
+SP1,2023-24,PS,influencia de la pendiente,2,0.0143632972659
+SP1,2023-24,PS,influencia de la pendiente,3,-0.0461791685807
+SP1,2023-24,PS,influencia de la pendiente,4,0.0322511520275
+SP1,2023-24,PS,influencia de la pendiente,5,0.0771092221634
+SP1,2023-24,PS,influencia de la pendiente,6,-0.0136912212421
+SP1,2023-24,PS,influencia de la pendiente,7,0.0171346708054
+SP1,2023-24,PS,influencia de la pendiente,8,-0.0430606698533
+SP1,2023-24,PS,influencia de la pendiente,9,-0.0360591428048
+SP1,2023-24,PS,influencia de la pendiente,10,-0.0189222614375
+SP1,2023-24,PS,influencia de la pendiente,11,0.0163834425357
+SP1,2023-24,PS,influencia de la pendiente,12,0.0635543878233
+SP1,2023-24,PS,influencia de la pendiente,13,-0.0503943291643
+SP1,2023-24,PS,influencia de la pendiente,14,-0.00849384980656
+SP1,2023-24,PS,influencia de la pendiente,15,0.00977723725217
+SP1,2023-24,PS,influencia de la pendiente,16,-0.0174409515749
+SP1,2023-24,PS,influencia de la pendiente,17,0.00545082244889
+SP1,2023-24,PS,influencia de la pendiente,18,-0.0112873929724
+SP1,2023-24,PS,influencia de la pendiente,19,-0.047837128949
+SP1,2023-24,PS,influencia de la pendiente,20,-0.0484773478393
+SP1,2023-24,PS,influencia de la pendiente,21,-0.0248029259965
+SP1,2023-24,PS,influencia de la pendiente,22,-0.0256254875638
+SP1,2023-24,PS,influencia de la pendiente,23,0.0692809600556
+SP1,2023-24,PS,influencia de la pendiente,24,0.000819834263227
+SP1,2023-24,PS,influencia de la pendiente,25,-0.0192839616999
+SP1,2023-24,PS,influencia de la pendiente,26,-0.0221416786899
+SP1,2023-24,PS,influencia de la pendiente,27,0.0504440605612
+SP1,2023-24,PS,influencia de la pendiente,28,-0.0202399178046
+SP1,2023-24,PS,influencia de la pendiente,29,-0.0126157671333
+SP1,2023-24,PS,influencia de la pendiente,30,-0.0320310263358
+SP1,2023-24,PS,influencia de la pendiente,31,0.022434413301
+SP1,2023-24,PS,influencia de la pendiente,32,-0.0456255781237
+SP1,2023-24,PS,influencia de la pendiente,33,0.0202606583348
+SP1,2023-24,PS,influencia de la pendiente,34,-0.0514407264623
+SP1,2023-24,PS,influencia de la pendiente,35,0.0726468934411
+SP1,2023-24,PS,influencia de la pendiente,36,-0.0550030973225
+SP1,2023-24,PS,influencia de la pendiente,37,-0.0475084188476
+SP1,2023-24,PS,influencia de la pendiente,38,-0.079262120458
+SP1,2023-24,PS,influencia de la pendiente,39,-0.0914897734888
+SP1,2023-24,PS,influencia de la pendiente,40,0.0387238777078
+SP1,2023-24,PS,RPS por partido,1,0.0260423057631
+SP1,2023-24,PS,RPS por partido,2,0.020562078714
+SP1,2023-24,PS,RPS por partido,3,-0.0400856838058
+SP1,2023-24,PS,RPS por partido,4,6.47342336123e-05
+SP1,2023-24,PS,RPS por partido,5,-0.00451138589125
+SP1,2023-24,PS,RPS por partido,6,0.00422032536692
+SP1,2023-24,PS,RPS por partido,7,-0.0162086842629
+SP1,2023-24,PS,RPS por partido,8,-0.0251659712545
+SP1,2023-24,PS,RPS por partido,9,0.0132649922667
+SP1,2023-24,PS,RPS por partido,10,-0.0698817482908
+SP1,2023-24,PS,RPS por partido,11,-0.015428194755
+SP1,2023-24,PS,RPS por partido,12,0.101369311931
+SP1,2023-24,PS,RPS por partido,13,-0.0392590756852
+SP1,2023-24,PS,RPS por partido,14,-0.0437463331074
+SP1,2023-24,PS,RPS por partido,15,-0.0411458893936
+SP1,2023-24,PS,RPS por partido,16,0.0418671692203
+SP1,2023-24,PS,RPS por partido,17,-0.0962196049729
+SP1,2023-24,PS,RPS por partido,18,0.0340060635078
+SP1,2023-24,PS,RPS por partido,19,0.00565064954523
+SP1,2023-24,PS,RPS por partido,20,-0.00754577880029
+SP1,2023-24,PS,RPS por partido,21,-0.014890999958
+SP1,2023-24,PS,RPS por partido,22,0.00414853043344
+SP1,2023-24,PS,RPS por partido,23,0.0727332452765
+SP1,2023-24,PS,RPS por partido,24,0.0833594253285
+SP1,2023-24,PS,RPS por partido,25,-0.0415747065694
+SP1,2023-24,PS,RPS por partido,26,0.0114633912395
+SP1,2023-24,PS,RPS por partido,27,-0.0632575441466
+SP1,2023-24,PS,RPS por partido,28,-0.00285497162226
+SP1,2023-24,PS,RPS por partido,29,-0.037941707802
+SP1,2023-24,PS,RPS por partido,30,0.0461342904081
+SP1,2023-24,PS,RPS por partido,31,-0.0129984711964
+SP1,2023-24,PS,RPS por partido,32,-0.0132132608448
+SP1,2023-24,PS,RPS por partido,33,-0.0918680293457
+SP1,2023-24,PS,RPS por partido,34,-0.00421001927395
+SP1,2023-24,PS,RPS por partido,35,0.0855176660132
+SP1,2023-24,PS,RPS por partido,36,0.0583574336418
+SP1,2023-24,PS,RPS por partido,37,-0.0372730132413
+SP1,2023-24,PS,RPS por partido,38,0.0334150742678
+SP1,2023-24,PS,RPS por partido,39,-0.05088824755
+SP1,2023-24,PS,RPS por partido,40,0.0765472315762
+SP1,2024-25,B365,influencia de la pendiente,1,0.0766381232044
+SP1,2024-25,B365,influencia de la pendiente,2,0.0200267357736
+SP1,2024-25,B365,influencia de la pendiente,3,0.0853515922645
+SP1,2024-25,B365,influencia de la pendiente,4,0.00181731289048
+SP1,2024-25,B365,influencia de la pendiente,5,-0.0130452756757
+SP1,2024-25,B365,influencia de la pendiente,6,-0.00259597071712
+SP1,2024-25,B365,influencia de la pendiente,7,0.02968017168
+SP1,2024-25,B365,influencia de la pendiente,8,0.00715210185665
+SP1,2024-25,B365,influencia de la pendiente,9,-0.00968754280432
+SP1,2024-25,B365,influencia de la pendiente,10,0.110221957487
+SP1,2024-25,B365,influencia de la pendiente,11,-0.00260548663014
+SP1,2024-25,B365,influencia de la pendiente,12,-0.0856254279673
+SP1,2024-25,B365,influencia de la pendiente,13,-0.0216059818568
+SP1,2024-25,B365,influencia de la pendiente,14,-0.018193224215
+SP1,2024-25,B365,influencia de la pendiente,15,-0.112435750389
+SP1,2024-25,B365,influencia de la pendiente,16,-0.0417038520913
+SP1,2024-25,B365,influencia de la pendiente,17,0.0305615478023
+SP1,2024-25,B365,influencia de la pendiente,18,0.0557787525859
+SP1,2024-25,B365,influencia de la pendiente,19,0.00704559478902
+SP1,2024-25,B365,influencia de la pendiente,20,0.0561347519299
+SP1,2024-25,B365,influencia de la pendiente,21,0.0848039008091
+SP1,2024-25,B365,influencia de la pendiente,22,-0.0159936211467
+SP1,2024-25,B365,influencia de la pendiente,23,-0.0563489126951
+SP1,2024-25,B365,influencia de la pendiente,24,0.103694364469
+SP1,2024-25,B365,influencia de la pendiente,25,-0.00430674400581
+SP1,2024-25,B365,influencia de la pendiente,26,0.0564853823544
+SP1,2024-25,B365,influencia de la pendiente,27,0.0728918862026
+SP1,2024-25,B365,influencia de la pendiente,28,0.109874439723
+SP1,2024-25,B365,influencia de la pendiente,29,-0.0301882469744
+SP1,2024-25,B365,influencia de la pendiente,30,-0.0579148640316
+SP1,2024-25,B365,influencia de la pendiente,31,0.107477155539
+SP1,2024-25,B365,influencia de la pendiente,32,-0.03305327933
+SP1,2024-25,B365,influencia de la pendiente,33,-0.0110150934146
+SP1,2024-25,B365,influencia de la pendiente,34,0.000541835733956
+SP1,2024-25,B365,influencia de la pendiente,35,-0.0385835596056
+SP1,2024-25,B365,influencia de la pendiente,36,-0.0451882447511
+SP1,2024-25,B365,influencia de la pendiente,37,0.0690635373913
+SP1,2024-25,B365,influencia de la pendiente,38,0.0141953042417
+SP1,2024-25,B365,influencia de la pendiente,39,-0.00174819732368
+SP1,2024-25,B365,influencia de la pendiente,40,0.0110732797925
+SP1,2024-25,B365,RPS por partido,1,-0.000794196846526
+SP1,2024-25,B365,RPS por partido,2,0.0108586315736
+SP1,2024-25,B365,RPS por partido,3,-0.0224940521906
+SP1,2024-25,B365,RPS por partido,4,-0.0368900674265
+SP1,2024-25,B365,RPS por partido,5,0.0231674898198
+SP1,2024-25,B365,RPS por partido,6,0.011545991815
+SP1,2024-25,B365,RPS por partido,7,0.0098230469038
+SP1,2024-25,B365,RPS por partido,8,0.0415067327458
+SP1,2024-25,B365,RPS por partido,9,-0.0262596177616
+SP1,2024-25,B365,RPS por partido,10,0.0193080233474
+SP1,2024-25,B365,RPS por partido,11,0.00821269855189
+SP1,2024-25,B365,RPS por partido,12,-0.0728835949051
+SP1,2024-25,B365,RPS por partido,13,-0.0261178749126
+SP1,2024-25,B365,RPS por partido,14,0.0785252974868
+SP1,2024-25,B365,RPS por partido,15,-0.0561698541574
+SP1,2024-25,B365,RPS por partido,16,-0.00604533995286
+SP1,2024-25,B365,RPS por partido,17,0.00818181165759
+SP1,2024-25,B365,RPS por partido,18,0.117025522935
+SP1,2024-25,B365,RPS por partido,19,-0.029214006628
+SP1,2024-25,B365,RPS por partido,20,0.0625250238093
+SP1,2024-25,B365,RPS por partido,21,0.0258257611498
+SP1,2024-25,B365,RPS por partido,22,-0.0253057618022
+SP1,2024-25,B365,RPS por partido,23,-0.0033907707888
+SP1,2024-25,B365,RPS por partido,24,-0.021558658377
+SP1,2024-25,B365,RPS por partido,25,-0.0545622313079
+SP1,2024-25,B365,RPS por partido,26,-0.0197529211602
+SP1,2024-25,B365,RPS por partido,27,0.0601581983244
+SP1,2024-25,B365,RPS por partido,28,-0.0131108809039
+SP1,2024-25,B365,RPS por partido,29,0.0471308678695
+SP1,2024-25,B365,RPS por partido,30,-0.0450684444499
+SP1,2024-25,B365,RPS por partido,31,-0.0152141292064
+SP1,2024-25,B365,RPS por partido,32,-0.00776984006749
+SP1,2024-25,B365,RPS por partido,33,-0.0811031362932
+SP1,2024-25,B365,RPS por partido,34,0.0433545304045
+SP1,2024-25,B365,RPS por partido,35,0.00961007331411
+SP1,2024-25,B365,RPS por partido,36,-0.000751427604618
+SP1,2024-25,B365,RPS por partido,37,-0.0295891544264
+SP1,2024-25,B365,RPS por partido,38,-0.0733159417101
+SP1,2024-25,B365,RPS por partido,39,0.0207362261511
+SP1,2024-25,B365,RPS por partido,40,-0.0401759383359
+SP1,2024-25,PS,influencia de la pendiente,1,0.0781321678165
+SP1,2024-25,PS,influencia de la pendiente,2,0.0237965115064
+SP1,2024-25,PS,influencia de la pendiente,3,0.0841631518158
+SP1,2024-25,PS,influencia de la pendiente,4,0.00328674264594
+SP1,2024-25,PS,influencia de la pendiente,5,-0.012387723578
+SP1,2024-25,PS,influencia de la pendiente,6,-0.000897223014466
+SP1,2024-25,PS,influencia de la pendiente,7,0.0256213118492
+SP1,2024-25,PS,influencia de la pendiente,8,0.00626059948119
+SP1,2024-25,PS,influencia de la pendiente,9,-0.0100481767983
+SP1,2024-25,PS,influencia de la pendiente,10,0.108718012649
+SP1,2024-25,PS,influencia de la pendiente,11,-0.00450604406455
+SP1,2024-25,PS,influencia de la pendiente,12,-0.0843987336591
+SP1,2024-25,PS,influencia de la pendiente,13,-0.017191928611
+SP1,2024-25,PS,influencia de la pendiente,14,-0.0154158567958
+SP1,2024-25,PS,influencia de la pendiente,15,-0.108151565426
+SP1,2024-25,PS,influencia de la pendiente,16,-0.0448629492264
+SP1,2024-25,PS,influencia de la pendiente,17,0.0260664777983
+SP1,2024-25,PS,influencia de la pendiente,18,0.0554417829381
+SP1,2024-25,PS,influencia de la pendiente,19,0.00694740587209
+SP1,2024-25,PS,influencia de la pendiente,20,0.055201724212
+SP1,2024-25,PS,influencia de la pendiente,21,0.0857347478455
+SP1,2024-25,PS,influencia de la pendiente,22,-0.0162669283909
+SP1,2024-25,PS,influencia de la pendiente,23,-0.0588822644411
+SP1,2024-25,PS,influencia de la pendiente,24,0.101247584724
+SP1,2024-25,PS,influencia de la pendiente,25,-0.0112841054312
+SP1,2024-25,PS,influencia de la pendiente,26,0.0559972688695
+SP1,2024-25,PS,influencia de la pendiente,27,0.079665063008
+SP1,2024-25,PS,influencia de la pendiente,28,0.106819114951
+SP1,2024-25,PS,influencia de la pendiente,29,-0.023992501274
+SP1,2024-25,PS,influencia de la pendiente,30,-0.0580184610507
+SP1,2024-25,PS,influencia de la pendiente,31,0.103833135981
+SP1,2024-25,PS,influencia de la pendiente,32,-0.0364745313704
+SP1,2024-25,PS,influencia de la pendiente,33,-0.0107489396588
+SP1,2024-25,PS,influencia de la pendiente,34,0.00387776890054
+SP1,2024-25,PS,influencia de la pendiente,35,-0.0368829766847
+SP1,2024-25,PS,influencia de la pendiente,36,-0.046033103838
+SP1,2024-25,PS,influencia de la pendiente,37,0.0755172642809
+SP1,2024-25,PS,influencia de la pendiente,38,0.0086144051069
+SP1,2024-25,PS,influencia de la pendiente,39,0.00200391452486
+SP1,2024-25,PS,influencia de la pendiente,40,0.0071418381043
+SP1,2024-25,PS,RPS por partido,1,-0.00394044233275
+SP1,2024-25,PS,RPS por partido,2,0.0139105141914
+SP1,2024-25,PS,RPS por partido,3,-0.0226266776982
+SP1,2024-25,PS,RPS por partido,4,-0.037732364944
+SP1,2024-25,PS,RPS por partido,5,0.023551705002
+SP1,2024-25,PS,RPS por partido,6,0.0092250151972
+SP1,2024-25,PS,RPS por partido,7,0.00836598857073
+SP1,2024-25,PS,RPS por partido,8,0.0423428219814
+SP1,2024-25,PS,RPS por partido,9,-0.0259201908154
+SP1,2024-25,PS,RPS por partido,10,0.020775878949
+SP1,2024-25,PS,RPS por partido,11,0.00103982821571
+SP1,2024-25,PS,RPS por partido,12,-0.0700602234206
+SP1,2024-25,PS,RPS por partido,13,-0.0236140343952
+SP1,2024-25,PS,RPS por partido,14,0.0787103613829
+SP1,2024-25,PS,RPS por partido,15,-0.0537412459121
+SP1,2024-25,PS,RPS por partido,16,-0.00467469019487
+SP1,2024-25,PS,RPS por partido,17,0.00614052182872
+SP1,2024-25,PS,RPS por partido,18,0.117296077173
+SP1,2024-25,PS,RPS por partido,19,-0.0311608041681
+SP1,2024-25,PS,RPS por partido,20,0.0616448375154
+SP1,2024-25,PS,RPS por partido,21,0.0262455860905
+SP1,2024-25,PS,RPS por partido,22,-0.0272217936088
+SP1,2024-25,PS,RPS por partido,23,-0.00097231054698
+SP1,2024-25,PS,RPS por partido,24,-0.0213172120002
+SP1,2024-25,PS,RPS por partido,25,-0.0584280830824
+SP1,2024-25,PS,RPS por partido,26,-0.0231733252526
+SP1,2024-25,PS,RPS por partido,27,0.0624248764363
+SP1,2024-25,PS,RPS por partido,28,-0.01828758739
+SP1,2024-25,PS,RPS por partido,29,0.0496908901281
+SP1,2024-25,PS,RPS por partido,30,-0.046374905843
+SP1,2024-25,PS,RPS por partido,31,-0.0160946348581
+SP1,2024-25,PS,RPS por partido,32,-0.00613788716684
+SP1,2024-25,PS,RPS por partido,33,-0.0781398939763
+SP1,2024-25,PS,RPS por partido,34,0.0406978705392
+SP1,2024-25,PS,RPS por partido,35,0.0117836301184
+SP1,2024-25,PS,RPS por partido,36,-0.00179815307648
+SP1,2024-25,PS,RPS por partido,37,-0.0231278064766
+SP1,2024-25,PS,RPS por partido,38,-0.0754387199383
+SP1,2024-25,PS,RPS por partido,39,0.0217956891577
+SP1,2024-25,PS,RPS por partido,40,-0.0407569763258

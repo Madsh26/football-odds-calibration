@@ -1,4 +1,4 @@
-"""Figuras, hallazgos y sección HTML de la análisis de público local (público local)."""
+"""Figuras, hallazgos y sección HTML de la pregunta secundaria 3 (público local)."""
 import numpy as np
 import matplotlib
 matplotlib.use('Agg')
@@ -106,10 +106,10 @@ def covid_answer(ct):
     sh = ct['covid_share_lost'].set_index('league'); e, s = sh.loc['E0'], sh.loc['SP1']
     pe, ps = _row(ct, 'E0', 'points_diff'), _row(ct, 'SP1', 'points_diff')
     ge = _adj(ct, 'SP1', 'goal_diff')
-    return (f"Durante el periodo sin público, la ventaja de local en la Premier pasó de {_fmt(e.home_adv_with_fans)} a {_fmt(e.home_adv_closed)} puntos por partido "
-            f"(p ajustado {_p(pe.p_holm)}): quedó prácticamente en cero. En LaLiga bajó de {_fmt(s.home_adv_with_fans)} a {_fmt(s.home_adv_closed)} (cerca del {s.estimate:.0f} %); "
+    return (f"Sí. Sin público, la ventaja de local en la Premier pasó de {_fmt(e.home_adv_with_fans)} a {_fmt(e.home_adv_closed)} puntos por partido "
+            f"(p ajustado {_p(pe.p_holm)}): desapareció. En LaLiga bajó de {_fmt(s.home_adv_with_fans)} a {_fmt(s.home_adv_closed)} (cerca del {s.estimate:.0f} %); "
             f"la caída es consistente en todas las medidas, pero solo en goles ajustados por fuerza y en remates supera el control de comparaciones múltiples "
-            f"(goles: p ajustado {_p(ge.p_holm)}). El mercado bajó la probabilidad del local unos 3 pp y no se detectó un cambio concluyente en la brecha de victoria local observada frente a la prevista.")
+            f"(goles: p ajustado {_p(ge.p_holm)}). El mercado bajó la probabilidad del local unos 3 pp; la brecha agregada no es concluyente, sin demostrar calibración perfecta.")
 
 
 def covid_findings(ct):
@@ -127,7 +127,7 @@ def covid_findings(ct):
         lines.append(f"{LEAGUE[lg]}: Pinnacle redujo la probabilidad implícita del local en {abs(i.estimate):.1f} pp (p ajustado {i.p_holm:.3f}); "
                      f"la brecha observada − implícita cambió {g.estimate:+.1f} pp (IC {g.ci_low:.1f} a {g.ci_high:.1f}; p ajustado {g.p_holm:.3f}).")
     b = ct['covid_league_difference']; k = int((b.p_holm < .05).sum())
-    lines.append(f"Entre ligas, {k} de {len(b)} diferencias del efecto (Premier − LaLiga) alcanzan p ajustado <0,05: el efecto estimado es mayor en la Premier, pero la diferencia no es concluyente.")
+    lines.append(f"Entre ligas, {k} de {len(b)} diferencias del efecto (Premier − LaLiga) alcanzan p ajustado <0,05: el efecto es mayor en la Premier, pero la diferencia no es concluyente.")
     return lines
 
 
@@ -183,13 +183,13 @@ def covid_section(ct, img, table):
     ge, gs = _row(ct, 'E0', 'gap_PS'), _row(ct, 'SP1', 'gap_PS')
     pp_e, pp_s = _row(ct, 'E0', 'points_diff', 'post_minus_pre'), _row(ct, 'SP1', 'points_diff', 'post_minus_pre')
     parts = [
-        '<h2 id="covid">Público local y pandemia · ¿Influía el público local en los resultados?</h2>',
+        '<h2 id="covid">Pregunta secundaria 3 · ¿Influía el público local en los resultados?</h2>',
         '<section><p><b>Pregunta.</b> ¿Se redujo la ventaja de local en Premier League y LaLiga cuando los partidos se jugaron sin público durante la pandemia, '
         'por qué canales (arbitraje y rendimiento) y lo incorporó el mercado de cuotas de cierre?</p>'
         f'<p><b>Diseño.</b> Experimento natural con las temporadas completas {first}–2024/25 de ambas ligas ({n_total} partidos). Periodos: <i>con público antes</i> (hasta el 9/03/2020; {n_pre_e} partidos en la Premier y {n_pre_s} en LaLiga), '
         '<i>puerta cerrada</i> (desde la reanudación hasta el final de 2020/21) y <i>con público después</i> (Premier desde agosto de 2021; LaLiga desde el 1/10/2021, al volver el aforo pleno). '
         'Los partidos con aforo mínimo (Premier: diciembre de 2020 y últimas jornadas de mayo de 2021; LaLiga: últimas jornadas de mayo de 2021) y con aforo parcial (LaLiga, agosto–septiembre de 2021) '
-        'se excluyen del contraste principal; la sensibilidad reincorpora los de aforo mínimo. El contraste principal agrupa los periodos con público anterior y posterior frente a puerta cerrada.</p>'
+        'se excluyen del contraste principal y se reincorporan en una sensibilidad.</p>'
         '<p><b>Medidas.</b> La ventaja de local es puntos del local − puntos del visitante por partido (vale cero si jugar en casa no da ventaja); también victorias locales, goles, remates (rendimiento) '
         'y amarillas y faltas del visitante − del local (arbitraje). El mercado se mide con la probabilidad implícita de victoria local (método de potencia, cuotas de cierre) y su brecha frente a lo observado. '
         'Football-Data no publica cuotas de cierre de Bet365 antes de 2019/20, así que las medidas de Bet365 usan 2019/20 en adelante y Pinnacle cubre todo el periodo.</p>'
@@ -199,28 +199,28 @@ def covid_section(ct, img, table):
         img('covid_home_advantage', 'Ventaja de local en puntos y porcentaje de victorias locales por periodo, con IC 95 % por bloques.'),
         img('covid_seasons', 'Ventaja de local por temporada; 2019/20 se divide en el tramo con público y el tramo a puerta cerrada.'),
         _restart_note(ct),
-        f'<div class="note"><b>Respuesta.</b> La ventaja de local se redujo durante el periodo sin público; el diseño no aísla su efecto causal. '
+        f'<div class="note"><b>Respuesta.</b> Sí: el público local influía en los resultados. '
         f'<b>Premier League:</b> la ventaja pasó de {_fmt(e.home_adv_with_fans)} a {_fmt(e.home_adv_closed)} puntos por partido (cambio {_fmt(pe.estimate)}; IC {_fmt(pe.ci_low)} a {_fmt(pe.ci_high)}; p ajustado {_p(pe.p_holm)}) '
-        f'y las victorias locales cayeron {_fmt(-we.estimate,1)} pp: la ventaja media en puntos quedó prácticamente en cero. Ajustando por la fuerza de los equipos se mantiene la caída ({_fmt(ae.estimate)}; p ajustado {_p(ae.p_holm)}). '
+        f'y las victorias locales cayeron {_fmt(-we.estimate,1)} pp: sin público, jugar en casa dejó de dar ventaja. Ajustando por la fuerza de los equipos el resultado es el mismo ({_fmt(ae.estimate)}; p ajustado {_p(ae.p_holm)}). '
         f'<b>LaLiga:</b> la ventaja bajó de {_fmt(s.home_adv_with_fans)} a {_fmt(s.home_adv_closed)} (cerca del {s.estimate:.0f} %; cambio {_fmt(ps.estimate)}, IC {_fmt(ps.ci_low)} a {_fmt(ps.ci_high)}). '
         f'La caída aparece en todas las medidas, pero solo supera el control de comparaciones múltiples en remates (p ajustado {_p(rs.p_holm)}) y en goles ajustados por fuerza '
         f'({_fmt(ags.estimate)} goles por partido; p ajustado {_p(ags.p_holm)}); en puntos no lo alcanza (p ajustado {_p(ps.p_holm)} sin ajustar por fuerza y {_p(as_.p_holm)} ajustado). '
-        f'En el periodo posterior la ventaja media volvió a ser positiva en ambas ligas ("después − antes": {_fmt(pp_e.estimate)} y {_fmt(pp_s.estimate)} puntos, sin diferencia significativa). '
-        'El efecto estimado es mayor en la Premier, pero la diferencia entre ligas no es concluyente.</div>',
+        f'Al volver el público la ventaja se recuperó en ambas ligas ("después − antes": {_fmt(pp_e.estimate)} y {_fmt(pp_s.estimate)} puntos, sin diferencia significativa). '
+        'El efecto es mayor en la Premier, pero la diferencia entre ligas no es concluyente.</div>',
         '<h3>Ventaja de local ajustada por fuerza de los equipos</h3><p>Cada temporada completa equilibra partidos de local y visitante, pero 2019/20 se divide en dos tramos con calendarios distintos. '
         'El modelo asigna a cada equipo una fuerza por temporada, de modo que la ventaja de cada periodo no dependa de qué equipos jugaron en casa en cada tramo.</p>', table(adj),
         img('covid_mechanisms', 'Diferencia de tarjetas amarillas y de remates entre visitante y local por periodo.'),
         f'<p><b>Canal arbitral.</b> Con público, el visitante recibía más amarillas que el local. Sin público esa diferencia desapareció en la Premier ({_fmt(ce.estimate)} por partido; p ajustado {_p(ce.p_holm)}) '
         f'y se redujo en LaLiga sin superar el ajuste ({_fmt(cs.estimate)}; p ajustado {_p(cs.p_holm)}). <b>Canal de rendimiento.</b> La ventaja de remates del local cayó en ambas ligas '
         f'(Premier {_fmt(re_.estimate)}, p ajustado {_p(re_.p_holm)}; LaLiga {_fmt(rs.estimate)}, p ajustado {_p(rs.p_holm)}). '
-        'Las diferencias son compatibles con cambios en decisiones arbitrales y rendimiento; las tarjetas también dependen del juego. El diseño no identifica un efecto causal de cada mecanismo.</p>',
+        'Ambos canales son compatibles con que la afición influye en el árbitro y en el juego; el diseño no permite separar cuánto aporta cada uno.</p>',
         img('covid_market', 'Victoria local observada frente a probabilidad implícita de Bet365 y Pinnacle por periodo.'),
         f'<p><b>Mercado.</b> Pinnacle bajó la probabilidad implícita del local {_fmt(-ie.estimate,1)} pp en la Premier y {_fmt(-is_.estimate,1)} pp en LaLiga (ambos p ajustado {_p(max(ie.p_holm, is_.p_holm))}); Bet365, desde 2019/20, se movió en la misma dirección y con magnitud similar. '
         f'La brecha observada − implícita se volvió negativa durante el cierre (cambio: Premier {_fmt(ge.estimate,1)} pp, IC {_fmt(ge.ci_low,1)} a {_fmt(ge.ci_high,1)}; LaLiga {_fmt(gs.estimate,1)} pp, IC {_fmt(gs.ci_low,1)} a {_fmt(gs.ci_high,1)}). '
-        'Eso sugiere que el precio se ajustó algo menos de lo que cayó la ventaja real, pero el cambio no es concluyente: esta medida no demuestra un deterioro de la brecha de victoria local y tampoco prueba calibración perfecta.</p>',
+        'Eso sugiere que el precio se ajustó algo menos de lo que cayó la ventaja real, pero no es significativo: no hay evidencia de que el mercado quedara mal calibrado sin público.</p>',
         '<h3>Contraste principal: puerta cerrada − con público</h3>', table(main),
         '<h3>Descriptivos por periodo</h3>', table(desc),
-        '<h3>Contrastes secundarios</h3><p>"Cerrada − antes" y "cerrada − después" evalúan la consistencia del cambio frente a cada referencia. "Después − antes" explora diferencias entre periodos con público; estos contrastes no descartan por sí solos otras alteraciones de la pandemia.</p>', table(sec),
+        '<h3>Contrastes secundarios</h3><p>"Cerrada − antes" y "cerrada − después" deben ir en la misma dirección si el efecto es de la ausencia de público y no de una tendencia; "después − antes" comprueba que la ventaja volvió.</p>', table(sec),
         '<h3>¿Difiere el efecto entre ligas?</h3>', table(btw),
         '<h3>Sensibilidad</h3><p>Tamaño de bloque (1, 10 y 40 partidos), método de remoción del margen (proporcional frente a potencia) y restricción a las temporadas con cuotas de Bet365 (desde 2019/20). Ninguna cambia la dirección ni el orden de magnitud de los efectos.</p>', table(sens),
         '<section><h3>Límites</h3><ul><li>Es un experimento natural, no un ensayo: la pandemia también cambió calendarios, descansos y viajes. La ausencia de público es la explicación más directa, no la única posible.</li>'

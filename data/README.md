@@ -9,3 +9,5 @@ Los CSV originales se conservan localmente en `raw/` y `raw_covid/` y se excluye
 Ejecute `python download_data.py` desde la raíz para obtener los archivos públicos faltantes. Las descargas nuevas registran URL, fecha UTC y SHA-256 en `downloads.json`, excluido de Git. El descargador compara las huellas históricas conocidas antes de guardar; si la fuente cambió, se detiene y solicita una revisión explícita de la versión de datos. Conservar las huellas evita presentar una ejecución con datos distintos como reproducción exacta.
 
 Las cuotas de cierre de Bet365 no están disponibles antes de 2019/20. No se sustituyen por cuotas anteriores al cierre. Las medidas deportivas utilizan todos los partidos elegibles y cada medida de mercado usa su cobertura efectiva, documentada en `../reports/tables/covid_coverage.csv`.
+
+La entrega final incluye referencias locales 2026-09-29 y 2026-10-01 con `date_basis` en los manifiestos. Son marcas o fechas de entrega del equipo, no descargas verificadas; el nombre histórico `download_date` no acredita la fecha original de obtención.

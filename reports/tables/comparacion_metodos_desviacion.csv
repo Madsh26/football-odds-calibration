@@ -1,0 +1,17 @@
+liga,casa,metodo,intervalos,desv_abs_media_pp,desv_abs_max_pp,ic_excluye_cero
+Premier League,Bet365,Proporcional,30,2.83143,11.3869,1
+Premier League,Bet365,Potencia,30,2.58704,9.41618,1
+Premier League,Bet365,Aditivo,30,2.76865,9.45858,1
+Premier League,Bet365,Shin,30,2.73997,9.72902,1
+Premier League,Pinnacle,Proporcional,30,2.74795,12.8367,2
+Premier League,Pinnacle,Potencia,30,2.61867,12.2836,2
+Premier League,Pinnacle,Aditivo,30,2.60735,12.2973,2
+Premier League,Pinnacle,Shin,30,2.62814,12.4342,2
+LaLiga,Bet365,Proporcional,30,3.3925,9.63713,3
+LaLiga,Bet365,Potencia,30,2.98491,8.9499,0
+LaLiga,Bet365,Aditivo,30,2.94469,8.95396,0
+LaLiga,Bet365,Shin,30,3.078,9.13046,1
+LaLiga,Pinnacle,Proporcional,30,3.18215,11.2414,3
+LaLiga,Pinnacle,Potencia,30,2.87023,10.0382,2
+LaLiga,Pinnacle,Aditivo,30,2.88087,10.035,2
+LaLiga,Pinnacle,Shin,30,2.92218,10.1187,2

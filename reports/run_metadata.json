@@ -1,8 +1,8 @@
 {
-  "python": "3.14.3",
-  "numpy": "2.5.3",
-  "pandas": "3.0.6",
-  "scipy": "1.18.1",
+  "python": "3.14.5",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "scipy": "1.17.1",
   "config": {
     "leagues": {
       "E0": "Premier League",
@@ -90,10 +90,20 @@
         "2017-18",
         "2018-19"
       ]
+    },
+    "provenance": {
+      "raw": {
+        "obtained": "2026-09-29",
+        "basis": "marca de tiempo de los archivos entregados por el equipo; fecha exacta de descarga no registrada"
+      },
+      "raw_covid": {
+        "obtained": "2026-10-01",
+        "basis": "fecha en que el equipo entreg\u00f3 los archivos al an\u00e1lisis; fecha exacta de descarga no registrada"
+      }
     }
   },
   "matches": 2280,
   "records": 4560,
   "covid_matches": 6080,
-  "elapsed_seconds": 227.01
+  "elapsed_seconds": 149.0
 }

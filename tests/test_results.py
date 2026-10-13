@@ -50,7 +50,7 @@ class ResultTests(unittest.TestCase):
         for link in re.findall(r'href="([^"]+)"',s):
             if link.startswith(('http','#')): continue
             self.assertTrue((report.parent/link).exists(),link)
-        # 9 figuras del análisis principal + 4 de la análisis de público local (COVID).
+        # 9 figuras del análisis principal + 4 de la pregunta secundaria 3 (COVID).
         self.assertEqual(s.count('data:image/png;base64,'),13)
 
 if __name__=='__main__': unittest.main()

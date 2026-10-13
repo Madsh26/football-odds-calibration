@@ -1,4 +1,4 @@
-"""Controles de la análisis de público local (público local y COVID-19)."""
+"""Controles de la pregunta secundaria 3 (público local y COVID-19)."""
 import json
 from pathlib import Path
 import unittest
@@ -36,7 +36,6 @@ class CovidDataTests(unittest.TestCase):
         for op in CFG['operators']:
             v=m[f'implied_{op}'].dropna(); self.assertTrue(v.between(0,1).all())
 
-class StrengthModelTests(unittest.TestCase):
     def test_strength_model_recovers_home_advantage(self):
         # Datos sintéticos: ventaja conocida por periodo y fuerzas aleatorias.
         import numpy as np, pandas as pd

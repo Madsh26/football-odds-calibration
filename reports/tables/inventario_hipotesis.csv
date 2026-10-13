@@ -1,0 +1,989 @@
+table,family,role,hypothesis,estimate,ci_low,ci_high,p_raw,p_holm
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · B365 · proportional,0.794294488816,-0.235469363991,1.72084179765,0.109945027486,0.87956021989
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · B365 · power,0.175271881519,-0.800746309235,1.0504401051,0.710144927536,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · B365 · additive,0.230022274532,-0.748673134538,1.10857992466,0.624687656172,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · B365 · shin,0.369738579638,-0.622088222718,1.26285950066,0.44127936032,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · PS · proportional,0.557886117675,-0.434874784814,1.47671132347,0.261369315342,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · PS · power,0.218182939865,-0.751593188571,1.09909835356,0.63968015992,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · PS · additive,0.245190472122,-0.723086604488,1.12965662298,0.60219890055,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,E0 · PS · shin,0.322978537924,-0.651522195953,1.21602133368,0.491254372814,1
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · B365 · proportional,1.65996540532,0.547595419623,2.82812727769,0.00649675162419,0.103948025987
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · B365 · power,0.997266584781,-0.0534758717411,2.10965741567,0.0684657671164,0.713643178411
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · B365 · additive,1.04251105757,-0.0147372334388,2.15652044966,0.0594702648676,0.713643178411
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · B365 · shin,1.19585634036,0.125093486493,2.32370848243,0.0384807596202,0.538730634683
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · PS · proportional,1.37308830945,0.271745612831,2.52730871518,0.0204897551224,0.307346326837
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · PS · power,1.01652238337,-0.0502910991105,2.13937412838,0.0659670164918,0.713643178411
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · PS · additive,1.0367830508,-0.0320586214425,2.16001347421,0.0624687656172,0.713643178411
+bias,P1 · Pendiente del error (2022/23–2024/25),Principal,SP1 · PS · shin,1.12063102852,0.0441468471764,2.25173179965,0.0459770114943,0.597701149425
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · B365 · proportional,0.542655888648,-1.34719883133,2.40557205985,0.552723638181,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · B365 · power,-0.0726949537869,-1.85388618122,1.70603341431,0.934532733633,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · B365 · additive,-0.0195003299786,-1.81207201656,1.76120922233,0.980509745127,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · B365 · shin,0.119813486888,-1.69645148746,1.92240505557,0.897551224388,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · PS · proportional,0.34691196461,-1.49864831826,2.17655157034,0.705147426287,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · PS · power,0.0537683200456,-1.73422529266,1.83217372156,0.949525237381,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · PS · additive,0.0752973768172,-1.71405030933,1.85793845694,0.930034982509,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2022-23 · PS · shin,0.142936767862,-1.65829102537,1.93811929213,0.885057471264,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · B365 · proportional,1.75821663987,0.245311429093,3.25028119016,0.0214892553723,0.343828085957
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · B365 · power,1.0929919898,-0.350956038963,2.51486447301,0.145427286357,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · B365 · additive,1.15417229649,-0.290503792044,2.58022820113,0.124937531234,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · B365 · shin,1.3037967882,-0.157156464419,2.74328912973,0.0844577711144,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · PS · proportional,1.43917222541,-0.0584388721392,2.90569241643,0.063968015992,0.895552223888
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · PS · power,1.04874845729,-0.402874421694,2.47442801747,0.169915042479,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · PS · additive,1.08278937107,-0.372177082334,2.5069931838,0.158420789605,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2023-24 · PS · shin,1.17138522738,-0.294218075938,2.60501450528,0.127436281859,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · B365 · proportional,-0.0597506768637,-1.71129472759,1.55257112208,0.944027986007,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · B365 · power,-0.627766160206,-2.18585518037,0.897068707688,0.458270864568,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · B365 · additive,-0.577675962177,-2.14107962307,0.950120001649,0.493753123438,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · B365 · shin,-0.449628847388,-2.03280475774,1.09873617634,0.591704147926,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · PS · proportional,-0.246811587808,-1.8352454433,1.2869427972,0.760619690155,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · PS · power,-0.574892542465,-2.11166913603,0.917572309547,0.48275862069,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · PS · additive,-0.549669951256,-2.09094837709,0.943180075713,0.504247876062,1
+bias,E · Pendiente por temporada,Exploratoria,E0 · 2024-25 · PS · shin,-0.474392726879,-2.02739029017,1.0287414068,0.561219390305,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · B365 · proportional,1.13444572565,-0.77757580493,2.95751359875,0.23988005997,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · B365 · power,0.481376901196,-1.33349189474,2.18732236633,0.599700149925,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · B365 · additive,0.522689886488,-1.29747647717,2.24480601556,0.565217391304,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · B365 · shin,0.674585599996,-1.16848910797,2.42192245922,0.473263368316,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · PS · proportional,0.896411597764,-0.939235252857,2.65952120585,0.347326336832,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · PS · power,0.600057542822,-1.19313318653,2.32279365462,0.514742628686,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · PS · additive,0.613214951883,-1.1800353255,2.33678758344,0.506246876562,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2022-23 · PS · shin,0.683850339805,-1.11987798121,2.41775722734,0.468265867066,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · B365 · proportional,2.14486589082,0.19125780519,4.30749879705,0.0424787606197,0.637181409295
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · B365 · power,1.48786310555,-0.370852267547,3.54870282082,0.137431284358,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · B365 · additive,1.53551715315,-0.327600998414,3.59482970612,0.127936031984,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · B365 · shin,1.68644468353,-0.198337214696,3.77186423534,0.0944527736132,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · PS · proportional,1.78115709792,-0.143790410493,3.94292207646,0.0889555222389,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · PS · power,1.39956929093,-0.464759887143,3.49949610773,0.169415292354,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · PS · additive,1.42505499605,-0.441226669253,3.52371724465,0.16091954023,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2023-24 · PS · shin,1.51357597904,-0.366652935159,3.62807962829,0.139930034983,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · B365 · proportional,1.68958538783,-0.308219949258,3.78405685569,0.103948025987,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · B365 · power,1.01696903649,-0.855667889147,2.98886596366,0.303348325837,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · B365 · additive,1.06299534722,-0.8230332042,3.04881860544,0.290854572714,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · B365 · shin,1.2189609278,-0.694251361194,3.23490485772,0.229885057471,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · PS · proportional,1.42424761434,-0.53656834189,3.4658923528,0.15992003998,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · PS · power,1.03398767205,-0.863316518706,3.0171396435,0.303348325837,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · PS · additive,1.05599108846,-0.845071586784,3.03628451334,0.295352323838,1
+bias,E · Pendiente por temporada,Exploratoria,SP1 · 2024-25 · PS · shin,1.14792087603,-0.768028484589,3.14349210277,0.257871064468,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · B365 · proportional,2.79732070894,-3.49655023615,8.50806205639,0.374812593703,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · B365 · power,-0.674098724297,-6.92541597711,5.03529370111,0.845077461269,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · B365 · additive,-0.308133300276,-6.57255675164,5.40093281537,0.933533233383,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · B365 · shin,0.49065930284,-5.78133630508,6.2032992858,0.891054472764,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · PS · proportional,1.91147877204,-4.05729301329,7.53661199445,0.550224887556,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · PS · power,-0.0476424671934,-6.04400517158,5.58640989045,0.986506746627,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · PS · additive,0.132841963179,-5.84773374533,5.76705681151,0.967016491754,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),E0 · PS · shin,0.584723012093,-5.38449454121,6.21270854709,0.84307846077,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · B365 · proportional,8.66491286466,1.37511545666,15.9901045615,0.0204897551224,0.327836081959
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · B365 · power,5.28762056227,-2.0097286317,12.6263449572,0.150924537731,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · B365 · additive,5.57359397037,-1.72131990464,12.9067628269,0.132933533233,1
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · B365 · shin,6.37193214911,-0.921842539971,13.7030752228,0.0844577711144,0.929035482259
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · PS · proportional,8.5370028413,1.33698159274,15.7240715398,0.0214892553723,0.327836081959
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · PS · power,6.65235460669,-0.556338952021,13.87996312,0.0694652673663,0.833583208396
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · PS · additive,6.78523305161,-0.410848079491,14.0059774256,0.063968015992,0.831584207896
+extremes,P2 · Contraste de extremos 20/60,Principal (complementaria),SP1 · PS · shin,7.23125995803,0.0364716992485,14.4435231889,0.0499750124938,0.699650174913
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · B365 · proportional,0.189543969572,-10.9000465923,10.50365205,0.971514242879,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · B365 · power,-3.17738117149,-14.3297687157,7.13849494608,0.567216391804,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · B365 · additive,-2.85270199749,-13.9925006312,7.42200597108,0.608695652174,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · B365 · shin,-2.06900957569,-13.1956204344,8.2150084936,0.708645677161,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · PS · proportional,-0.239849939961,-10.7354902848,9.74818950619,0.968015992004,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · PS · power,-1.92829514992,-12.4072890016,8.07600739699,0.708645677161,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · PS · additive,-1.79562296506,-12.2799414085,8.20352409317,0.726636681659,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2022-23 · PS · shin,-1.40069459262,-11.8876961396,8.59604789113,0.781609195402,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · B365 · proportional,7.93100675577,-2.8177383216,18.3058538215,0.141429285357,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · B365 · power,4.3835730007,-6.40114709368,14.8525807147,0.425287356322,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · B365 · additive,4.78913821873,-5.98892909494,15.2414929004,0.380809595202,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · B365 · shin,5.59607066264,-5.17450460003,16.0281220367,0.306346826587,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · PS · proportional,6.43166478166,-4.23691626138,16.7167516645,0.242378810595,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · PS · power,4.29114852618,-6.37303656654,14.604797862,0.436781609195,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · PS · additive,4.5119846615,-6.15767772159,14.820192085,0.420789605197,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2023-24 · PS · shin,4.99973615399,-5.66970984401,15.3021272555,0.364817591204,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · B365 · proportional,-0.255473711348,-10.5817809444,10.0608352197,0.964517741129,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · B365 · power,-3.74276566801,-13.9988174559,6.52720615264,0.490254872564,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · B365 · additive,-3.38088211891,-13.6536233114,6.90402912418,0.538230884558,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · B365 · shin,-2.57671643398,-12.8511360663,7.71388070032,0.631184407796,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · PS · proportional,-0.963663425874,-10.3063082227,8.77047230833,0.858070964518,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · PS · power,-2.98374706416,-12.3237372292,6.70311604862,0.553223388306,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · PS · additive,-2.80167125162,-12.1463143258,6.89864122932,0.577211394303,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,E0 · 2024-25 · PS · shin,-2.33442768304,-11.6858522222,7.37442376565,0.646176911544,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · B365 · proportional,3.3477842709,-8.46990874466,14.1280979572,0.580709645177,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · B365 · power,-0.0630249187201,-11.8793650658,10.5828299672,0.992003998001,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · B365 · additive,0.220992299733,-11.5792581177,10.9085270004,0.975012493753,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · B365 · shin,1.0293916219,-10.7797224476,11.7403180172,0.878060969515,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · PS · proportional,4.5684328258,-7.33806520976,15.3483023289,0.44327836082,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · PS · power,2.97488748959,-8.84927437926,13.6987342221,0.603698150925,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · PS · additive,3.0738707642,-8.77198248581,13.7996857261,0.592203898051,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2022-23 · PS · shin,3.4536548733,-8.40749527061,14.2103291183,0.55772113943,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · B365 · proportional,12.1123939153,-0.330182888524,24.4709491707,0.0569715142429,0.911544227886
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · B365 · power,8.98001290981,-3.54332511559,21.3428776863,0.170914542729,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · B365 · additive,9.22156416713,-3.30255644942,21.583923481,0.157421289355,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · B365 · shin,9.96721895069,-2.53610730271,22.3285955588,0.127436281859,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · PS · proportional,10.9955653949,-1.61832744653,23.2351882564,0.0864567716142,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · PS · power,9.09925452022,-3.53948597003,21.4377816809,0.165417291354,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · PS · additive,9.22577724522,-3.40455806981,21.5380650319,0.16091954023,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2023-24 · PS · shin,9.67652561399,-2.94989501876,21.9609222345,0.141929035482,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · B365 · proportional,10.4375352291,-3.23941075995,23.663213514,0.122938530735,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · B365 · power,6.87184396807,-6.79684575878,20.0615433622,0.311344327836,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · B365 · additive,7.19922921603,-6.47571168264,20.4180822342,0.290854572714,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · B365 · shin,8.03551735679,-5.64416201027,21.271963071,0.238380809595,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · PS · proportional,9.86135692361,-3.36493008682,22.7357800758,0.148425787106,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · PS · power,7.72441313588,-5.54685747698,20.6119651771,0.247876061969,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · PS · additive,7.89373452598,-5.38021176228,20.78189157,0.24187906047,1
+extremes,E · Contraste de extremos por temporada,Exploratoria,SP1 · 2024-25 · PS · shin,8.39527338348,-4.8833981373,21.2797328696,0.212393803098,1
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),E0 · B365 · power minus proportional,-0.619022607297,-0.672495002662,-0.561029093683,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),E0 · B365 · additive minus proportional,-0.564272214285,-0.613409045295,-0.511152311642,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),E0 · B365 · shin minus proportional,-0.424555909178,-0.461411949026,-0.384636597025,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),E0 · PS · power minus proportional,-0.33970317781,-0.370623208564,-0.306731419598,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),E0 · PS · additive minus proportional,-0.312695645553,-0.341020876402,-0.282233196936,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),E0 · PS · shin minus proportional,-0.234907579751,-0.256173142748,-0.212142513164,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),SP1 · B365 · power minus proportional,-0.662698820538,-0.729052713949,-0.598287708983,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),SP1 · B365 · additive minus proportional,-0.617454347751,-0.679540791883,-0.558251917042,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),SP1 · B365 · shin minus proportional,-0.46410906496,-0.510896654847,-0.419655443378,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),SP1 · PS · power minus proportional,-0.356565926081,-0.39268351041,-0.322617580314,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),SP1 · PS · additive minus proportional,-0.336305258651,-0.37023181994,-0.304631295434,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (error_slope),Principal (sensibilidad al método),SP1 · PS · shin minus proportional,-0.252457280923,-0.277915936561,-0.228727478566,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),E0 · B365 · power minus proportional,-3.47141943324,-3.55856370105,-3.38518309645,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),E0 · B365 · additive minus proportional,-3.10545400922,-3.1715247189,-3.03982128744,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),E0 · B365 · shin minus proportional,-2.3066614061,-2.35549933307,-2.25789786782,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),E0 · PS · power minus proportional,-1.95912123923,-2.02404466807,-1.89500421316,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),E0 · PS · additive minus proportional,-1.77863680886,-1.8282427005,-1.72901290531,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),E0 · PS · shin minus proportional,-1.32675575995,-1.36375674893,-1.28970011365,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),SP1 · B365 · power minus proportional,-3.37729230239,-3.46504213588,-3.29527685809,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),SP1 · B365 · additive minus proportional,-3.09131889429,-3.15658642161,-3.03102749276,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),SP1 · B365 · shin minus proportional,-2.29298071555,-2.34159333682,-2.24821791167,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),SP1 · PS · power minus proportional,-1.88464823461,-1.95553807999,-1.81685524404,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),SP1 · PS · additive minus proportional,-1.75176978969,-1.8097779047,-1.6977109824,0.000499750124938,0.00599700149925
+method_differences,P3 · Método − proporcional (extreme_gap),Principal (sensibilidad al método),SP1 · PS · shin minus proportional,-1.30574288327,-1.34894432895,-1.26546655316,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · B365 · power minus proportional · error_slope,-0.615350842435,-0.720929528315,-0.506726655432,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · B365 · power minus proportional · extreme_gap,-3.36692514106,-3.52150143009,-3.22486925231,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · B365 · additive minus proportional · error_slope,-0.562156218627,-0.660905625043,-0.460907820847,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · B365 · additive minus proportional · extreme_gap,-3.04224596707,-3.15978420387,-2.9334173983,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · B365 · shin minus proportional · error_slope,-0.42284240176,-0.496848770243,-0.346978386086,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · B365 · shin minus proportional · extreme_gap,-2.25855354526,-2.34566679075,-2.17811809474,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · PS · power minus proportional · error_slope,-0.293143644564,-0.349941177579,-0.23532618778,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · PS · power minus proportional · extreme_gap,-1.68844520996,-1.7908586493,-1.59050097783,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · PS · additive minus proportional · error_slope,-0.271614587793,-0.323919787712,-0.217138179319,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · PS · additive minus proportional · extreme_gap,-1.5557730251,-1.63889179516,-1.47725993179,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · PS · shin minus proportional · error_slope,-0.203975196748,-0.243273673632,-0.16313182645,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2022-23 · PS · shin minus proportional · extreme_gap,-1.16084465266,-1.22267906173,-1.10241276855,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · B365 · power minus proportional · error_slope,-0.665224650072,-0.74677881091,-0.584651333759,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · B365 · power minus proportional · extreme_gap,-3.54743375508,-3.72711353175,-3.37431380679,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · B365 · additive minus proportional · error_slope,-0.604044343378,-0.677288802867,-0.531194389871,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · B365 · additive minus proportional · extreme_gap,-3.14186853704,-3.27049594876,-3.01384714598,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · B365 · shin minus proportional · error_slope,-0.454419851665,-0.509363695522,-0.399841209814,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · B365 · shin minus proportional · extreme_gap,-2.33493609313,-2.43107914604,-2.23969264698,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · PS · power minus proportional · error_slope,-0.390423768117,-0.441862529084,-0.34061406538,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · PS · power minus proportional · extreme_gap,-2.14051625548,-2.2700427326,-2.01067024895,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · PS · additive minus proportional · error_slope,-0.356382854336,-0.402188440996,-0.311076881842,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · PS · additive minus proportional · extreme_gap,-1.91968012015,-2.01833839525,-1.81676467765,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · PS · shin minus proportional · error_slope,-0.26778699803,-0.302314534788,-0.233746187683,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2023-24 · PS · shin minus proportional · extreme_gap,-1.43192862767,-1.50536969656,-1.35528871322,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · B365 · power minus proportional · error_slope,-0.568015483342,-0.667420685263,-0.468568616524,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · B365 · power minus proportional · extreme_gap,-3.48729195667,-3.61579676304,-3.36463698257,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · B365 · additive minus proportional · error_slope,-0.517925285313,-0.606324054157,-0.427538616983,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · B365 · additive minus proportional · extreme_gap,-3.12540840756,-3.22411082525,-3.03006419419,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · B365 · shin minus proportional · error_slope,-0.389878170524,-0.456504439442,-0.32189439551,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · B365 · shin minus proportional · extreme_gap,-2.32124272263,-2.394336369,-2.25105499263,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · PS · power minus proportional · error_slope,-0.328080954657,-0.378629679708,-0.272636279335,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · PS · power minus proportional · extreme_gap,-2.02008363829,-2.11842074938,-1.93523952605,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · PS · additive minus proportional · error_slope,-0.302858363448,-0.349763820585,-0.25228471829,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · PS · additive minus proportional · extreme_gap,-1.83800782575,-1.9174552002,-1.77061552249,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · PS · shin minus proportional · error_slope,-0.227581139071,-0.262815256918,-0.189601691673,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,E0 · 2024-25 · PS · shin minus proportional · extreme_gap,-1.37076425717,-1.42989938288,-1.32052561856,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · B365 · power minus proportional · error_slope,-0.653068824452,-0.756572494581,-0.54863016955,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · B365 · power minus proportional · extreme_gap,-3.41080918962,-3.56454799918,-3.25178194684,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · B365 · additive minus proportional · error_slope,-0.61175583916,-0.70565355994,-0.514005984733,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · B365 · additive minus proportional · extreme_gap,-3.12679197117,-3.23704114347,-3.00747865079,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · B365 · shin minus proportional · error_slope,-0.459860125652,-0.530349531135,-0.386358625016,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · B365 · shin minus proportional · extreme_gap,-2.318392649,-2.40002056805,-2.2302051775,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · PS · power minus proportional · error_slope,-0.296354054942,-0.349437225462,-0.245935261662,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · PS · power minus proportional · extreme_gap,-1.5935453362,-1.7017286016,-1.49239005764,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · PS · additive minus proportional · error_slope,-0.28319664588,-0.332130438423,-0.23467718676,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · PS · additive minus proportional · extreme_gap,-1.4945620616,-1.58034325466,-1.41540292708,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · PS · shin minus proportional · error_slope,-0.212561257958,-0.249229410758,-0.176263485415,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2022-23 · PS · shin minus proportional · extreme_gap,-1.11477795249,-1.17875048141,-1.05599726996,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · B365 · power minus proportional · error_slope,-0.657002785271,-0.773420955663,-0.549387019636,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · B365 · power minus proportional · extreme_gap,-3.13238100549,-3.28372000679,-2.99251793473,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · B365 · additive minus proportional · error_slope,-0.609348737668,-0.721534570451,-0.506947995254,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · B365 · additive minus proportional · extreme_gap,-2.89082974817,-3.00869816303,-2.77932690024,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · B365 · shin minus proportional · error_slope,-0.458421207287,-0.54250523596,-0.381670619468,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · B365 · shin minus proportional · extreme_gap,-2.14517496461,-2.23312105692,-2.06198039007,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · PS · power minus proportional · error_slope,-0.381587806984,-0.447834494743,-0.321493234157,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · PS · power minus proportional · extreme_gap,-1.89631087468,-1.99364791293,-1.79097141241,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · PS · additive minus proportional · error_slope,-0.35610210187,-0.422022345759,-0.296604435848,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · PS · additive minus proportional · extreme_gap,-1.76978814968,-1.84689784808,-1.68274331547,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · PS · shin minus proportional · error_slope,-0.267581118882,-0.316926430678,-0.223029237684,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2023-24 · PS · shin minus proportional · extreme_gap,-1.31903978092,-1.37648795739,-1.25428475826,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · B365 · power minus proportional · error_slope,-0.672616351339,-0.796729143402,-0.553101540506,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · B365 · power minus proportional · extreme_gap,-3.565691261,-3.70235870914,-3.42600104336,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · B365 · additive minus proportional · error_slope,-0.626590040607,-0.742120296265,-0.515481557758,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · B365 · additive minus proportional · extreme_gap,-3.23830601304,-3.33927657765,-3.13125213917,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · B365 · shin minus proportional · error_slope,-0.470624460024,-0.557451409219,-0.386703097773,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · B365 · shin minus proportional · extreme_gap,-2.40201787228,-2.4771990436,-2.3227413852,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · PS · power minus proportional · error_slope,-0.390259942288,-0.459098826463,-0.322579769125,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · PS · power minus proportional · extreme_gap,-2.13694378773,-2.24860026582,-2.01955701224,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · PS · additive minus proportional · error_slope,-0.368256525888,-0.433128733152,-0.306715846373,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · PS · additive minus proportional · extreme_gap,-1.96762239763,-2.05589465027,-1.87697877576,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · PS · shin minus proportional · error_slope,-0.276326738308,-0.325017831256,-0.230076495471,0.000499750124938,0.00599700149925
+method_differences,E · Método − proporcional por temporada,Exploratoria,SP1 · 2024-25 · PS · shin minus proportional · extreme_gap,-1.46608354013,-1.53177303878,-1.39846052105,0.000499750124938,0.00599700149925
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),E0 · proportional,-3.28135690692e-05,-0.000358698493723,0.000285513587456,0.847076461769,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),E0 · power,9.81670646758e-05,-0.000221631804336,0.00041036444472,0.530734632684,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),E0 · additive,9.50723064114e-05,-0.000215179158745,0.000409811268377,0.544227886057,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),E0 · shin,7.82464625051e-05,-0.000221287788753,0.000382466775153,0.619690154923,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),SP1 · proportional,-0.000188556451084,-0.000491910140179,0.000124749103856,0.231384307846,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),SP1 · power,0.000112854834127,-0.00013936210184,0.00036535924431,0.375812093953,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),SP1 · additive,9.63035947688e-05,-0.000159784730671,0.000347225267202,0.450274862569,1
+operator_differences,S1c · Pinnacle − Bet365 (rps),Secundaria (casas),SP1 · shin,3.53721194217e-05,-0.000227790305854,0.000291850121143,0.780109945027,1
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),E0 · proportional,-0.236408371141,-0.290399025895,-0.183902647627,0.000499750124938,0.0039980009995
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),E0 · power,0.0429110583455,-0.000481111025675,0.0854983540141,0.0509745127436,0.204897551224
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),E0 · additive,0.0151681975902,-0.0283923812832,0.0580774307117,0.484757621189,1
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),E0 · shin,-0.0467600417142,-0.0923156434598,-0.00279630109659,0.0409795102449,0.204897551224
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),SP1 · proportional,-0.286877095872,-0.351276348697,-0.22432247174,0.000499750124938,0.0039980009995
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),SP1 · power,0.0192557985857,-0.0410834086371,0.0803008166599,0.529735132434,1
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),SP1 · additive,-0.00572800677222,-0.0648919933707,0.0549265815326,0.850574712644,1
+operator_differences,S1c · Pinnacle − Bet365 (error_slope),Secundaria (casas),SP1 · shin,-0.0752253118341,-0.13437283351,-0.0162201595496,0.0164917541229,0.0989505247376
+operator_differences,S1c · Pinnacle − Bet365 (margin_pp),Secundaria (casas),E0 · raw,-2.65600108437,-2.71613792756,-2.60291411936,0.000499750124938,0.000999500249875
+operator_differences,S1c · Pinnacle − Bet365 (margin_pp),Secundaria (casas),SP1 · raw,-2.79520478091,-2.85930128421,-2.73269763706,0.000499750124938,0.000999500249875
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · proportional · rps,8.50694786985e-05,-0.000444236948534,0.000600149844377,0.767616191904,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · proportional · error_slope,-0.195743924038,-0.286991286407,-0.106397954398,0.000499750124938,0.0039980009995
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · power · rps,-1.69604020179e-05,-0.000593543204855,0.000582989723063,0.953523238381,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · power · error_slope,0.126463273832,0.0520942392634,0.200024479484,0.00149925037481,0.00899550224888
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · additive · rps,2.13070676808e-06,-0.000574298240698,0.000589152668744,0.994502748626,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · additive · error_slope,0.0947977067958,0.0220135092792,0.171354810327,0.0129935032484,0.0649675162419
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · shin · rps,4.19494868627e-05,-0.000487333162589,0.000590686352221,0.887556221889,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · shin · error_slope,0.0231232809746,-0.0524052120074,0.100383721723,0.559220389805,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2022-23 · raw · margin_pp,-2.94282197353,-3.04559524378,-2.84486328265,0.000499750124938,0.000999500249875
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · proportional · rps,2.26802694652e-05,-0.000656410607667,0.000719402802506,0.950524737631,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · proportional · error_slope,-0.319044414461,-0.386536678178,-0.245632731714,0.000499750124938,0.0039980009995
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · power · rps,0.000416107741011,-0.00012810355123,0.000952467270501,0.136431784108,0.818590704648
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · power · error_slope,-0.0442435325069,-0.108962738665,0.0279890257459,0.193403298351,0.350824587706
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · additive · rps,0.000385760840978,-0.000162655899868,0.000921977468734,0.171414292854,0.857071464268
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · additive · error_slope,-0.0713829254196,-0.136227398552,-0.000616786070196,0.0354822588706,0.141929035482
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · shin · rps,0.000307208066323,-0.000243882433919,0.000870170178911,0.293853073463,0.967516241879
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · shin · error_slope,-0.132411560826,-0.196957229004,-0.0633770281054,0.000499750124938,0.0039980009995
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2023-24 · raw · margin_pp,-2.46573947665,-2.58086214494,-2.35140037437,0.000499750124938,0.000999500249875
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · proportional · rps,-0.000206190455371,-0.000617350088672,0.000197645211444,0.309845077461,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · proportional · error_slope,-0.187060910944,-0.288578962551,-0.0902378486382,0.000999500249875,0.00699650174913
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · power · rps,-0.000104646144966,-0.000614447043439,0.000354909118043,0.670664667666,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · power · error_slope,0.0528736177411,-0.0189418974233,0.122014815724,0.147426286857,0.737131434283
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · additive · rps,-0.000102674628512,-0.000600554563776,0.000342473470373,0.664167916042,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · additive · error_slope,0.0280060109209,-0.0456624364454,0.100122169935,0.451774112944,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · shin · rps,-0.00011441816567,-0.000562211142302,0.000291126639247,0.589205397301,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · shin · error_slope,-0.0247638794911,-0.104846899115,0.0515015722431,0.527236381809,1
+operator_differences,E · Casas por temporada,Exploratoria,E0 · 2024-25 · raw · margin_pp,-2.55944180292,-2.64599789527,-2.47102665733,0.000499750124938,0.000999500249875
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · proportional · rps,-0.000223974754574,-0.000761636093469,0.000291051729732,0.403298350825,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · proportional · error_slope,-0.238034127885,-0.355163953791,-0.116527471925,0.000499750124938,0.0039980009995
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · power · rps,-0.000112923440726,-0.000578350977818,0.000328836401112,0.628185907046,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · power · error_slope,0.118680641625,0.00860134440802,0.234081237091,0.0354822588706,0.141929035482
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · additive · rps,-0.000124627291438,-0.000586330119287,0.000311130166963,0.595702148926,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · additive · error_slope,0.0905250653949,-0.0189078378723,0.204790712911,0.110444777611,0.331334332834
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · shin · rps,-0.000134780848155,-0.000579239456289,0.000293076776564,0.542228885557,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · shin · error_slope,0.00926473980915,-0.0997323238207,0.121983053322,0.857571214393,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2022-23 · raw · margin_pp,-3.17948551885,-3.25913795068,-3.10160266861,0.000499750124938,0.000999500249875
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · proportional · rps,-5.25526222178e-05,-0.000633893566791,0.00051615253868,0.856571714143,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · proportional · error_slope,-0.363708792903,-0.498978894648,-0.243300850359,0.000499750124938,0.0039980009995
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · power · rps,0.000397308707701,-5.5043783623e-05,0.000878173263637,0.0939530234883,0.751624187906
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · power · error_slope,-0.0882938146159,-0.224648447985,0.0300749127571,0.175412293853,0.350824587706
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · additive · rps,0.00038374709502,-7.4360226922e-05,0.000866542731004,0.101449275362,0.751624187906
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · additive · error_slope,-0.110462157105,-0.244931657219,0.00665862294565,0.087956021989,0.263868065967
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · shin · rps,0.00027956817592,-0.000204669612922,0.000772044806613,0.24187906047,0.967516241879
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · shin · error_slope,-0.172868704498,-0.306948147012,-0.0583409808404,0.00449775112444,0.0224887556222
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2023-24 · raw · margin_pp,-2.55316855285,-2.70904378157,-2.40413857787,0.000499750124938,0.000999500249875
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · proportional · rps,-0.000289141976461,-0.0008236239047,0.000277665651132,0.310844577711,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · proportional · error_slope,-0.265337773482,-0.350367604078,-0.173406637776,0.000499750124938,0.0039980009995
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · power · rps,5.41792354059e-05,-0.000343871225148,0.000478012121345,0.804097951024,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · power · error_slope,0.0170186355684,-0.0565180043368,0.100271097087,0.674162918541,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · additive · rps,2.97909807241e-05,-0.000370758838751,0.000466771151934,0.896551724138,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · additive · error_slope,-0.00700425876314,-0.0802332877571,0.0733928209482,0.863068465767,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · shin · rps,-3.86709694998e-05,-0.000445098798185,0.000406012090168,0.853573213393,1
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · shin · error_slope,-0.0710400517664,-0.143554556456,0.00871524054527,0.0709645177411,0.425787106447
+operator_differences,E · Casas por temporada,Exploratoria,SP1 · 2024-25 · raw · margin_pp,-2.65296027103,-2.73309767418,-2.58018493908,0.000499750124938,0.000999500249875
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),B365 · proportional,0.865670916503,-0.575492329832,2.47413367201,0.264867566217,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),B365 · power,0.821994703262,-0.534485547257,2.33267255474,0.263368315842,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),B365 · additive,0.812488783036,-0.553388872765,2.33031037921,0.268365817091,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),B365 · shin,0.82611776072,-0.5583119194,2.36650553827,0.267866066967,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),PS · proportional,0.815202191772,-0.601340129453,2.37468884924,0.282858570715,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),PS · power,0.798339443502,-0.575636944779,2.31205333856,0.28135932034,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),PS · additive,0.791592578674,-0.585107916318,2.30765512398,0.282858570715,1
+league_differences,S1 · LaLiga − Premier (error_slope),Secundaria 1 (ligas),PS · shin,0.797652490601,-0.58970150725,2.32457722965,0.28235882059,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),B365 · proportional,5.86759215572,-3.60050692042,15.7828319937,0.229885057471,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),B365 · power,5.96171928657,-3.49709691688,15.8787588097,0.220889555222,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),B365 · additive,5.88172727065,-3.58155072801,15.7870079957,0.227386306847,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),B365 · shin,5.88127284627,-3.58321612799,15.7835058505,0.227886056972,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),PS · proportional,6.62552406926,-2.40950688432,16.2430223961,0.171414292854,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),PS · power,6.69999707388,-2.37523215334,16.3231043384,0.166416791604,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),PS · additive,6.65239108843,-2.40845044261,16.2692462553,0.168915542229,1
+league_differences,S1 · LaLiga − Premier (extreme_gap),Secundaria 1 (ligas),PS · shin,6.64653694593,-2.4042803518,16.2704300824,0.169415292354,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),B365 · proportional,-0.0212302459002,-0.0620414278873,0.026174890883,0.333333333333,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),B365 · power,-0.0198048540081,-0.0630146864581,0.0303700080582,0.394302848576,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),B365 · additive,-0.0198814121031,-0.0628997302025,0.0301626653189,0.391804097951,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),B365 · shin,-0.0202471998816,-0.0625300333093,0.0292245055547,0.375312343828,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),PS · proportional,-0.0205395956675,-0.0623837355797,0.0284397902365,0.36031984008,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),PS · power,-0.0198819019844,-0.0628442231287,0.0306333176852,0.396301849075,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),PS · additive,-0.0198987540534,-0.0627665735919,0.0306318596077,0.395802098951,1
+league_differences,S1 · LaLiga − Premier (rps_skill),Secundaria 1 (ligas),PS · shin,-0.0200680089806,-0.062588198452,0.0301104817518,0.386306846577,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · proportional · error_slope,0.591789837,-2.1315727848,3.30949703995,0.659670164918,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · proportional · extreme_gap,3.15824030133,-12.9295683584,18.7864195766,0.700649675162,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · proportional · rps_skill,-0.024793741948,-0.0971172396393,0.0481028569511,0.531234382809,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · power · error_slope,0.554071854983,-2.0229318675,3.10917722828,0.663168415792,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · power · extreme_gap,3.11435625277,-13.0160976092,18.7315507408,0.706146926537,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · power · rps_skill,-0.0237189632086,-0.100410893069,0.0536789506686,0.566216891554,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · additive · error_slope,0.542190216467,-2.04801004193,3.11834083742,0.670664667666,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · additive · extreme_gap,3.07369429723,-13.042177211,18.7115900481,0.710644677661,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · additive · rps_skill,-0.0239165340957,-0.100541805232,0.0534704724735,0.560219890055,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · shin · error_slope,0.554772113109,-2.06725697351,3.16559677811,0.665667166417,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · shin · extreme_gap,3.09840119758,-12.9860757142,18.7317656652,0.709145427286,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · B365 · shin · rps_skill,-0.0241607157701,-0.0997681448655,0.0516990486051,0.553723138431,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · proportional · error_slope,0.549499633154,-2.13369998272,3.17209914723,0.676661669165,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · proportional · extreme_gap,4.80828276576,-10.5150415882,20.2461918981,0.547226386807,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · proportional · rps_skill,-0.0234397611955,-0.0970947421621,0.0509972078226,0.55972013993,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · power · error_slope,0.546289222776,-2.05139713973,3.10099913054,0.667166416792,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · power · extreme_gap,4.90318263951,-10.3813717209,20.2368532535,0.540729635182,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · power · rps_skill,-0.0232969965419,-0.0985143645777,0.0526586983428,0.570714642679,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · additive · error_slope,0.537917575066,-2.06173474826,3.09405661381,0.674162918541,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · additive · extreme_gap,4.86949372926,-10.41515809,20.2241958551,0.543228385807,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · additive · rps_skill,-0.0233600244589,-0.0985617203199,0.0526167929095,0.570214892554,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · shin · error_slope,0.540913571943,-2.07989965158,3.11379619597,0.674662668666,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · shin · extreme_gap,4.85434946593,-10.440153785,20.238437293,0.543228385807,1
+league_differences,E · Ligas por temporada,Exploratoria,2022-23 · PS · shin · rps_skill,-0.0233861900395,-0.0980947477868,0.0521096225305,0.568215892054,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · proportional · error_slope,0.386649250952,-2.00130712427,3.00398890599,0.780609695152,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · proportional · extreme_gap,4.18138715953,-11.7042762501,21.2113628262,0.614692653673,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · proportional · rps_skill,-0.0449735578706,-0.122586737218,0.0361413688649,0.273363318341,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · power · error_slope,0.394871115752,-1.86666318585,2.88361287125,0.76011994003,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · power · extreme_gap,4.59643990911,-11.3610370703,21.7401249056,0.591704147926,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · power · rps_skill,-0.0445386892053,-0.126645676013,0.0407514030163,0.309845077461,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · additive · error_slope,0.381344856661,-1.88689854091,2.87815930239,0.766116941529,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · additive · extreme_gap,4.4324259484,-11.5264606588,21.5684164382,0.60219890055,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · additive · rps_skill,-0.0443429958628,-0.126146206512,0.0407566256665,0.309845077461,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · shin · error_slope,0.382647895329,-1.91539852807,2.90717777135,0.769615192404,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · shin · extreme_gap,4.37114828805,-11.56800191,21.4798960466,0.605197401299,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · B365 · shin · rps_skill,-0.0445470416253,-0.125220011653,0.039570855491,0.299350324838,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · proportional · error_slope,0.34198487251,-2.01497181996,2.96752445483,0.80259870065,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · proportional · extreme_gap,4.56390061324,-11.5139277762,21.3881818071,0.590204897551,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · proportional · rps_skill,-0.0446420376735,-0.124403594337,0.039289937627,0.291354322839,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · power · error_slope,0.350820833643,-1.93923646203,2.90352629554,0.787106446777,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · power · extreme_gap,4.80810599404,-11.2975547263,21.8115366462,0.567216391804,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · power · rps_skill,-0.0445319365626,-0.12666876831,0.0419831933692,0.310844577711,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · additive · error_slope,0.342265624976,-1.94797881756,2.89659155256,0.793103448276,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · additive · extreme_gap,4.71379258371,-11.3664128275,21.6774528265,0.574212893553,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · additive · rps_skill,-0.0444055214182,-0.126424089814,0.0419743832242,0.310844577711,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · shin · error_slope,0.342190751658,-1.96429588169,2.91785204591,0.797101449275,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · shin · extreme_gap,4.67678946,-11.3830414365,21.6052313466,0.577711144428,1
+league_differences,E · Ligas por temporada,Exploratoria,2023-24 · PS · shin · rps_skill,-0.0444806492307,-0.125929463959,0.0412623328823,0.307346326837,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · proportional · error_slope,1.74933606469,-0.787694777917,4.42996759354,0.206396801599,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · proportional · extreme_gap,10.6930089404,-6.42255598008,27.5704888066,0.221889055472,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · proportional · rps_skill,0.00698631770368,-0.064208505675,0.0766608659733,0.844577711144,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · power · error_slope,1.64473519669,-0.726153435079,4.16495252671,0.204897551224,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · power · extreme_gap,10.6146096361,-6.44829495823,27.4235855873,0.225387306347,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · power · rps_skill,0.00977986117942,-0.0650196363385,0.0848251489635,0.793603198401,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · additive · error_slope,1.6406713094,-0.743815702559,4.17619588966,0.210894552724,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · additive · extreme_gap,10.5801113349,-6.467862676,27.4064051785,0.227386306847,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · additive · rps_skill,0.00955204683887,-0.0649528444005,0.0843129816949,0.79860069965,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · shin · error_slope,1.66858977519,-0.754042203233,4.24310730928,0.210394802599,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · shin · extreme_gap,10.6122337908,-6.43201820001,27.4316375312,0.226386806597,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · B365 · shin · rps_skill,0.00889545290188,-0.0648354585615,0.0819878474962,0.811094452774,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · proportional · error_slope,1.67105920215,-0.768326166101,4.30004340915,0.216391804098,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · proportional · extreme_gap,10.8250203495,-5.53831713519,27.1408476332,0.204897551224,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · proportional · rps_skill,0.00738074304215,-0.0642393347411,0.0781517827587,0.839580209895,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · power · error_slope,1.60888021452,-0.747405306097,4.14135664108,0.220389805097,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · power · extreme_gap,10.7081602,-5.74573329766,26.931489054,0.209395302349,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · power · rps_skill,0.0091015798761,-0.064428594986,0.0834098870469,0.812593703148,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · additive · error_slope,1.60566103971,-0.760462200733,4.14853821131,0.221389305347,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · additive · extreme_gap,10.6954057776,-5.75082209273,26.9505180987,0.209395302349,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · additive · rps_skill,0.00898870896615,-0.0644922492108,0.0833225627311,0.814592703648,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · shin · error_slope,1.62231360291,-0.763220944754,4.18641688761,0.220389805097,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · shin · extreme_gap,10.7297010665,-5.69533853537,27.0046035037,0.208395802099,1
+league_differences,E · Ligas por temporada,Exploratoria,2024-25 · PS · shin · rps_skill,0.00858190110332,-0.0644954631568,0.0823171195981,0.823088455772,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · proportional · 2023-24 minus 2022-23,1.21556075122,-1.27794454854,3.61542132812,0.323338330835,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · proportional · 2024-25 minus 2023-24,-1.81796731673,-4.09857760836,0.452583063545,0.116941529235,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · power · 2023-24 minus 2022-23,1.16568694358,-1.19188694786,3.44816704201,0.317341329335,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · power · 2024-25 minus 2023-24,-1.72075815,-3.87427546949,0.421805429491,0.11744127936,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · additive · 2023-24 minus 2022-23,1.17367262647,-1.19916174799,3.45832227995,0.31784107946,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · additive · 2024-25 minus 2023-24,-1.73184825867,-3.89204522231,0.423889585982,0.11744127936,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · shin · 2023-24 minus 2022-23,1.18398330132,-1.21838693865,3.50088576452,0.31984007996,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · B365 · shin · 2024-25 minus 2023-24,-1.75342563559,-3.93965332792,0.434536675568,0.11744127936,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · proportional · 2023-24 minus 2022-23,1.0922602608,-1.3387899163,3.47599540882,0.36331834083,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · proportional · 2024-25 minus 2023-24,-1.68598381322,-3.92569184024,0.520005385805,0.136931534233,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · power · 2023-24 minus 2022-23,0.994980137244,-1.35806170577,3.30267344136,0.392303848076,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · power · 2024-25 minus 2023-24,-1.62364099975,-3.79224745337,0.510875223875,0.139430284858,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · additive · 2023-24 minus 2022-23,1.00749199425,-1.35225430408,3.31343222372,0.388305847076,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · additive · 2024-25 minus 2023-24,-1.63245932233,-3.80952949342,0.50592781078,0.138930534733,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · shin · 2023-24 minus 2022-23,1.02844845952,-1.34885628105,3.3530952848,0.382808595702,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),E0 · PS · shin · 2024-25 minus 2023-24,-1.64577795426,-3.84010220285,0.509624344458,0.138930534733,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · proportional · 2023-24 minus 2022-23,1.01042016517,-1.70472715016,3.87378927374,0.496251874063,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · proportional · 2024-25 minus 2023-24,-0.455280502995,-3.38190153795,2.5092925876,0.775112443778,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · power · 2023-24 minus 2022-23,1.00648620435,-1.5696713166,3.70736725666,0.475262368816,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · power · 2024-25 minus 2023-24,-0.470894069063,-3.22479697485,2.32327217556,0.748625687156,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · additive · 2023-24 minus 2022-23,1.01282726666,-1.5741877162,3.72086270854,0.472263868066,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · additive · 2024-25 minus 2023-24,-0.472521805934,-3.23958046868,2.32689577666,0.747126436782,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · shin · 2023-24 minus 2022-23,1.01185908354,-1.60627034703,3.75869620166,0.478260869565,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · B365 · shin · 2024-25 minus 2023-24,-0.467483755732,-3.27405605281,2.37282477236,0.752623688156,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · proportional · 2023-24 minus 2022-23,0.884745500154,-1.78123303507,3.7273954175,0.544227886057,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · proportional · 2024-25 minus 2023-24,-0.356909483575,-3.22806457924,2.589722353,0.816591704148,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · power · 2023-24 minus 2022-23,0.799511748112,-1.79217601986,3.55093495631,0.571214392804,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · power · 2024-25 minus 2023-24,-0.365581618878,-3.15926991611,2.48760528471,0.809595202399,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · additive · 2023-24 minus 2022-23,0.811840044164,-1.78739305111,3.56636132624,0.564717641179,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · additive · 2024-25 minus 2023-24,-0.369063907592,-3.15997318492,2.48278515142,0.807596201899,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · shin · 2023-24 minus 2022-23,0.82972563923,-1.78613133091,3.60631221278,0.56071964018,1
+season_differences,S2 · Temporadas consecutivas (error_slope),Secundaria 2 (temporadas),SP1 · PS · shin · 2024-25 minus 2023-24,-0.365655103,-3.17661249064,2.50757319972,0.811094452774,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · proportional · 2023-24 minus 2022-23,7.7414627862,-7.66315766176,23.2282172425,0.326336831584,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · proportional · 2024-25 minus 2023-24,-8.18648046712,-22.8034040254,7.13382851219,0.279860069965,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · power · 2023-24 minus 2022-23,7.56095417218,-7.86867609315,23.1322840719,0.339830084958,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · power · 2024-25 minus 2023-24,-8.12633866871,-22.6944207303,7.33827237301,0.282858570715,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · additive · 2023-24 minus 2022-23,7.64184021622,-7.79518016494,23.1859614975,0.334832583708,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · additive · 2024-25 minus 2023-24,-8.17002033764,-22.7584056115,7.29038264773,0.28035982009,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · shin · 2023-24 minus 2022-23,7.66508023833,-7.76348709242,23.193142937,0.333333333333,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · B365 · shin · 2024-25 minus 2023-24,-8.17278709662,-22.7681264936,7.25001908062,0.28035982009,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · proportional · 2023-24 minus 2022-23,6.67151472162,-8.73508451245,21.5345830586,0.389805097451,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · proportional · 2024-25 minus 2023-24,-7.39532820753,-21.749747341,7.31619314676,0.318340829585,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · power · 2023-24 minus 2022-23,6.2194436761,-9.19383907024,21.0182786378,0.415792103948,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · power · 2024-25 minus 2023-24,-7.27489559034,-21.606413093,7.45996873097,0.328335832084,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · additive · 2023-24 minus 2022-23,6.30760762657,-9.10149682628,21.1144452109,0.408295852074,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · additive · 2024-25 minus 2023-24,-7.31365591312,-21.6508512176,7.42225132626,0.327336331834,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · shin · 2023-24 minus 2022-23,6.40043074661,-9.0175097672,21.2212769365,0.405797101449,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),E0 · PS · shin · 2024-25 minus 2023-24,-7.33416383703,-21.6759416178,7.41348626124,0.325337331334,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · proportional · 2023-24 minus 2022-23,8.7646096444,-8.41241813983,26.2584331287,0.319340329835,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · proportional · 2024-25 minus 2023-24,-1.67485868623,-19.9519214942,16.0149929408,0.876061969015,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · power · 2023-24 minus 2022-23,9.04303782853,-8.1716265114,26.6059892861,0.304847576212,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · power · 2024-25 minus 2023-24,-2.10816894174,-20.352619356,15.6200887386,0.841579210395,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · additive · 2023-24 minus 2022-23,9.0005718674,-8.15781228608,26.5644928293,0.305347326337,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · additive · 2024-25 minus 2023-24,-2.0223349511,-20.2644917778,15.6782233963,0.849575212394,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · shin · 2023-24 minus 2022-23,8.93782732879,-8.2253160927,26.4820224799,0.309845077461,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · B365 · shin · 2024-25 minus 2023-24,-1.9317015939,-20.1803832533,15.7452342471,0.853573213393,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · proportional · 2023-24 minus 2022-23,6.42713256911,-10.3959239632,23.6735356199,0.464767616192,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · proportional · 2024-25 minus 2023-24,-1.13420847129,-19.0048699246,16.2826525245,0.912043978011,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · power · 2023-24 minus 2022-23,6.12436703062,-10.7182449949,23.4267095242,0.488255872064,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · power · 2024-25 minus 2023-24,-1.37484138434,-19.338792341,16.1006363939,0.891554222889,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · additive · 2023-24 minus 2022-23,6.15190648102,-10.6860090693,23.4425968967,0.487756121939,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · additive · 2024-25 minus 2023-24,-1.33204271923,-19.2646015168,16.1279079604,0.895052473763,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · shin · 2023-24 minus 2022-23,6.22287074068,-10.611879783,23.5010405118,0.481259370315,1
+season_differences,S2 · Temporadas consecutivas (extreme_gap),Secundaria 2 (temporadas),SP1 · PS · shin · 2024-25 minus 2023-24,-1.28125223051,-19.1982993375,16.1678986227,0.899550224888,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · proportional · 2023-24 minus 2022-23,0.0881313390504,0.000414866850527,0.175081739082,0.0489755122439,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · proportional · 2024-25 minus 2023-24,-0.0562408098839,-0.143902286093,0.0297362294202,0.218890554723,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · power · 2023-24 minus 2022-23,0.0916783615176,-0.00224852396595,0.183474483504,0.0529735132434,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · power · 2024-25 minus 2023-24,-0.0596404249375,-0.151286584937,0.0302273926261,0.213393303348,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · additive · 2023-24 minus 2022-23,0.091342611676,-0.00228392995056,0.182650153439,0.0514742628686,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · additive · 2024-25 minus 2023-24,-0.0593774118745,-0.150705906798,0.0303217894464,0.214892553723,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · shin · 2023-24 minus 2022-23,0.0905179817865,-0.00149712489811,0.180690801378,0.0514742628686,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · B365 · shin · 2024-25 minus 2023-24,-0.0585815382963,-0.149030431207,0.0302021829143,0.216891554223,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · proportional · 2023-24 minus 2022-23,0.0884048575605,-0.00097600821445,0.177331620295,0.0539730134933,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · proportional · 2024-25 minus 2023-24,-0.0552740774477,-0.143451071956,0.0330159465592,0.233883058471,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · power · 2023-24 minus 2022-23,0.0898247582547,-0.00228885962688,0.182169608256,0.0579710144928,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · power · 2024-25 minus 2023-24,-0.0574192882109,-0.147762074416,0.0328512279886,0.229885057471,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · additive · 2023-24 minus 2022-23,0.0897019571463,-0.00233579004403,0.18181085731,0.0574712643678,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · additive · 2024-25 minus 2023-24,-0.0572943876606,-0.147547151053,0.0328063967602,0.230884557721,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · shin · 2023-24 minus 2022-23,0.0893867373406,-0.00206471527433,0.180690410003,0.0569715142429,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),E0 · PS · shin · 2024-25 minus 2023-24,-0.0567849564697,-0.146490168054,0.032713103832,0.231884057971,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · proportional · 2023-24 minus 2022-23,0.0679515231278,0.00209544438706,0.136229623121,0.0474762618691,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · proportional · 2024-25 minus 2023-24,-0.00428093430954,-0.0684689026464,0.0571758885704,0.891554222889,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · power · 2023-24 minus 2022-23,0.0708586355209,0.00166912304767,0.143094128222,0.0489755122439,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · power · 2024-25 minus 2023-24,-0.0053218745527,-0.073461074228,0.0606550849624,0.871064467766,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · additive · 2023-24 minus 2022-23,0.0709161499088,0.00176540584634,0.142873680912,0.0484757621189,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · additive · 2024-25 minus 2023-24,-0.00548236917281,-0.0733533425343,0.0604020682762,0.869565217391,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · shin · 2023-24 minus 2022-23,0.0701316559313,0.00179066594813,0.141184054926,0.0484757621189,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · B365 · shin · 2024-25 minus 2023-24,-0.00513904376913,-0.0720317938566,0.0595709850208,0.874562718641,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · proportional · 2023-24 minus 2022-23,0.0672025810825,5.72765002565e-05,0.137358074458,0.0574712643678,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · proportional · 2024-25 minus 2023-24,-0.00325129673207,-0.0698950324127,0.0605433621373,0.917541229385,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · power · 2023-24 minus 2022-23,0.0685898182339,-1.91062108289e-05,0.14056587049,0.0569715142429,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · power · 2024-25 minus 2023-24,-0.00378577177218,-0.0728779269948,0.0632478216892,0.907046476762,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · additive · 2023-24 minus 2022-23,0.068656460187,6.39868149739e-05,0.140634639662,0.0569715142429,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · additive · 2024-25 minus 2023-24,-0.0039001572763,-0.0728731072843,0.0631053630196,0.905047476262,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · shin · 2023-24 minus 2022-23,0.0682922781495,0.000198163064985,0.139724321491,0.0574712643678,1
+season_differences,S2 · Temporadas consecutivas (rps_skill),Secundaria 2 (temporadas),SP1 · PS · shin · 2024-25 minus 2023-24,-0.00372240613571,-0.0720155992296,0.0627253133342,0.908045977011,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · B365 · proportional,4.06072349308,-2.71522485046,10.6086825233,0.24187906047,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · B365 · power,0.205341192874,-6.59703464503,6.73446318778,0.964017991004,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · B365 · additive,0.597102293732,-6.19832198645,7.13871924521,0.872563718141,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · B365 · shin,1.49218034052,-5.29416728027,8.02184459595,0.668165917041,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · PS · proportional,3.01979957876,-3.59420387827,9.46767668294,0.381809095452,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · PS · power,0.791667761066,-5.83502193952,7.23555722832,0.820089955022,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · PS · additive,0.989963587661,-5.650614875,7.43144286675,0.770114942529,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,E0 · PS · shin,1.50710272646,-5.12671152742,7.95612108499,0.660669665167,1
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · B365 · proportional,14.5603910359,7.5780782643,21.1754653535,0.000499750124938,0.007996001999
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · B365 · power,10.7982462956,3.77095969585,17.3838062918,0.00249875062469,0.0324837581209
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · B365 · additive,11.097834196,4.10215228712,17.7074415141,0.00199900049975,0.0279860069965
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · B365 · shin,11.9969375075,5.00824741246,18.6081092082,0.00149925037481,0.0224887556222
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · PS · proportional,11.0368960506,4.21942735054,17.8950230818,0.00349825087456,0.0419790104948
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · PS · power,8.89597271942,2.03276911941,15.7660351538,0.0129935032484,0.124937531234
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · PS · additive,9.0291698081,2.18298308903,15.8811119905,0.0124937531234,0.124937531234
+threshold_sensitivity,R · Umbrales del contraste (fixed_15_65),Sensibilidad,SP1 · PS · shin,9.54236489114,2.69662691455,16.391597895,0.00999500249875,0.109945027486
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · B365 · proportional,2.79732070894,-3.49655023615,8.50806205639,0.374812593703,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · B365 · power,-0.639288220776,-6.77330385054,5.02030051417,0.835082458771,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · B365 · additive,-0.396992856204,-6.63438798718,5.23668233263,0.897051474263,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · B365 · shin,1.03551728332,-4.98404918012,6.52053492815,0.727636181909,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · PS · proportional,1.91147877204,-4.05729301329,7.53661199445,0.550224887556,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · PS · power,-0.873032946118,-7.01249102024,4.86598067464,0.786106946527,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · PS · additive,-0.18863457284,-6.31121519271,5.625710021,0.951524237881,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,E0 · PS · shin,-0.159366943553,-6.33529646638,5.74939022533,0.948525737131,1
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · B365 · proportional,8.66491286466,1.37511545666,15.9901045615,0.0204897551224,0.327836081959
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · B365 · power,5.76940557955,-1.15551195194,12.5858275255,0.0939530234883,0.845577211394
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · B365 · additive,6.17161417103,-0.657520144235,12.8926427273,0.0689655172414,0.827586206897
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · B365 · shin,7.23286730005,0.2532780838,14.3187811272,0.0429785107446,0.601699150425
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · PS · proportional,8.5370028413,1.33698159274,15.7240715398,0.0214892553723,0.327836081959
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · PS · power,6.05831935098,-0.778859741254,13.1309575594,0.0809595202399,0.827586206897
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · PS · additive,6.15644906978,-0.552412535904,12.8273574536,0.0739630184908,0.827586206897
+threshold_sensitivity,R · Umbrales del contraste (method_specific_20_60),Sensibilidad,SP1 · PS · shin,6.579605896,-0.29503320635,13.447782562,0.0604697651174,0.786106946527
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · B365 · proportional,0.794294488816,-0.221175920494,1.82388563792,0.12343828086,0.987506246877
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · B365 · power,0.175271881519,-0.781185787084,1.13977715272,0.731134432784,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · B365 · additive,0.230022274532,-0.734016298738,1.19790457619,0.63968015992,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · B365 · shin,0.369738579638,-0.607831468706,1.35313070923,0.449275362319,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · PS · proportional,0.557886117675,-0.450461253759,1.55496239925,0.268365817091,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · PS · power,0.218182939865,-0.753842218968,1.18121254441,0.668665667166,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · PS · additive,0.245190472122,-0.730361691075,1.21080395191,0.624187906047,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,E0 · PS · shin,0.322978537924,-0.660730575103,1.29645045216,0.511744127936,1
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · B365 · proportional,1.65996540532,0.581866043225,2.73014436238,0.00149925037481,0.023988005997
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · B365 · power,0.997266584781,-0.0201061558424,2.00222213222,0.0549725137431,0.527736131934
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · B365 · additive,1.04251105757,0.02050839275,2.05788123694,0.0439780109945,0.527736131934
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · B365 · shin,1.19585634036,0.160276853357,2.22412706272,0.023988005997,0.335832083958
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · PS · proportional,1.37308830945,0.309738907002,2.40478241589,0.0119940029985,0.179910044978
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · PS · power,1.01652238337,-0.0154041999553,2.01461736292,0.0499750124938,0.527736131934
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · PS · additive,1.0367830508,0.00516626116969,2.03540788496,0.0474762618691,0.527736131934
+block_sensitivity,R · Pendiente con bloque 1,Sensibilidad,SP1 · PS · shin,1.12063102852,0.0805870143851,2.12695291063,0.0329835082459,0.428785607196
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · B365 · proportional,0.794294488816,-0.258190193362,1.76183421295,0.121939030485,0.975512243878
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · B365 · power,0.175271881519,-0.817961600862,1.09271979783,0.727636181909,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · B365 · additive,0.230022274532,-0.769487817043,1.15045352996,0.644677661169,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · B365 · shin,0.369738579638,-0.643583312911,1.30178385711,0.453273363318,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · PS · proportional,0.557886117675,-0.456154774003,1.50006862345,0.278860569715,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · PS · power,0.218182939865,-0.759514356298,1.13123554479,0.667666166917,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · PS · additive,0.245190472122,-0.737937937972,1.15819577909,0.624687656172,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,E0 · PS · shin,0.322978537924,-0.667946343934,1.24187586719,0.51724137931,1
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · B365 · proportional,1.65996540532,0.554675233615,2.77769647886,0.00499750124938,0.07996001999
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · B365 · power,0.997266584781,-0.0445326239555,2.0571423441,0.063968015992,0.653673163418
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · B365 · additive,1.04251105757,-0.00277042710229,2.10215991907,0.0544727636182,0.653673163418
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · B365 · shin,1.19585634036,0.135539072907,2.27165463404,0.0339830084958,0.475762118941
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · PS · proportional,1.37308830945,0.283164886638,2.48213283248,0.0144927536232,0.217391304348
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · PS · power,1.01652238337,-0.041083934814,2.08968296199,0.0634682658671,0.653673163418
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · PS · additive,1.0367830508,-0.0212822455218,2.11320302228,0.0589705147426,0.653673163418
+block_sensitivity,R · Pendiente con bloque 10,Sensibilidad,SP1 · PS · shin,1.12063102852,0.0541651662793,2.20464365038,0.0444777611194,0.578210894553
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · B365 · proportional,0.794294488816,-0.124475673761,1.69727598711,0.0949525237381,0.759620189905
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · B365 · power,0.175271881519,-0.687932910659,1.03061381305,0.691154422789,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · B365 · additive,0.230022274532,-0.64033129002,1.0895808933,0.6031984008,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · B365 · shin,0.369738579638,-0.512493095833,1.24081593824,0.426286856572,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · PS · proportional,0.557886117675,-0.319200814692,1.42405619495,0.230884557721,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · PS · power,0.218182939865,-0.63443592167,1.05861503118,0.612193903048,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · PS · additive,0.245190472122,-0.609182582958,1.08701535039,0.576711644178,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,E0 · PS · shin,0.322978537924,-0.536947181017,1.17085407908,0.47976011994,1
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · B365 · proportional,1.65996540532,0.524226561784,2.81405664888,0.00499750124938,0.07996001999
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · B365 · power,0.997266584781,-0.0710599220863,2.08944953626,0.0724637681159,0.720139930035
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · B365 · additive,1.04251105757,-0.029876468321,2.14319580159,0.0594702648676,0.713643178411
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · B365 · shin,1.19585634036,0.10793842535,2.30972097056,0.0299850074963,0.419790104948
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · PS · proportional,1.37308830945,0.266988719942,2.49806063676,0.0174912543728,0.262368815592
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · PS · power,1.01652238337,-0.0579032427499,2.11107554791,0.0679660169915,0.720139930035
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · PS · additive,1.0367830508,-0.042069627324,2.13180624909,0.0654672663668,0.720139930035
+block_sensitivity,R · Pendiente con bloque 40,Sensibilidad,SP1 · PS · shin,1.12063102852,0.0350396695876,2.22312995953,0.0464767616192,0.604197901049
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · B365 · proportional,0.794294488816,-0.235469363991,1.72084179765,0.109945027486,0.87956021989
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · B365 · power,0.175271881519,-0.800746309235,1.0504401051,0.710144927536,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · B365 · additive,0.230022274532,-0.748673134538,1.10857992466,0.624687656172,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · B365 · shin,0.369738579638,-0.622088222718,1.26285950066,0.44127936032,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · PS · proportional,0.557886117675,-0.434874784814,1.47671132347,0.261369315342,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · PS · power,0.218182939865,-0.751593188571,1.09909835356,0.63968015992,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · PS · additive,0.245190472122,-0.723086604488,1.12965662298,0.60219890055,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,E0 · PS · shin,0.322978537924,-0.651522195953,1.21602133368,0.491254372814,1
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · B365 · proportional,1.65996540532,0.547595419623,2.82812727769,0.00649675162419,0.103948025987
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · B365 · power,0.997266584781,-0.0534758717411,2.10965741567,0.0684657671164,0.713643178411
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · B365 · additive,1.04251105757,-0.0147372334388,2.15652044966,0.0594702648676,0.713643178411
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · B365 · shin,1.19585634036,0.125093486493,2.32370848243,0.0384807596202,0.538730634683
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · PS · proportional,1.37308830945,0.271745612831,2.52730871518,0.0204897551224,0.307346326837
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · PS · power,1.01652238337,-0.0502910991105,2.13937412838,0.0659670164918,0.713643178411
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · PS · additive,1.0367830508,-0.0320586214425,2.16001347421,0.0624687656172,0.713643178411
+block_sensitivity,R · Pendiente con bloque 20,Sensibilidad,SP1 · PS · shin,1.12063102852,0.0441468471764,2.25173179965,0.0459770114943,0.597701149425
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · home_win,-5.55269549607,-9.25139775672,-1.97365656186,0.00449775112444,0.0224887556222
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · points_diff,-0.370089497862,-0.577896795953,-0.174769649376,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · goal_diff,-0.209211151592,-0.363881894863,-0.0708011410868,0.00849575212394,0.0254872563718
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · shots_diff,-1.2485479698,-2.00598279824,-0.438888818601,0.00299850074963,0.0179910044978
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · cards_diff,-0.188612123132,-0.313239171373,-0.0590806077503,0.00549725137431,0.0224887556222
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · fouls_diff,-0.881171128359,-1.29173705144,-0.469120257118,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · implied_B365,-3.05822476635,-4.30634423492,-1.68817162842,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · implied_PS,-3.28860038953,-4.47020722815,-2.02991565478,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · gap_B365,-1.90277718355,-5.5745963085,1.5256217206,0.300849575212,0.369815092454
+covid_contrasts,S3 · E0 · closed_incl_limited_minus_with_fans,Sensibilidad,E0 · closed_incl_limited_minus_with_fans · gap_PS,-2.26409510654,-5.65316767994,0.97712996382,0.184907546227,0.369815092454
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · home_win,-5.71883486357,-10.1450936673,-1.62104444531,0.00849575212394,0.0424787606197
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · points_diff,-0.377899909479,-0.625511401958,-0.135943446574,0.00349825087456,0.0209895052474
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · goal_diff,-0.205156472262,-0.392989308393,-0.0364626012565,0.0259870064968,0.0779610194903
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · shots_diff,-1.25499644381,-2.20215145705,-0.287976419823,0.0109945027486,0.0439780109945
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · cards_diff,-0.276462886331,-0.420440789474,-0.136645150599,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · fouls_diff,-0.958974524764,-1.42804179567,-0.51248178055,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · implied_B365,-3.07132204019,-4.41225593758,-1.65036221257,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · implied_PS,-3.298891289,-4.60438562787,-1.89093713929,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · gap_B365,-2.64751282338,-6.74298851836,1.19017949729,0.188905547226,0.377811094453
+covid_contrasts,S3 · E0 · closed_minus_post,Secundaria 3 · complementaria,E0 · closed_minus_post · gap_PS,-2.41994357457,-6.49064202814,1.4081761893,0.228385807096,0.377811094453
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · home_win,-7.2671474389,-11.5777235708,-2.9228482642,0.000999500249875,0.00699650174913
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · points_diff,-0.472757281918,-0.716218390011,-0.235172385206,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · goal_diff,-0.279915411595,-0.468980063231,-0.110712500878,0.00249875062469,0.0124937531234
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · shots_diff,-1.58814730761,-2.50789216946,-0.621828764699,0.00249875062469,0.0124937531234
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · cards_diff,-0.200714593844,-0.341922192121,-0.0559622230958,0.00449775112444,0.0134932533733
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · fouls_diff,-0.900868859838,-1.3785576207,-0.438615173656,0.000999500249875,0.00699650174913
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · implied_B365,-4.04649260771,-5.67809139778,-2.22401449029,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · implied_PS,-3.68621096254,-5.06592715295,-2.26766014769,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · gap_B365,-1.92453523832,-7.6092326735,3.62667858417,0.519740129935,0.519740129935
+covid_contrasts,S3 · E0 · closed_minus_pre,Secundaria 3 · complementaria,E0 · closed_minus_pre · gap_PS,-3.58093647636,-7.63176855982,0.512381165956,0.0839580209895,0.167916041979
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · home_win,-6.35070074322,-10.2567532981,-2.57419199578,0.00149925037481,0.00749625187406
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · points_diff,-0.416611173621,-0.646614806217,-0.201863693203,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · goal_diff,-0.235665572114,-0.406667551248,-0.0815622972748,0.00599700149925,0.0179910044978
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · shots_diff,-1.39095520754,-2.27656325157,-0.497190494532,0.00449775112444,0.0179910044978
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · cards_diff,-0.245550031765,-0.375459168341,-0.111714852128,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · fouls_diff,-0.935261621009,-1.39021232696,-0.51696463252,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · implied_B365,-3.22665894475,-4.52445691079,-1.81803608558,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · implied_PS,-3.45695632711,-4.68639625782,-2.13151934357,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · gap_B365,-2.53234825231,-6.54568970002,1.24732197784,0.194902548726,0.24187906047
+covid_contrasts,S3 · E0 · closed_minus_with_fans,Secundaria 3 (público local),E0 · closed_minus_with_fans · gap_PS,-2.89374441611,-6.56500775535,0.713152498197,0.120939530235,0.24187906047
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · home_win,-1.54831257533,-5.01044659646,2.25440732601,0.411794102949,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · points_diff,-0.0948573724387,-0.292149982701,0.117026386949,0.364317841079,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · goal_diff,-0.0747589393331,-0.217454783526,0.0686684210526,0.304847576212,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · shots_diff,-0.333150863801,-0.909692207884,0.221499215213,0.275862068966,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · cards_diff,0.0757482924869,-0.0375723787167,0.189651262302,0.19740129935,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · fouls_diff,0.0581056649257,-0.268386607939,0.385326422008,0.72363818091,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · implied_B365,-0.975170567515,-2.37354286891,0.427596881706,0.183408295852,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · implied_PS,-0.387319673546,-1.33942271248,0.600997163153,0.439780109945,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · gap_B365,0.722977585059,-4.33520196462,5.93961291788,0.777611194403,1
+covid_contrasts,S3 · E0 · post_minus_pre,Secundaria 3 · complementaria,E0 · post_minus_pre · gap_PS,-1.16099290179,-4.49433576251,2.36196651671,0.530734632684,1
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · home_win,-4.40348686679,-7.89418873974,-0.838117964926,0.0179910044978,0.125937031484
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · points_diff,-0.203313820473,-0.405409614082,-0.00620807992413,0.0459770114943,0.229885057471
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · goal_diff,-0.142819029512,-0.26277001152,-0.0167683487864,0.0219890054973,0.131934032984
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · shots_diff,-1.66636703714,-2.28840360827,-1.01655204892,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · cards_diff,-0.165763263122,-0.350803183886,0.0327345900603,0.0899550224888,0.359820089955
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · fouls_diff,-0.130284664468,-0.550859006493,0.275411651298,0.540229885057,0.947526236882
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · implied_B365,-2.60903355784,-3.88024048584,-1.40398986795,0.000999500249875,0.007996001999
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · implied_PS,-3.16490708841,-4.42733598166,-2.04109862586,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · gap_B365,-1.83410386877,-5.57509339422,1.75444638956,0.315842078961,0.947526236882
+covid_contrasts,S3 · SP1 · closed_incl_limited_minus_with_fans,Sensibilidad,SP1 · closed_incl_limited_minus_with_fans · gap_PS,-1.2570264245,-4.63428933135,1.95489236475,0.464767616192,0.947526236882
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · home_win,-4.40902949589,-8.22925588547,-0.399171367661,0.0249875062469,0.174912543728
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · points_diff,-0.185489814181,-0.407413887977,0.0343734608475,0.102948525737,0.514742628686
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · goal_diff,-0.135021319156,-0.267651191527,-0.000151591145937,0.047976011994,0.287856071964
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · shots_diff,-1.62873085224,-2.29000210262,-0.944627288886,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · cards_diff,-0.160012107175,-0.358816089535,0.0532274466606,0.127436281859,0.514742628686
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · fouls_diff,-0.0262585320489,-0.504074442363,0.435264216784,0.904547726137,1
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · implied_B365,-2.62208204905,-3.97143846385,-1.38445309598,0.000999500249875,0.00899550224888
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · implied_PS,-2.76917203154,-4.09433676397,-1.5455105921,0.000999500249875,0.00899550224888
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · gap_B365,-1.78694744683,-5.56642772182,1.88281328182,0.348825587206,1
+covid_contrasts,S3 · SP1 · closed_minus_post,Secundaria 3 · complementaria,SP1 · closed_minus_post · gap_PS,-1.63985746435,-5.42944721076,2.03383094572,0.392803598201,1
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · home_win,-5.28185796612,-9.54649801841,-1.16291815959,0.0134932533733,0.0839580209895
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · points_diff,-0.240756903307,-0.478105206197,-0.0132174286664,0.0404797601199,0.2023988006
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · goal_diff,-0.187820715183,-0.337047985861,-0.045657715373,0.0119940029985,0.0839580209895
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · shots_diff,-1.81420338836,-2.46223445102,-1.0869168434,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · cards_diff,-0.201673754124,-0.410869677766,0.0190849747033,0.0669665167416,0.267866066967
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · fouls_diff,-0.263040612059,-0.790066128966,0.256094733545,0.31984007996,0.761619190405
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · implied_B365,-3.46454575565,-5.26038122857,-1.8683638908,0.000999500249875,0.007996001999
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · implied_PS,-4.11502001499,-5.49320328923,-2.90768046119,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · gap_B365,-3.51419914368,-9.73297456783,2.69292365523,0.253873063468,0.761619190405
+covid_contrasts,S3 · SP1 · closed_minus_pre,Secundaria 3 · complementaria,SP1 · closed_minus_pre · gap_PS,-1.21183649529,-5.16772801004,2.63377522946,0.551724137931,0.761619190405
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · home_win,-4.77103695089,-8.28672316041,-1.25946782324,0.00999500249875,0.0699650174913
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · points_diff,-0.208411956346,-0.417801475435,-0.00426664134649,0.0484757621189,0.242378810595
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · goal_diff,-0.156919980386,-0.282223543834,-0.0291670770548,0.0149925037481,0.0899550224888
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · shots_diff,-1.70565597907,-2.33497173991,-1.04602078667,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · cards_diff,-0.177291363406,-0.371997594291,0.0270154641908,0.0819590204898,0.327836081959
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · fouls_diff,-0.124464400784,-0.57188972821,0.314343645689,0.581209395302,0.80059970015
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · implied_B365,-2.7537628957,-4.06087266392,-1.53990832791,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · implied_PS,-3.32704772791,-4.60959526562,-2.20239431738,0.000499750124938,0.00499750124938
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · gap_B365,-2.05692461502,-5.8089457101,1.49216772838,0.258870564718,0.776611694153
+covid_contrasts,S3 · SP1 · closed_minus_with_fans,Secundaria 3 (público local),SP1 · closed_minus_with_fans · gap_PS,-1.46243586911,-4.83246438411,1.79237171584,0.400299850075,0.80059970015
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · home_win,-0.872828470231,-4.73605106765,2.86129306745,0.652173913043,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · points_diff,-0.0552670891261,-0.244062086311,0.135405609299,0.578210894553,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · goal_diff,-0.0527993960276,-0.179101599955,0.0708014412233,0.395802098951,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · shots_diff,-0.185472536122,-0.65610936427,0.289876713282,0.452773613193,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · cards_diff,-0.0416616469492,-0.182806090036,0.106035808779,0.598700649675,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · fouls_diff,-0.23678208001,-0.634643417487,0.180737552587,0.251874062969,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · implied_B365,-0.842463706593,-2.26077281657,0.589539112888,0.230384807596,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · implied_PS,-1.34584798345,-2.19117210048,-0.486825749929,0.00449775112444,0.0449775112444
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · gap_B365,-1.72725169685,-7.56393255,4.24233583158,0.569215392304,1
+covid_contrasts,S3 · SP1 · post_minus_pre,Secundaria 3 · complementaria,SP1 · post_minus_pre · gap_PS,0.428020969055,-3.19095526282,4.08407246073,0.825087456272,1
+covid_strength_adjusted,S3 · Ajustado por fuerza,Secundaria 3 (público local),E0 · points_diff · HA_closed_minus_with_fans,-0.395820594246,-0.617584755847,-0.190741526988,0.000499750124938,0.00299850074963
+covid_strength_adjusted,S3 · Ajustado por fuerza,Secundaria 3 (público local),E0 · goal_diff · HA_closed_minus_with_fans,-0.222664132276,-0.389248117386,-0.0819764389507,0.007996001999,0.031984007996
+covid_strength_adjusted,S3 · Ajustado por fuerza,Secundaria 3 (público local),SP1 · points_diff · HA_closed_minus_with_fans,-0.210483143372,-0.402268543088,-0.0314053195474,0.0254872563718,0.0764617691154
+covid_strength_adjusted,S3 · Ajustado por fuerza,Secundaria 3 (público local),SP1 · goal_diff · HA_closed_minus_with_fans,-0.15930842819,-0.276658892361,-0.0521065493306,0.00449775112444,0.0224887556222
+covid_strength_adjusted,S3 · Ajustado por fuerza,Secundaria 3 (público local),E0−SP1 · points_diff · difference_between_leagues,-0.185337450874,-0.46982336617,0.106735359368,0.213893053473,0.427786106947
+covid_strength_adjusted,S3 · Ajustado por fuerza,Secundaria 3 (público local),E0−SP1 · goal_diff · difference_between_leagues,-0.0633557040853,-0.255802220513,0.124698295308,0.52123938031,0.52123938031
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),home_win,-1.57966379233,-7.06008983281,3.592664128,0.542728635682,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),points_diff,-0.208199217275,-0.523190744201,0.0891357461458,0.178410794603,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),goal_diff,-0.0787455917282,-0.29319380042,0.12170737601,0.457771114443,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),shots_diff,0.314700771528,-0.783194949775,1.46451743414,0.582208895552,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),cards_diff,-0.0682586683585,-0.313649358398,0.174911520353,0.566216891554,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),fouls_diff,-0.810797220226,-1.45829805163,-0.187068910588,0.0114942528736,0.114942528736
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),implied_B365,-0.472896049054,-2.33394123928,1.45029410521,0.623688155922,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),implied_PS,-0.129908599206,-1.87967433979,1.63532189155,0.891054472764,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),gap_B365,-0.475423637288,-5.8140253388,4.65434194589,0.854572713643,1
+covid_league_difference,S3 · Premier − LaLiga,Secundaria 3 (público local),gap_PS,-1.431308547,-6.42577709257,3.32336698413,0.584207896052,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.1 · 0.5,2.03952686282,-3.8092644079,7.4973790709,0.496751624188,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.1 · 0.55,1.17698808044,-4.80487245068,7.19096451088,0.714142928536,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.1 · 0.6,0.567370948831,-5.92042733595,6.63366984147,0.868565717141,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.1 · 0.65,0.494957531354,-6.36263866971,7.35266560257,0.895052473763,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.1 · 0.7,0.172618387634,-8.21763301503,7.76898059727,0.966016991504,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.15 · 0.5,1.74991052434,-3.71059605373,6.93677889171,0.513743128436,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.15 · 0.55,0.887371741957,-5.03771407128,6.3429299173,0.765117441279,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.15 · 0.6,0.277754610351,-6.25224421779,6.25545672129,0.930034982509,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.15 · 0.65,0.205341192874,-6.59703464503,6.73446318778,0.964017991004,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.15 · 0.7,-0.116997950846,-7.85609408708,7.27293581853,0.967516241879,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.2 · 0.5,0.798057189689,-4.6780111199,6.00065282091,0.76311844078,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.2 · 0.55,-0.0644815926911,-5.76618881082,5.35577101888,0.980509745127,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.2 · 0.6,-0.674098724297,-6.92541597711,5.03529370111,0.845077461269,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.2 · 0.65,-0.746512141774,-7.26905363188,5.43488554482,0.839580209895,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.2 · 0.7,-1.06885128549,-8.3884392261,5.85037366451,0.787106446777,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.25 · 0.5,1.46108973914,-3.97791185416,6.57331475328,0.574712643678,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.25 · 0.55,0.598550956764,-5.07065217639,5.79693626897,0.830084957521,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.25 · 0.6,-0.0110661748417,-5.86302265946,5.39173654194,0.996501749125,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.25 · 0.65,-0.0834795923191,-5.91767538667,5.68712829909,0.988505747126,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.25 · 0.7,-0.405818736039,-7.2456364579,6.15314214534,0.914542728636,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.3 · 0.5,1.76775645366,-3.00451853533,6.45125891365,0.459770114943,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.3 · 0.55,0.905217671283,-4.34681223877,5.63280445985,0.720139930035,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.3 · 0.6,0.295600539677,-5.11846179037,5.11188466274,0.908045977011,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.3 · 0.65,0.2231871222,-5.25958773447,5.33739580084,0.935032483758,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · power,Sensibilidad,E0 · B365 · power · 0.3 · 0.7,-0.0991520215198,-6.40672502093,5.96778297604,0.973513243378,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.1 · 0.5,5.28143897195,-0.561836790098,10.7439873111,0.0674662668666,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.1 · 0.55,4.60396919036,-1.40130537574,10.6260697425,0.127436281859,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.1 · 0.6,4.28129960581,-2.21981176907,10.3893189941,0.1984007996,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.1 · 0.65,4.42472180727,-2.47524685989,11.3016651638,0.218390804598,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.1 · 0.7,4.32938213649,-4.02718624091,11.8936123112,0.268865567216,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.15 · 0.5,4.91744065776,-0.562305898133,10.1358746,0.0699650174913,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.15 · 0.55,4.23997087617,-1.66654391974,9.73357294786,0.150424787606,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.15 · 0.6,3.91730129161,-2.52125332811,9.92730186219,0.218390804598,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.15 · 0.65,4.06072349308,-2.71522485046,10.6086825233,0.24187906047,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.15 · 0.7,3.96538382229,-3.76485362321,11.4143968062,0.312843578211,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.2 · 0.5,3.79746007509,-1.68998401238,9.00668248812,0.155422288856,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.2 · 0.55,3.1199902935,-2.59084335665,8.55420779954,0.291854072964,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.2 · 0.6,2.79732070894,-3.49655023615,8.50806205639,0.374812593703,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.2 · 0.65,2.94074291041,-3.54698546968,9.1404363604,0.382308845577,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.2 · 0.7,2.84540323962,-4.41966752786,9.78557678767,0.447776111944,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.25 · 0.5,4.24749060141,-1.19140578028,9.34342389867,0.110444777611,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.25 · 0.55,3.57002081982,-2.11415402788,8.76690833789,0.206896551724,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.25 · 0.6,3.24735123527,-2.59725098447,8.64779029005,0.263868065967,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.25 · 0.65,3.39077343674,-2.42218378799,9.17008195449,0.259370314843,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.25 · 0.7,3.29543376595,-3.55189615879,9.81755954848,0.342828585707,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.3 · 0.5,4.3404473747,-0.49262110324,9.02570510024,0.0749625187406,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.3 · 0.55,3.6629775931,-1.58747701863,8.39239848098,0.146926536732,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.3 · 0.6,3.34030800855,-2.06719944556,8.15746627481,0.208395802099,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.3 · 0.65,3.48373021002,-1.99763681365,8.58026449025,0.19940029985,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · B365 · proportional,Sensibilidad,E0 · B365 · proportional · 0.3 · 0.7,3.38839053923,-2.88443253962,9.45065000955,0.28335832084,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.1 · 0.5,1.63093189042,-3.88126867375,7.06447375865,0.592203898051,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.1 · 0.55,0.694216875016,-5.2292404506,6.59507515792,0.834082958521,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.1 · 0.6,0.295348674168,-6.08254840433,6.61657629733,0.936531734133,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.1 · 0.65,0.700305044742,-6.07242957407,7.5502234157,0.860569715142,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.1 · 0.7,1.33162582511,-6.23786086665,8.75203210458,0.738130934533,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.15 · 0.5,1.72229460674,-3.71283218421,6.84308835346,0.513743128436,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.15 · 0.55,0.78557959134,-5.26056275883,6.19091939861,0.777111444278,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.15 · 0.6,0.386711390491,-5.91586661806,6.43755137358,0.915042478761,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.15 · 0.65,0.791667761066,-5.83502193952,7.23555722832,0.820089955022,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.15 · 0.7,1.42298854144,-5.72531892502,8.33390135278,0.695652173913,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.2 · 0.5,1.28794074906,-4.245940037,6.51941836092,0.632183908046,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.2 · 0.55,0.351225733656,-5.34192273179,5.65753279385,0.912543728136,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.2 · 0.6,-0.0476424671934,-6.04400517158,5.58640989045,0.986506746627,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.2 · 0.65,0.357313903381,-5.93867989945,6.67385971332,0.919540229885,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.2 · 0.7,0.988634683752,-5.89632407376,7.44770116089,0.794102948526,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.25 · 0.5,1.54191551107,-4.06552905916,6.75379844494,0.564217891054,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.25 · 0.55,0.605200495664,-5.21345262345,5.98083945177,0.817591204398,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.25 · 0.6,0.206332294815,-5.78277426923,5.65342671841,0.941029485257,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.25 · 0.65,0.61128866539,-5.1624214588,6.37985808925,0.847576211894,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.25 · 0.7,1.24260944576,-5.20163843395,7.32555158466,0.724637681159,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.3 · 0.5,1.73451096874,-3.33574314916,6.51946313655,0.481259370315,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.3 · 0.55,0.797795953338,-4.51966324739,5.65390660526,0.744127936032,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.3 · 0.6,0.398927752489,-4.73913448931,5.26612209002,0.889055472264,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.3 · 0.65,0.803884123064,-4.40852093146,5.86622461288,0.767116441779,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · power,Sensibilidad,E0 · PS · power · 0.3 · 0.7,1.43520490343,-4.42833780841,7.13705287864,0.651674162919,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.1 · 0.5,3.46402718807,-2.05101836908,8.91109091229,0.238380809595,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.1 · 0.55,2.65072880131,-3.27058618835,8.55270926516,0.389305347326,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.1 · 0.6,2.43050503981,-3.94812111375,8.7606360715,0.47976011994,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.1 · 0.65,2.98200289245,-3.77708145263,9.80060226899,0.416791604198,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.1 · 0.7,3.76785893334,-3.82738007688,11.1802140384,0.332833583208,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.15 · 0.5,3.50182387438,-1.99014318776,8.63466693012,0.200899550225,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.15 · 0.55,2.68852548762,-3.35762736891,8.08414229209,0.35832083958,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.15 · 0.6,2.46830172613,-3.85486396678,8.51163644302,0.451274362819,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.15 · 0.65,3.01979957876,-3.59420387827,9.46767668294,0.381809095452,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.15 · 0.7,3.80565561965,-3.33435705818,10.7427084292,0.293353323338,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.2 · 0.5,2.9450009203,-2.58985452097,8.16938665408,0.27736131934,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.2 · 0.55,2.13170253354,-3.58366023693,7.4198177555,0.458770614693,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.2 · 0.6,1.91147877204,-4.05729301329,7.53661199445,0.550224887556,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.2 · 0.65,2.46297662467,-3.84702237897,8.78890352591,0.475762118941,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.2 · 0.7,3.24883266557,-3.59601161271,9.72931539853,0.355822088956,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.25 · 0.5,3.068726814,-2.54017253545,8.27775103163,0.256871564218,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.25 · 0.55,2.25542842724,-3.54087372814,7.64480027204,0.430284857571,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.25 · 0.6,2.03520466574,-3.97162530443,7.48579714211,0.484257871064,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.25 · 0.65,2.58670251837,-3.21051968096,8.36853330571,0.40379810095,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.25 · 0.7,3.37255855927,-3.09530979027,9.45243877916,0.300849575212,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.3 · 0.5,3.13967987437,-1.93258845118,7.94553811058,0.2003998001,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.3 · 0.55,2.32638148761,-2.98476211218,7.19291845525,0.353323338331,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.3 · 0.6,2.10615772612,-3.01133906716,6.99907293218,0.429285357321,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.3 · 0.65,2.65765557875,-2.55122461358,7.71191657656,0.343828085957,1
+robust_umbrales,R · Matriz de 25 umbrales · E0 · PS · proportional,Sensibilidad,E0 · PS · proportional · 0.3 · 0.7,3.44351161964,-2.41623609195,9.16261841564,0.254872563718,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.1 · 0.5,5.37600711201,-0.494949523261,10.8473366381,0.0634682658671,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.1 · 0.55,5.61697432252,-0.760293576421,11.3350126227,0.0664667666167,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.1 · 0.6,6.22028550007,-1.3253670068,13.366953655,0.101449275362,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.1 · 0.65,9.9707407971,2.13246976728,17.1696677811,0.0104947526237,0.230884557721
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.1 · 0.7,8.238714373,-1.54072850365,16.9862610342,0.0819590204898,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.15 · 0.5,6.20351261055,1.0421521666,11.0384160334,0.0174912543728,0.367316341829
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.15 · 0.55,6.44447982105,0.686539002272,11.6787834396,0.0254872563718,0.484257871064
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.15 · 0.6,7.0477909986,0.0896807853703,13.8144746139,0.0454772613693,0.773113443278
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.15 · 0.65,10.7982462956,3.77095969585,17.3838062918,0.00249875062469,0.0624687656172
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.15 · 0.7,9.06621987154,0.142689595255,17.2209915891,0.0329835082459,0.593703148426
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.2 · 0.5,4.44334217422,-1.05588258416,10.0662324132,0.12043978011,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.2 · 0.55,4.68430938472,-1.47280791361,10.6179549378,0.12243878061,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.2 · 0.6,5.28762056227,-2.0097286317,12.6263449572,0.150924537731,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.2 · 0.65,9.0380758593,1.67426291138,16.1797812805,0.0174912543728,0.367316341829
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.2 · 0.7,7.30604943521,-1.34419432568,15.6198645151,0.0949525237381,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.25 · 0.5,4.44531261348,-0.742486451737,9.85206478727,0.112443778111,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.25 · 0.55,4.68627982398,-1.24135911559,10.4670160255,0.114942528736,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.25 · 0.6,5.28959100153,-1.79971980074,12.3878522943,0.134432783608,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.25 · 0.65,9.04004629856,2.33214754334,15.6828046412,0.007996001999,0.191904047976
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.25 · 0.7,7.30801987447,-0.73318189124,14.9556316222,0.0709645177411,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.3 · 0.5,3.90136772798,-0.994799528378,9.05226067921,0.129435282359,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.3 · 0.55,4.14233493849,-1.3409816833,9.50802740275,0.125437281359,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.3 · 0.6,4.74564611604,-1.95855174945,11.543504338,0.168415792104,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.3 · 0.65,8.49610141307,2.05259667403,14.985521094,0.00849575212394,0.195402298851
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · power,Sensibilidad,SP1 · B365 · power · 0.3 · 0.7,6.76407498897,-0.949194735717,14.331443776,0.0874562718641,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.1 · 0.5,8.39927273309,2.53688878442,13.8859429744,0.00499750124938,0.07996001999
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.1 · 0.55,8.83510450547,2.44735844956,14.5413913781,0.00649675162419,0.0974512743628
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.1 · 0.6,9.77403957952,2.19169606096,16.9104867816,0.00999500249875,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.1 · 0.65,13.7553651035,5.82113095019,20.9848201032,0.000999500249875,0.023988005997
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.1 · 0.7,12.2175903262,2.46299524876,20.9131729558,0.0119940029985,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.15 · 0.5,9.20429866552,4.04205790189,14.0692557837,0.00149925037481,0.0284857571214
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.15 · 0.55,9.6401304379,3.88029699976,14.8852714989,0.000999500249875,0.023988005997
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.15 · 0.6,10.5790655119,3.64893560998,17.3717069868,0.00349825087456,0.0594702648676
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.15 · 0.65,14.5603910359,7.5780782643,21.1754653535,0.000499750124938,0.0124937531234
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.15 · 0.7,13.0226162586,4.14106142673,21.1753796653,0.00299850074963,0.0539730134933
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.2 · 0.5,7.29014601823,1.81001047754,12.881636881,0.00849575212394,0.118940529735
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.2 · 0.55,7.72597779061,1.58134042265,13.6486427755,0.0129935032484,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.2 · 0.6,8.66491286466,1.37511545666,15.9901045615,0.0204897551224,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.2 · 0.65,12.6462383887,5.27130771915,19.8005364656,0.000999500249875,0.023988005997
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.2 · 0.7,11.1084636113,2.49373116156,19.4085296078,0.0114942528736,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.25 · 0.5,7.12152935578,1.97723011953,12.5495193561,0.0114942528736,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.25 · 0.55,7.55736112816,1.64088515112,13.3469680066,0.0129935032484,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.25 · 0.6,8.49629620221,1.38996096672,15.5486596137,0.0209895052474,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.25 · 0.65,12.4776217262,5.74626323857,19.1042290674,0.000999500249875,0.023988005997
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.25 · 0.7,10.9398469489,2.85334400417,18.5801854334,0.00949525237381,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.3 · 0.5,6.33412392784,1.45816124028,11.443255654,0.0144927536232,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.3 · 0.55,6.76995570022,1.28410806843,12.1148820929,0.0144927536232,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.3 · 0.6,7.70889077427,0.999019631585,14.5109721367,0.0214892553723,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.3 · 0.65,11.6902162983,5.25216125316,18.2036475501,0.000999500249875,0.023988005997
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · B365 · proportional,Sensibilidad,SP1 · B365 · proportional · 0.3 · 0.7,10.1524415209,2.43408082769,17.707834265,0.0104947526237,0.12343828086
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.1 · 0.5,4.78355144167,-0.868829761362,10.3553097377,0.0944527736132,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.1 · 0.55,5.02017248396,-1.47667382334,10.6738863256,0.0999500249875,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.1 · 0.6,7.05627611696,-0.307588981287,14.23553831,0.0599700149925,0.989505247376
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.1 · 0.65,8.83939325803,1.79894830488,15.8246435071,0.0149925037481,0.359820089955
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.1 · 0.7,8.40264847212,-0.233376013939,17.0139507539,0.0569715142429,0.989505247376
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.15 · 0.5,4.84013090306,-0.518860030751,9.97850075785,0.0754622688656,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.15 · 0.55,5.07675194535,-1.05376153515,10.8093730622,0.0849575212394,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.15 · 0.6,7.11285557835,0.189925818201,14.0840192502,0.0464767616192,0.929535232384
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.15 · 0.65,8.89597271942,2.03276911941,15.7660351538,0.0129935032484,0.324837581209
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.15 · 0.7,8.45922793351,0.0206617708304,16.5946723368,0.0464767616192,0.929535232384
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.2 · 0.5,4.3796299314,-1.11453528546,9.99360701556,0.139430284858,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.2 · 0.55,4.61625097369,-1.63392991919,10.5279108946,0.127436281859,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.2 · 0.6,6.65235460669,-0.556338952021,13.87996312,0.0694652673663,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.2 · 0.65,8.43547174776,1.64979390754,15.8176476324,0.0249875062469,0.549725137431
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.2 · 0.7,7.99872696185,-0.197640441875,16.0411178221,0.0549725137431,0.989505247376
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.25 · 0.5,3.38351455507,-2.1583695713,9.20769860583,0.251874062969,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.25 · 0.55,3.62013559736,-2.59736894943,9.57294932579,0.227886056972,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.25 · 0.6,5.65623923035,-1.57095190363,12.8743078673,0.11944027986,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.25 · 0.65,7.43935637142,0.899466369463,14.4376754982,0.0329835082459,0.692653673163
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.25 · 0.7,7.00261158551,-0.688898624791,14.542036957,0.0794602698651,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.3 · 0.5,3.25391743524,-1.72968875933,8.62696141144,0.229385307346,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.3 · 0.55,3.49053847753,-1.97819480326,8.84380841137,0.2023988006,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.3 · 0.6,5.52664211052,-1.12746701374,12.183308906,0.101949025487,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.3 · 0.65,7.30975925159,1.51575367248,13.6056488289,0.0214892553723,0.494252873563
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · power,Sensibilidad,SP1 · PS · power · 0.3 · 0.7,6.87301446568,-0.588462700326,14.2320245825,0.0709645177411,1
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.1 · 0.5,6.4724338787,0.819220156714,12.0217595864,0.0234882558721,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.1 · 0.55,6.84463906621,0.348444068551,12.502765547,0.0284857571214,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.1 · 0.6,9.0883771028,1.73662396057,16.2612104624,0.0134932533733,0.229385307346
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.1 · 0.65,11.0185027053,4.03008828328,17.9617841801,0.00149925037481,0.0374812593703
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.1 · 0.7,10.7496918803,2.13987704262,19.3366087819,0.0114942528736,0.218390804598
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.15 · 0.5,6.490827224,1.16186195911,11.6232151564,0.0179910044978,0.269865067466
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.15 · 0.55,6.86303241151,0.746940688998,12.5731161982,0.0219890054973,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.15 · 0.6,9.1067704481,2.15970841524,16.1049338101,0.00849575212394,0.178410794603
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.15 · 0.65,11.0368960506,4.21942735054,17.8950230818,0.00349825087456,0.0839580209895
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.15 · 0.7,10.7680852256,2.33915923713,18.9075042691,0.0119940029985,0.218390804598
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.2 · 0.5,5.92105961719,0.405430958265,11.5268794058,0.0364817591204,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.2 · 0.55,6.2932648047,0.0278138239838,12.2193856033,0.0434782608696,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.2 · 0.6,8.5370028413,1.33698159274,15.7240715398,0.0214892553723,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.2 · 0.65,10.4671284438,3.68017757285,17.8089860347,0.00749625187406,0.164917541229
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.2 · 0.7,10.1983176188,2.00734428662,18.2776931353,0.0144927536232,0.231884057971
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.25 · 0.5,4.81576358146,-0.694445708612,10.6289018304,0.106946526737,0.301849075462
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.25 · 0.55,5.18796876897,-1.01435156103,11.1253197136,0.0919540229885,0.301849075462
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.25 · 0.6,7.43170680556,0.212899173789,14.6198691201,0.0449775112444,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.25 · 0.65,9.36183240802,2.85380636376,16.3496928174,0.00949525237381,0.189905047476
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.25 · 0.7,9.09302158305,1.4228505219,16.6443360787,0.0224887556222,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.3 · 0.5,4.56012343574,-0.395660288792,9.93163464718,0.0949525237381,0.301849075462
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.3 · 0.55,4.93232862325,-0.567958066827,10.264963707,0.0754622688656,0.301849075462
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.3 · 0.6,7.17606665984,0.526708362062,13.8512212518,0.0334832583708,0.27936031984
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.3 · 0.65,9.1061922623,3.29635212294,15.4410980117,0.00599700149925,0.137931034483
+robust_umbrales,R · Matriz de 25 umbrales · SP1 · PS · proportional,Sensibilidad,SP1 · PS · proportional · 0.3 · 0.7,8.83738143733,1.4001549213,16.2180944356,0.0184907546227,0.269865067466
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,E0 · B365 · power − proportional,-0.000977886440941,-0.00279806429599,0.00097227169462,0.328335832084,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,E0 · B365 · power − additive,-5.25152245322e-05,-0.000503431059703,0.000421203275988,0.830584707646,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,E0 · B365 · power − shin,-0.000181249347794,-0.000842191227029,0.000550227050629,0.610194902549,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,E0 · PS · power − proportional,-0.000495422356304,-0.00155580502574,0.000615576937054,0.390304847576,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,E0 · PS · power − additive,-2.72777331643e-05,-0.00026644232303,0.000223560659356,0.835082458771,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,E0 · PS · power − shin,-0.000112072802183,-0.000478709463393,0.000281614557957,0.570714642679,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,SP1 · B365 · power − proportional,-0.00212381798033,-0.00391216150586,-0.000455315461224,0.0219890054973,0.263868065967
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,SP1 · B365 · power − additive,-0.000134158881075,-0.000438937155108,0.000165273196706,0.381309345327,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,SP1 · B365 · power − shin,-0.000553629328481,-0.00111768996235,-6.68981139456e-06,0.0514742628686,0.56071964018
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,SP1 · PS · power − proportional,-0.000991295940561,-0.00200978755669,-1.56525497816e-05,0.0509745127436,0.56071964018
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,SP1 · PS · power − additive,-6.78227594245e-05,-0.000249798351555,0.000112374648047,0.449275362319,1
+robust_metodos_puntaje,R · Potencia − otros métodos (log_loss),Sensibilidad,SP1 · PS · power − shin,-0.00026643397312,-0.000580362560697,4.34560112544e-05,0.0904547726137,0.814092953523
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,E0 · B365 · power − proportional,-0.000246345848011,-0.000689530549163,0.00024243950984,0.311344327836,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,E0 · B365 · power − additive,-5.98060870079e-06,-4.06274732631e-05,3.1366232486e-05,0.75712143928,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,E0 · B365 · power − shin,-4.36877157926e-05,-0.000180492103859,0.000107425794116,0.561219390305,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,E0 · PS · power − proportional,-0.000115365214266,-0.000366923100034,0.000148824432085,0.389805097451,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,E0 · PS · power − additive,-2.88585043644e-06,-1.97163041911e-05,1.43386144717e-05,0.743128435782,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,E0 · PS · power − shin,-2.3767113622e-05,-9.70392654715e-05,5.5122188033e-05,0.551224387806,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,SP1 · B365 · power − proportional,-0.000562696275123,-0.000989139680039,-0.000156473255714,0.007996001999,0.095952023988
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,SP1 · B365 · power − additive,-2.31779828655e-05,-4.91483099494e-05,2.49304100783e-06,0.0839580209895,0.671664167916
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,SP1 · B365 · power − shin,-0.000142792997695,-0.000264971974156,-2.6231556292e-05,0.0269865067466,0.28035982009
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,SP1 · PS · power − proportional,-0.000261284989912,-0.000486655709201,-3.81754316291e-05,0.0254872563718,0.28035982009
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,SP1 · PS · power − additive,-6.62674350717e-06,-1.96489736108e-05,6.68366157954e-06,0.345827086457,1
+robust_metodos_puntaje,R · Potencia − otros métodos (rps),Sensibilidad,SP1 · PS · power − shin,-6.53102829891e-05,-0.000127760551302,-4.0589957457e-06,0.0404797601199,0.364317841079
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · B365 · proportional,1.98456235709,,,0.710144927536,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · B365 · power,1.65081775005,,,0.893553223388,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · B365 · additive,1.78004006889,,,0.840579710145,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · B365 · shin,1.82174299982,,,0.805597201399,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · PS · proportional,1.67704607634,,,0.880059970015,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · PS · power,1.5659783354,,,0.924037981009,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · PS · additive,1.50744994535,,,0.948525737131,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),E0 · PS · shin,1.54176192597,,,0.941029485257,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · B365 · proportional,2.8478339658,,,0.168915542229,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · B365 · power,2.41039302669,,,0.407796101949,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · B365 · additive,2.40592102731,,,0.406796601699,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · B365 · shin,2.53389976668,,,0.336831584208,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · PS · proportional,2.45594664654,,,0.392803598201,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · PS · power,2.13639807903,,,0.627186406797,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · PS · additive,2.14078555861,,,0.593203398301,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (5 grupos),Principal (diagnóstico),SP1 · PS · shin,2.19445141556,,,0.56171914043,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · B365 · proportional,2.83142906874,,,0.795602198901,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · B365 · power,2.58704467482,,,0.901549225387,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · B365 · additive,2.76865478617,,,0.817091454273,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · B365 · shin,2.73997319011,,,0.84207896052,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · PS · proportional,2.74795243613,,,0.830084957521,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · PS · power,2.61867236563,,,0.891054472764,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · PS · additive,2.60735376149,,,0.889055472264,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),E0 · PS · shin,2.62814026061,,,0.893053473263,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · B365 · proportional,3.39250125792,,,0.418790604698,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · B365 · power,2.9849145977,,,0.713143428286,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · B365 · additive,2.94469113627,,,0.739130434783,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · B365 · shin,3.07800432571,,,0.653673163418,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · PS · proportional,3.18215088074,,,0.582708645677,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · PS · power,2.87023303174,,,0.815092453773,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · PS · additive,2.88087315875,,,0.770114942529,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (10 grupos),Principal (diagnóstico),SP1 · PS · shin,2.92217876022,,,0.758620689655,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · B365 · proportional,3.57705663713,,,0.786606696652,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · B365 · power,3.329793386,,,0.896551724138,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · B365 · additive,3.3914542563,,,0.869565217391,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · B365 · shin,3.44718455861,,,0.859070464768,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · PS · proportional,3.72371119224,,,0.684157921039,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · PS · power,3.62656089014,,,0.712143928036,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · PS · additive,3.54840763465,,,0.765117441279,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),E0 · PS · shin,3.65289806237,,,0.72163918041,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · B365 · proportional,4.05512633385,,,0.484257871064,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · B365 · power,3.88308176745,,,0.581709145427,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · B365 · additive,3.75353394953,,,0.714642678661,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · B365 · shin,3.84520841136,,,0.626686656672,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · PS · proportional,4.51582686847,,,0.160419790105,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · PS · power,4.08394163764,,,0.433783108446,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · PS · additive,4.0543820039,,,0.455772113943,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (15 grupos),Principal (diagnóstico),SP1 · PS · shin,4.13788394988,,,0.395802098951,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · B365 · proportional,4.32558504631,,,0.700649675162,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · B365 · power,3.98990637522,,,0.88355822089,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · B365 · additive,4.04454279562,,,0.857571214393,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · B365 · shin,4.0672081676,,,0.845077461269,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · PS · proportional,4.16374180419,,,0.792103948026,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · PS · power,4.05744763452,,,0.84307846077,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · PS · additive,4.10100169542,,,0.813593203398,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),E0 · PS · shin,4.14278294788,,,0.79860069965,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · B365 · proportional,4.50787206692,,,0.632183908046,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · B365 · power,4.28592311827,,,0.764617691154,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · B365 · additive,4.18040473434,,,0.834082958521,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · B365 · shin,4.25180740882,,,0.792603698151,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · PS · proportional,4.68001350874,,,0.463768115942,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · PS · power,4.25199424533,,,0.80059970015,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · PS · additive,4.28691245391,,,0.755622188906,1
+robust_ece_nulo,R · ECE frente a calibración perfecta (20 grupos),Principal (diagnóstico),SP1 · PS · shin,4.35870563441,,,0.727136431784,1

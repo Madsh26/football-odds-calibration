@@ -9,3 +9,6 @@ reports/figures/* linguist-generated=true
 reports/tables/* linguist-generated=true
 reports/findings.md linguist-generated=true
 data/processed/* linguist-generated=true
+
+# Whitespace in Matplotlib SVG path attributes is valid.
+*.svg -whitespace

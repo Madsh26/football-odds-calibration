@@ -1,0 +1,10 @@
+decision,alcance,justificacion
+Casas de apuestas,"Bet365 y Pinnacle, cuotas de cierre (B365CH/CD/CA y PSCH/CD/CA)",Dos modelos de negocio contrastantes (margen alto de mercado masivo y margen bajo de referencia) con cobertura completa en la ventana común; permiten comparar casas sobre los mismos partidos.
+Momento de la cuota,Solo cierre,La cuota de cierre incorpora toda la información previa al partido. Las columnas sin C son previas al cierre y no se asumen como apertura.
+Ligas,Premier League (E0) y LaLiga (SP1),Dos ligas grandes comparables; no se mezclan en la inferencia principal.
+Temporadas de la calibración,"2022/23, 2023/24 y 2024/25",Temporadas completas posteriores a la pandemia y anteriores al corte de calidad de Pinnacle.
+Pinnacle desde el 23/07/2025,Excluida (2025/26 en adelante),Football-Data advierte que sus cuotas quedaron desactualizadas por su API; incluirlas mediría un artefacto de recolección.
+Temporada 2026/27,Excluida,Incompleta al momento del análisis.
+Temporadas 2017/18–2021/22,Solo para la secundaria 3,Contienen el periodo de la pandemia; en la calibración mezclarían la anomalía de puerta cerrada con la pregunta principal.
+Partidos con aforo mínimo o parcial,Fuera del contraste principal de la secundaria 3,No son ni con público pleno ni sin público; se reincorporan en un análisis de sensibilidad.
+Imputación,Ninguna,Las cuotas ausentes no se rellenan ni se sustituyen por cuotas previas al cierre.

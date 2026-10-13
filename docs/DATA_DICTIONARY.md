@@ -33,7 +33,7 @@ Una fila por partido × operador. `index` alinea las matrices internas; no susti
 
 Los archivos CSV están codificados UTF-8. Ningún valor ausente debe interpretarse como cero. Las referencias de puntuación se repiten por operador para facilitar lectura, pero son la misma referencia en los partidos comunes.
 
-## Público local y pandemia (`data/processed/covid_matches.csv`)
+## Pregunta del público local (`data/processed/covid_matches.csv`)
 
 Una fila por partido de E0/SP1 2017/18–2024/25. Usa además `HS/AS` (remates), `HF/AF` (faltas) y `HY/AY` (amarillas) de Football-Data, solo como medidas de resultado de esta pregunta, nunca como predictores.
 

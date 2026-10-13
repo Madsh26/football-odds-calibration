@@ -82,7 +82,7 @@ El agregado de las tres temporadas es el análisis principal. Los estratos anual
 
 Regresión de calibración `logit(P(y=1))=a+b*logit(q)`, con covarianza sandwich por partido al agrupar H/D/A. No incorpora dependencia entre partidos. Hosmer–Lemeshow usa número efectivo de grupos como grados de libertad para predicciones externas; Spiegelhalter evalúa una función del error. Son aproximaciones con independencia entre partidos y se exportan como diagnósticos con valores p sin ajuste: no se usan para proclamar hallazgos confirmatorios. La inferencia principal utiliza bloques.
 
-## Análisis de público local (COVID-19)
+## Pregunta secundaria 3: público local (COVID-19)
 
 **Pregunta.** ¿Se redujo la ventaja de local cuando se jugó sin público, por qué canales y lo incorporó el mercado?
 

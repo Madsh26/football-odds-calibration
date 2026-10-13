@@ -85,5 +85,15 @@
       "2017-18",
       "2018-19"
     ]
+  },
+  "provenance": {
+    "raw": {
+      "obtained": "2026-09-29",
+      "basis": "marca de tiempo de los archivos entregados por el equipo; fecha exacta de descarga no registrada"
+    },
+    "raw_covid": {
+      "obtained": "2026-10-01",
+      "basis": "fecha en que el equipo entregó los archivos al análisis; fecha exacta de descarga no registrada"
+    }
   }
 }
